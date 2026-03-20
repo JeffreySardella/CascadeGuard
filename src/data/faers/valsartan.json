@@ -1,0 +1,206 @@
+{
+  "drug": "valsartan",
+  "fetchedAt": "2026-03-20T06:04:48Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 15088
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 15053
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 14952
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 14748
+    },
+    {
+      "term": "DEATH",
+      "count": 12938
+    },
+    {
+      "term": "COUGH",
+      "count": 11212
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 9973
+    },
+    {
+      "term": "MALAISE",
+      "count": 9002
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 8531
+    },
+    {
+      "term": "WRONG TECHNIQUE IN PRODUCT USAGE PROCESS",
+      "count": 8386
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 8037
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 8023
+    },
+    {
+      "term": "NAUSEA",
+      "count": 8006
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 7771
+    },
+    {
+      "term": "HEADACHE",
+      "count": 7283
+    },
+    {
+      "term": "FALL",
+      "count": 7263
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 7062
+    },
+    {
+      "term": "PAIN",
+      "count": 6306
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 6023
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 5553
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 5250
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 5243
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 5115
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 5029
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4929
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 4854
+    },
+    {
+      "term": "BLOOD PRESSURE DECREASED",
+      "count": 4800
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 4702
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 4651
+    },
+    {
+      "term": "VOMITING",
+      "count": 4638
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 4433
+    },
+    {
+      "term": "PRURITUS",
+      "count": 4303
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 4280
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 4046
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4019
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 3920
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 3892
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 3854
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 3768
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 3764
+    },
+    {
+      "term": "RASH",
+      "count": 3754
+    },
+    {
+      "term": "CARDIAC DISORDER",
+      "count": 3725
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3599
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 3538
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 3453
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 3440
+    },
+    {
+      "term": "PYREXIA",
+      "count": 3428
+    },
+    {
+      "term": "ANXIETY",
+      "count": 3421
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF PRODUCT ADMINISTRATION",
+      "count": 3371
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 3347
+    }
+  ]
+}

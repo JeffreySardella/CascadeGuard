@@ -1,0 +1,206 @@
+{
+  "drug": "ferrous sulfate",
+  "fetchedAt": "2026-03-20T06:07:34Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 3325
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3100
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2746
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2724
+    },
+    {
+      "term": "DEATH",
+      "count": 2345
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2306
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 2070
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1967
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1944
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1922
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1919
+    },
+    {
+      "term": "PAIN",
+      "count": 1891
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1857
+    },
+    {
+      "term": "VOMITING",
+      "count": 1780
+    },
+    {
+      "term": "FALL",
+      "count": 1771
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1507
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1458
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1390
+    },
+    {
+      "term": "MALAISE",
+      "count": 1337
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1313
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1289
+    },
+    {
+      "term": "COUGH",
+      "count": 1273
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1253
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1229
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1191
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1175
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1149
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1111
+    },
+    {
+      "term": "GASTROINTESTINAL HAEMORRHAGE",
+      "count": 1097
+    },
+    {
+      "term": "HAEMOGLOBIN DECREASED",
+      "count": 1094
+    },
+    {
+      "term": "RASH",
+      "count": 1077
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1072
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1044
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 990
+    },
+    {
+      "term": "ANXIETY",
+      "count": 985
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 931
+    },
+    {
+      "term": "PRURITUS",
+      "count": 912
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 892
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 858
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 852
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 808
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 786
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 761
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 746
+    },
+    {
+      "term": "COVID-19",
+      "count": 722
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 703
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 703
+    },
+    {
+      "term": "SEPSIS",
+      "count": 695
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 689
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 688
+    }
+  ]
+}

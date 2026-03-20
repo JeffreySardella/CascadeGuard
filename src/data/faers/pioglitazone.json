@@ -1,0 +1,206 @@
+{
+  "drug": "pioglitazone",
+  "fetchedAt": "2026-03-20T06:03:45Z",
+  "results": [
+    {
+      "term": "BLADDER CANCER",
+      "count": 8852
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 3553
+    },
+    {
+      "term": "NAUSEA",
+      "count": 3091
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2193
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1779
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1590
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1582
+    },
+    {
+      "term": "DEATH",
+      "count": 1580
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1537
+    },
+    {
+      "term": "VOMITING",
+      "count": 1527
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1497
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1463
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1376
+    },
+    {
+      "term": "BLOOD GLUCOSE DECREASED",
+      "count": 1261
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1233
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1173
+    },
+    {
+      "term": "FALL",
+      "count": 1084
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 1056
+    },
+    {
+      "term": "PAIN",
+      "count": 1012
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 982
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 925
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 887
+    },
+    {
+      "term": "HYPOGLYCAEMIA",
+      "count": 870
+    },
+    {
+      "term": "MALAISE",
+      "count": 828
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 801
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 791
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 772
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 762
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 740
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 718
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 694
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 690
+    },
+    {
+      "term": "ANXIETY",
+      "count": 684
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 682
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 675
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 665
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 656
+    },
+    {
+      "term": "PRURITUS",
+      "count": 613
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 612
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 611
+    },
+    {
+      "term": "RASH",
+      "count": 605
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 597
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 583
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 576
+    },
+    {
+      "term": "TREMOR",
+      "count": 564
+    },
+    {
+      "term": "BLADDER TRANSITIONAL CELL CARCINOMA",
+      "count": 559
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 557
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 540
+    },
+    {
+      "term": "PYREXIA",
+      "count": 539
+    },
+    {
+      "term": "INJECTION SITE PAIN",
+      "count": 535
+    }
+  ]
+}

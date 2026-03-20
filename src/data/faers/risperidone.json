@@ -1,0 +1,206 @@
+{
+  "drug": "risperidone",
+  "fetchedAt": "2026-03-20T06:02:58Z",
+  "results": [
+    {
+      "term": "GYNAECOMASTIA",
+      "count": 24608
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 12325
+    },
+    {
+      "term": "ABNORMAL WEIGHT GAIN",
+      "count": 9446
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 9087
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 7461
+    },
+    {
+      "term": "EMOTIONAL DISORDER",
+      "count": 5947
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 5946
+    },
+    {
+      "term": "INJURY",
+      "count": 4624
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4467
+    },
+    {
+      "term": "HYPERPROLACTINAEMIA",
+      "count": 4449
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 4297
+    },
+    {
+      "term": "GALACTORRHOEA",
+      "count": 3762
+    },
+    {
+      "term": "OBESITY",
+      "count": 3686
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 3520
+    },
+    {
+      "term": "EXTRAPYRAMIDAL DISORDER",
+      "count": 3423
+    },
+    {
+      "term": "ANXIETY",
+      "count": 3218
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3046
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 3015
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2990
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 2826
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 2773
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 2740
+    },
+    {
+      "term": "FALL",
+      "count": 2738
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 2724
+    },
+    {
+      "term": "PSYCHOTIC DISORDER",
+      "count": 2710
+    },
+    {
+      "term": "TREATMENT NONCOMPLIANCE",
+      "count": 2709
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 2642
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 2603
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 2574
+    },
+    {
+      "term": "TREMOR",
+      "count": 2518
+    },
+    {
+      "term": "SEDATION",
+      "count": 2444
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2428
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2425
+    },
+    {
+      "term": "AGITATION",
+      "count": 2372
+    },
+    {
+      "term": "DEATH",
+      "count": 2336
+    },
+    {
+      "term": "VOMITING",
+      "count": 2318
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 2213
+    },
+    {
+      "term": "NEUROLEPTIC MALIGNANT SYNDROME",
+      "count": 2190
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2155
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 2112
+    },
+    {
+      "term": "SCHIZOPHRENIA",
+      "count": 2106
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2047
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 2007
+    },
+    {
+      "term": "DYSKINESIA",
+      "count": 1969
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1961
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1871
+    },
+    {
+      "term": "TYPE 2 DIABETES MELLITUS",
+      "count": 1859
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 1784
+    },
+    {
+      "term": "TACHYCARDIA",
+      "count": 1732
+    },
+    {
+      "term": "TARDIVE DYSKINESIA",
+      "count": 1701
+    }
+  ]
+}

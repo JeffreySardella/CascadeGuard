@@ -1,0 +1,206 @@
+{
+  "drug": "magnesium oxide",
+  "fetchedAt": "2026-03-20T06:04:36Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 2909
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 2643
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2448
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2074
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2039
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1963
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1835
+    },
+    {
+      "term": "VOMITING",
+      "count": 1761
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1647
+    },
+    {
+      "term": "DEATH",
+      "count": 1608
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1594
+    },
+    {
+      "term": "PAIN",
+      "count": 1489
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1466
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1452
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1416
+    },
+    {
+      "term": "FALL",
+      "count": 1344
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1336
+    },
+    {
+      "term": "MALAISE",
+      "count": 1335
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1313
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1150
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1126
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1120
+    },
+    {
+      "term": "RASH",
+      "count": 1074
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1069
+    },
+    {
+      "term": "PLATELET COUNT DECREASED",
+      "count": 1035
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1030
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 940
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 935
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 908
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 907
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 888
+    },
+    {
+      "term": "COUGH",
+      "count": 837
+    },
+    {
+      "term": "SEPSIS",
+      "count": 834
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 829
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 828
+    },
+    {
+      "term": "ANXIETY",
+      "count": 819
+    },
+    {
+      "term": "PRURITUS",
+      "count": 791
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 771
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 758
+    },
+    {
+      "term": "WHITE BLOOD CELL COUNT DECREASED",
+      "count": 740
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 713
+    },
+    {
+      "term": "INTERSTITIAL LUNG DISEASE",
+      "count": 712
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 693
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 641
+    },
+    {
+      "term": "HAEMOGLOBIN DECREASED",
+      "count": 640
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 635
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 633
+    },
+    {
+      "term": "MALIGNANT NEOPLASM PROGRESSION",
+      "count": 610
+    },
+    {
+      "term": "HEPATIC FUNCTION ABNORMAL",
+      "count": 596
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 589
+    }
+  ]
+}

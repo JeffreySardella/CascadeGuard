@@ -1,0 +1,206 @@
+{
+  "drug": "loperamide",
+  "fetchedAt": "2026-03-20T06:07:06Z",
+  "results": [
+    {
+      "term": "DIARRHOEA",
+      "count": 9086
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 5238
+    },
+    {
+      "term": "NAUSEA",
+      "count": 4361
+    },
+    {
+      "term": "FATIGUE",
+      "count": 3898
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 3486
+    },
+    {
+      "term": "VOMITING",
+      "count": 2910
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2589
+    },
+    {
+      "term": "INCORRECT DOSE ADMINISTERED",
+      "count": 2183
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2111
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2032
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1988
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1865
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1855
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1787
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1749
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1688
+    },
+    {
+      "term": "PAIN",
+      "count": 1684
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1650
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1648
+    },
+    {
+      "term": "MALAISE",
+      "count": 1505
+    },
+    {
+      "term": "DEATH",
+      "count": 1422
+    },
+    {
+      "term": "COUGH",
+      "count": 1291
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1285
+    },
+    {
+      "term": "INTENTIONAL PRODUCT USE ISSUE",
+      "count": 1255
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1254
+    },
+    {
+      "term": "RASH",
+      "count": 1240
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1201
+    },
+    {
+      "term": "FALL",
+      "count": 1138
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1059
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 1007
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 939
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 934
+    },
+    {
+      "term": "EXPIRED PRODUCT ADMINISTERED",
+      "count": 914
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 904
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 895
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 882
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 871
+    },
+    {
+      "term": "PRURITUS",
+      "count": 867
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 844
+    },
+    {
+      "term": "ABDOMINAL DISTENSION",
+      "count": 841
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 810
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 805
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 799
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 794
+    },
+    {
+      "term": "FLATULENCE",
+      "count": 761
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 749
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 741
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 734
+    },
+    {
+      "term": "DYSPEPSIA",
+      "count": 729
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 718
+    }
+  ]
+}

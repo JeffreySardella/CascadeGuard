@@ -1,0 +1,21 @@
+{
+  "genericName": "dexamethasone",
+  "rxcui": "3264",
+  "drugClass": "Lipoxygenase Inhibitors",
+  "brandNames": [
+    "Tresaderm",
+    "Dexium",
+    "Maxitrol",
+    "Dexasone",
+    "Maxidex",
+    "Dexycu",
+    "Dextenza",
+    "Poly-Dex",
+    "Tobradex",
+    "Decadron",
+    "Hemady",
+    "Ciprodex",
+    "Ozurdex"
+  ],
+  "fetchedAt": "2026-03-20T06:03:05Z"
+}

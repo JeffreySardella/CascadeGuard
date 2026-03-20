@@ -1,0 +1,206 @@
+{
+  "drug": "ondansetron",
+  "fetchedAt": "2026-03-20T06:04:50Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 13441
+    },
+    {
+      "term": "FATIGUE",
+      "count": 9377
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 8859
+    },
+    {
+      "term": "VOMITING",
+      "count": 8286
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 7373
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 5566
+    },
+    {
+      "term": "PYREXIA",
+      "count": 5366
+    },
+    {
+      "term": "DEATH",
+      "count": 5330
+    },
+    {
+      "term": "HEADACHE",
+      "count": 5225
+    },
+    {
+      "term": "PAIN",
+      "count": 5179
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 4662
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 4448
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4258
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4242
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 3950
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3827
+    },
+    {
+      "term": "RASH",
+      "count": 3628
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 3573
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3521
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 3493
+    },
+    {
+      "term": "MALAISE",
+      "count": 3324
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3146
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 3025
+    },
+    {
+      "term": "COUGH",
+      "count": 2887
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 2800
+    },
+    {
+      "term": "ANXIETY",
+      "count": 2727
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2675
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 2616
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 2612
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 2599
+    },
+    {
+      "term": "FALL",
+      "count": 2526
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 2415
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 2414
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 2291
+    },
+    {
+      "term": "PRURITUS",
+      "count": 2278
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 2265
+    },
+    {
+      "term": "SEPSIS",
+      "count": 2238
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 2201
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 2073
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 2011
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1939
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1888
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 1859
+    },
+    {
+      "term": "WHITE BLOOD CELL COUNT DECREASED",
+      "count": 1858
+    },
+    {
+      "term": "DISEASE PROGRESSION",
+      "count": 1854
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1821
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 1809
+    },
+    {
+      "term": "PLATELET COUNT DECREASED",
+      "count": 1787
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 1768
+    },
+    {
+      "term": "NEUROPATHY PERIPHERAL",
+      "count": 1750
+    }
+  ]
+}

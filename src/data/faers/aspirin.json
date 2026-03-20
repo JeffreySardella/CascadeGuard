@@ -1,0 +1,206 @@
+{
+  "drug": "aspirin",
+  "fetchedAt": "2026-03-20T06:03:53Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 32881
+    },
+    {
+      "term": "NAUSEA",
+      "count": 27988
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 27806
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 27117
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 26119
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 23232
+    },
+    {
+      "term": "HEADACHE",
+      "count": 20935
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 19481
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 19278
+    },
+    {
+      "term": "FALL",
+      "count": 19045
+    },
+    {
+      "term": "PAIN",
+      "count": 18841
+    },
+    {
+      "term": "VOMITING",
+      "count": 16484
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 16124
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 15212
+    },
+    {
+      "term": "DEATH",
+      "count": 15127
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 14540
+    },
+    {
+      "term": "MALAISE",
+      "count": 13918
+    },
+    {
+      "term": "PRURITUS",
+      "count": 13818
+    },
+    {
+      "term": "GASTROINTESTINAL HAEMORRHAGE",
+      "count": 13724
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 13380
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 13205
+    },
+    {
+      "term": "COUGH",
+      "count": 12933
+    },
+    {
+      "term": "RASH",
+      "count": 12580
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 12474
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 12052
+    },
+    {
+      "term": "FLUSHING",
+      "count": 11752
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 11528
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 11400
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 11356
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 11189
+    },
+    {
+      "term": "PYREXIA",
+      "count": 11155
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 10927
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 10814
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 10240
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 10202
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 9572
+    },
+    {
+      "term": "ANXIETY",
+      "count": 9259
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 8610
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 8603
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 8563
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 8436
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 8430
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 8422
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 8361
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 8222
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 8194
+    },
+    {
+      "term": "MYALGIA",
+      "count": 8157
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 8140
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 8088
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 8017
+    }
+  ]
+}

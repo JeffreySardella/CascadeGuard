@@ -1,0 +1,206 @@
+{
+  "drug": "pregabalin",
+  "fetchedAt": "2026-03-20T06:03:16Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 26495
+    },
+    {
+      "term": "PAIN",
+      "count": 25901
+    },
+    {
+      "term": "FATIGUE",
+      "count": 15107
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 14523
+    },
+    {
+      "term": "NAUSEA",
+      "count": 14052
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 13249
+    },
+    {
+      "term": "HEADACHE",
+      "count": 12684
+    },
+    {
+      "term": "MALAISE",
+      "count": 12592
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 11568
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 11413
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 11189
+    },
+    {
+      "term": "FALL",
+      "count": 10781
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 10093
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 9836
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 9548
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 9268
+    },
+    {
+      "term": "VOMITING",
+      "count": 8828
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 8820
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 8487
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 7903
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 7890
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 7355
+    },
+    {
+      "term": "RASH",
+      "count": 7261
+    },
+    {
+      "term": "ANXIETY",
+      "count": 7249
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 7010
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 6847
+    },
+    {
+      "term": "PYREXIA",
+      "count": 6807
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 6591
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 6305
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 6240
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 6141
+    },
+    {
+      "term": "PRURITUS",
+      "count": 5909
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 5595
+    },
+    {
+      "term": "VISION BLURRED",
+      "count": 5483
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 5439
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 5424
+    },
+    {
+      "term": "DEATH",
+      "count": 5342
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 5281
+    },
+    {
+      "term": "TREMOR",
+      "count": 5185
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 5044
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 4915
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 4865
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4849
+    },
+    {
+      "term": "PARAESTHESIA",
+      "count": 4768
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 4717
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 4576
+    },
+    {
+      "term": "INTENTIONAL PRODUCT MISUSE",
+      "count": 4529
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 4524
+    },
+    {
+      "term": "COUGH",
+      "count": 4449
+    },
+    {
+      "term": "WITHDRAWAL SYNDROME",
+      "count": 4436
+    }
+  ]
+}

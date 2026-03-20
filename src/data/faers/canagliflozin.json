@@ -1,0 +1,206 @@
+{
+  "drug": "canagliflozin",
+  "fetchedAt": "2026-03-20T06:07:04Z",
+  "results": [
+    {
+      "term": "DIABETIC KETOACIDOSIS",
+      "count": 3506
+    },
+    {
+      "term": "TOE AMPUTATION",
+      "count": 2263
+    },
+    {
+      "term": "OSTEOMYELITIS",
+      "count": 2231
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 2030
+    },
+    {
+      "term": "FUNGAL INFECTION",
+      "count": 1489
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1402
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 1295
+    },
+    {
+      "term": "GANGRENE",
+      "count": 1112
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1071
+    },
+    {
+      "term": "CELLULITIS",
+      "count": 1063
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1059
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1045
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1044
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 879
+    },
+    {
+      "term": "DIABETIC FOOT INFECTION",
+      "count": 864
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 829
+    },
+    {
+      "term": "DIABETIC FOOT",
+      "count": 811
+    },
+    {
+      "term": "LEG AMPUTATION",
+      "count": 808
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 755
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 723
+    },
+    {
+      "term": "VOMITING",
+      "count": 660
+    },
+    {
+      "term": "KETOACIDOSIS",
+      "count": 655
+    },
+    {
+      "term": "FATIGUE",
+      "count": 637
+    },
+    {
+      "term": "FOOT AMPUTATION",
+      "count": 597
+    },
+    {
+      "term": "SKIN ULCER",
+      "count": 589
+    },
+    {
+      "term": "SEPSIS",
+      "count": 586
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 551
+    },
+    {
+      "term": "RASH",
+      "count": 547
+    },
+    {
+      "term": "GLYCOSYLATED HAEMOGLOBIN INCREASED",
+      "count": 543
+    },
+    {
+      "term": "MALAISE",
+      "count": 521
+    },
+    {
+      "term": "HEADACHE",
+      "count": 504
+    },
+    {
+      "term": "POLLAKIURIA",
+      "count": 502
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 499
+    },
+    {
+      "term": "ADVERSE EVENT",
+      "count": 455
+    },
+    {
+      "term": "PAIN",
+      "count": 442
+    },
+    {
+      "term": "INCORRECT DOSE ADMINISTERED",
+      "count": 421
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 420
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 414
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 401
+    },
+    {
+      "term": "METABOLIC ACIDOSIS",
+      "count": 396
+    },
+    {
+      "term": "PANCREATITIS",
+      "count": 347
+    },
+    {
+      "term": "FALL",
+      "count": 334
+    },
+    {
+      "term": "AMPUTATION",
+      "count": 332
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 329
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 329
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 324
+    },
+    {
+      "term": "PRURITUS",
+      "count": 322
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF DRUG ADMINISTRATION",
+      "count": 310
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 303
+    },
+    {
+      "term": "BLOOD GLUCOSE DECREASED",
+      "count": 301
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "metoclopramide",
+  "fetchedAt": "2026-03-20T06:02:38Z",
+  "results": [
+    {
+      "term": "TARDIVE DYSKINESIA",
+      "count": 16216
+    },
+    {
+      "term": "EXTRAPYRAMIDAL DISORDER",
+      "count": 12908
+    },
+    {
+      "term": "NERVOUS SYSTEM DISORDER",
+      "count": 7523
+    },
+    {
+      "term": "DYSTONIA",
+      "count": 7093
+    },
+    {
+      "term": "NAUSEA",
+      "count": 6273
+    },
+    {
+      "term": "PAIN",
+      "count": 5899
+    },
+    {
+      "term": "VOMITING",
+      "count": 4775
+    },
+    {
+      "term": "ANXIETY",
+      "count": 4055
+    },
+    {
+      "term": "ECONOMIC PROBLEM",
+      "count": 3961
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3928
+    },
+    {
+      "term": "INCORRECT DRUG ADMINISTRATION DURATION",
+      "count": 3710
+    },
+    {
+      "term": "FATIGUE",
+      "count": 3355
+    },
+    {
+      "term": "MOVEMENT DISORDER",
+      "count": 3271
+    },
+    {
+      "term": "DYSKINESIA",
+      "count": 3221
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 3167
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2937
+    },
+    {
+      "term": "ACTIVITIES OF DAILY LIVING IMPAIRED",
+      "count": 2932
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2857
+    },
+    {
+      "term": "TREMOR",
+      "count": 2651
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2568
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2453
+    },
+    {
+      "term": "DEFORMITY",
+      "count": 2421
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 2263
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 2250
+    },
+    {
+      "term": "MULTIPLE INJURIES",
+      "count": 2243
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2219
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2160
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 2151
+    },
+    {
+      "term": "QUALITY OF LIFE DECREASED",
+      "count": 2084
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2000
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1983
+    },
+    {
+      "term": "DEATH",
+      "count": 1976
+    },
+    {
+      "term": "FAMILY STRESS",
+      "count": 1934
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1928
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1898
+    },
+    {
+      "term": "AKATHISIA",
+      "count": 1884
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1819
+    },
+    {
+      "term": "ANHEDONIA",
+      "count": 1797
+    },
+    {
+      "term": "FEAR",
+      "count": 1793
+    },
+    {
+      "term": "MALAISE",
+      "count": 1774
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1746
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1734
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1667
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1563
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 1520
+    },
+    {
+      "term": "FALL",
+      "count": 1506
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1495
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1381
+    },
+    {
+      "term": "RASH",
+      "count": 1348
+    },
+    {
+      "term": "UNEVALUABLE EVENT",
+      "count": 1327
+    }
+  ]
+}

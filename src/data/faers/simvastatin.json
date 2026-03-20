@@ -1,0 +1,206 @@
+{
+  "drug": "simvastatin",
+  "fetchedAt": "2026-03-20T06:03:29Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 14279
+    },
+    {
+      "term": "NAUSEA",
+      "count": 13887
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 13023
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 12368
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 12121
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 11658
+    },
+    {
+      "term": "PAIN",
+      "count": 9709
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 9690
+    },
+    {
+      "term": "FALL",
+      "count": 9620
+    },
+    {
+      "term": "HEADACHE",
+      "count": 9346
+    },
+    {
+      "term": "MYALGIA",
+      "count": 8939
+    },
+    {
+      "term": "VOMITING",
+      "count": 8527
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 8052
+    },
+    {
+      "term": "MALAISE",
+      "count": 7945
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 7433
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 7411
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 7078
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 6616
+    },
+    {
+      "term": "DEATH",
+      "count": 6574
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 6278
+    },
+    {
+      "term": "PRURITUS",
+      "count": 6183
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 6133
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 5870
+    },
+    {
+      "term": "RHABDOMYOLYSIS",
+      "count": 5744
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 5698
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 5582
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 5514
+    },
+    {
+      "term": "RASH",
+      "count": 5504
+    },
+    {
+      "term": "COUGH",
+      "count": 5477
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 5422
+    },
+    {
+      "term": "PYREXIA",
+      "count": 5305
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 5233
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 5185
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 5110
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 5042
+    },
+    {
+      "term": "ANXIETY",
+      "count": 5002
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 4932
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 4866
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 4722
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 4685
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 4634
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 4578
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 4525
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4476
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 4440
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 4406
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 4266
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 4233
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 4153
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 4120
+    }
+  ]
+}

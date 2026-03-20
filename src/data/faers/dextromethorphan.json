@@ -1,0 +1,206 @@
+{
+  "drug": "dextromethorphan",
+  "fetchedAt": "2026-03-20T06:03:55Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 3836
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2278
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1880
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1661
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1339
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 1304
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 1242
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1202
+    },
+    {
+      "term": "VOMITING",
+      "count": 1199
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1137
+    },
+    {
+      "term": "COUGH",
+      "count": 1120
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1109
+    },
+    {
+      "term": "ACCIDENTAL OVERDOSE",
+      "count": 1054
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 1040
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 1033
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 985
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 985
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 898
+    },
+    {
+      "term": "ANXIETY",
+      "count": 882
+    },
+    {
+      "term": "DEATH",
+      "count": 859
+    },
+    {
+      "term": "MALAISE",
+      "count": 787
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 763
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 754
+    },
+    {
+      "term": "PAIN",
+      "count": 724
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 693
+    },
+    {
+      "term": "FALL",
+      "count": 677
+    },
+    {
+      "term": "PYREXIA",
+      "count": 632
+    },
+    {
+      "term": "COVID-19",
+      "count": 605
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 583
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 574
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF PRODUCT ADMINISTRATION",
+      "count": 574
+    },
+    {
+      "term": "RASH",
+      "count": 567
+    },
+    {
+      "term": "TREMOR",
+      "count": 557
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 539
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 538
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 538
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 526
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 523
+    },
+    {
+      "term": "WRONG TECHNIQUE IN PRODUCT USAGE PROCESS",
+      "count": 520
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 511
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 503
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 463
+    },
+    {
+      "term": "PRURITUS",
+      "count": 463
+    },
+    {
+      "term": "NO ADVERSE EVENT",
+      "count": 452
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 433
+    },
+    {
+      "term": "INCORRECT DOSE ADMINISTERED",
+      "count": 420
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 414
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 411
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 409
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 409
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "levothyroxine",
+  "fetchedAt": "2026-03-20T06:04:14Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 25853
+    },
+    {
+      "term": "NAUSEA",
+      "count": 22036
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 20565
+    },
+    {
+      "term": "HEADACHE",
+      "count": 18798
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 18178
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 16219
+    },
+    {
+      "term": "PAIN",
+      "count": 15933
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 15432
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 13160
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 12989
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 12916
+    },
+    {
+      "term": "MALAISE",
+      "count": 12114
+    },
+    {
+      "term": "VOMITING",
+      "count": 11629
+    },
+    {
+      "term": "FALL",
+      "count": 11465
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 9799
+    },
+    {
+      "term": "RASH",
+      "count": 9623
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 9618
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 9479
+    },
+    {
+      "term": "PRURITUS",
+      "count": 9336
+    },
+    {
+      "term": "ANXIETY",
+      "count": 9032
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 8897
+    },
+    {
+      "term": "COUGH",
+      "count": 8497
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 8388
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 8286
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 8170
+    },
+    {
+      "term": "PYREXIA",
+      "count": 7915
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 7600
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 7599
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 7517
+    },
+    {
+      "term": "DEATH",
+      "count": 7311
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 6853
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 6723
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 6592
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 6540
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 6522
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 6459
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 6420
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 6347
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 5971
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 5901
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 5759
+    },
+    {
+      "term": "MYALGIA",
+      "count": 5602
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 5578
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 5569
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 5357
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 5311
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 5231
+    },
+    {
+      "term": "TREMOR",
+      "count": 5164
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 5101
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 4768
+    }
+  ]
+}

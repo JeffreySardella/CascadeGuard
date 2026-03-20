@@ -1,0 +1,206 @@
+{
+  "drug": "prochlorperazine",
+  "fetchedAt": "2026-03-20T06:07:12Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 4584
+    },
+    {
+      "term": "FATIGUE",
+      "count": 3980
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3292
+    },
+    {
+      "term": "VOMITING",
+      "count": 2504
+    },
+    {
+      "term": "DEATH",
+      "count": 2428
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 1977
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1807
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1780
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1538
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1532
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1522
+    },
+    {
+      "term": "PAIN",
+      "count": 1401
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1353
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1336
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1325
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1298
+    },
+    {
+      "term": "RASH",
+      "count": 1204
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1135
+    },
+    {
+      "term": "MALAISE",
+      "count": 1123
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1094
+    },
+    {
+      "term": "DISEASE PROGRESSION",
+      "count": 1062
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1042
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 964
+    },
+    {
+      "term": "FALL",
+      "count": 958
+    },
+    {
+      "term": "PLATELET COUNT DECREASED",
+      "count": 937
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 913
+    },
+    {
+      "term": "WHITE BLOOD CELL COUNT DECREASED",
+      "count": 908
+    },
+    {
+      "term": "COUGH",
+      "count": 876
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 861
+    },
+    {
+      "term": "ANXIETY",
+      "count": 858
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 823
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 808
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 770
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 764
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 715
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 663
+    },
+    {
+      "term": "NEUROPATHY PERIPHERAL",
+      "count": 649
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 646
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 638
+    },
+    {
+      "term": "PRURITUS",
+      "count": 636
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 629
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 623
+    },
+    {
+      "term": "HAEMOGLOBIN DECREASED",
+      "count": 621
+    },
+    {
+      "term": "MALIGNANT NEOPLASM PROGRESSION",
+      "count": 602
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 600
+    },
+    {
+      "term": "SEPSIS",
+      "count": 600
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 556
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 556
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 532
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 529
+    }
+  ]
+}

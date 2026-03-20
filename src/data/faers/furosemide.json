@@ -1,0 +1,206 @@
+{
+  "drug": "furosemide",
+  "fetchedAt": "2026-03-20T06:04:01Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 29109
+    },
+    {
+      "term": "FATIGUE",
+      "count": 20399
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 19945
+    },
+    {
+      "term": "NAUSEA",
+      "count": 18695
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 18531
+    },
+    {
+      "term": "DEATH",
+      "count": 18322
+    },
+    {
+      "term": "FALL",
+      "count": 16153
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 16080
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 15176
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 14756
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 14726
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 14428
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 14124
+    },
+    {
+      "term": "PAIN",
+      "count": 13550
+    },
+    {
+      "term": "HEADACHE",
+      "count": 12964
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 12864
+    },
+    {
+      "term": "VOMITING",
+      "count": 12391
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 12277
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 11981
+    },
+    {
+      "term": "MALAISE",
+      "count": 11554
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 11495
+    },
+    {
+      "term": "COUGH",
+      "count": 10164
+    },
+    {
+      "term": "PYREXIA",
+      "count": 9858
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 9851
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 9812
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 9646
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 9250
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 8789
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 8684
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 8561
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 8322
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 8269
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 8180
+    },
+    {
+      "term": "RASH",
+      "count": 8103
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 8097
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 7875
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 7845
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 7533
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 7270
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 7109
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 7000
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 6968
+    },
+    {
+      "term": "PRURITUS",
+      "count": 6894
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 6891
+    },
+    {
+      "term": "GASTROINTESTINAL HAEMORRHAGE",
+      "count": 6876
+    },
+    {
+      "term": "ANXIETY",
+      "count": 6535
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 6530
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 6255
+    },
+    {
+      "term": "HAEMOGLOBIN DECREASED",
+      "count": 5872
+    },
+    {
+      "term": "FLUID RETENTION",
+      "count": 5854
+    }
+  ]
+}

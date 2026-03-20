@@ -1,0 +1,206 @@
+{
+  "drug": "benzonatate",
+  "fetchedAt": "2026-03-20T06:03:57Z",
+  "results": [
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1229
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1182
+    },
+    {
+      "term": "COUGH",
+      "count": 1123
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1096
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1071
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1034
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1014
+    },
+    {
+      "term": "PAIN",
+      "count": 890
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 871
+    },
+    {
+      "term": "DEATH",
+      "count": 812
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 792
+    },
+    {
+      "term": "HEADACHE",
+      "count": 773
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 610
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 606
+    },
+    {
+      "term": "ANXIETY",
+      "count": 566
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 556
+    },
+    {
+      "term": "VOMITING",
+      "count": 541
+    },
+    {
+      "term": "FALL",
+      "count": 530
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 526
+    },
+    {
+      "term": "COVID-19",
+      "count": 478
+    },
+    {
+      "term": "MALAISE",
+      "count": 465
+    },
+    {
+      "term": "RASH",
+      "count": 434
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 432
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 416
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 407
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 407
+    },
+    {
+      "term": "BRONCHITIS",
+      "count": 400
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 393
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 392
+    },
+    {
+      "term": "END STAGE RENAL DISEASE",
+      "count": 371
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 356
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 354
+    },
+    {
+      "term": "PYREXIA",
+      "count": 347
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 344
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 313
+    },
+    {
+      "term": "PRURITUS",
+      "count": 303
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 301
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 297
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 287
+    },
+    {
+      "term": "ASTHMA",
+      "count": 284
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 282
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 279
+    },
+    {
+      "term": "INFLUENZA",
+      "count": 269
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 268
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 267
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 262
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 260
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 257
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 246
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 240
+    }
+  ]
+}

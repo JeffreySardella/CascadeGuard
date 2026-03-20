@@ -1,0 +1,206 @@
+{
+  "drug": "promethazine",
+  "fetchedAt": "2026-03-20T06:07:10Z",
+  "results": [
+    {
+      "term": "DEPENDENCE",
+      "count": 3585
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2588
+    },
+    {
+      "term": "VOMITING",
+      "count": 1763
+    },
+    {
+      "term": "PAIN",
+      "count": 1671
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1457
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1313
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1261
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1102
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 996
+    },
+    {
+      "term": "ANXIETY",
+      "count": 939
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 883
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 880
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 825
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 824
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 817
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 794
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 790
+    },
+    {
+      "term": "PYREXIA",
+      "count": 778
+    },
+    {
+      "term": "MALAISE",
+      "count": 757
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 747
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 701
+    },
+    {
+      "term": "DEATH",
+      "count": 695
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 674
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 654
+    },
+    {
+      "term": "FALL",
+      "count": 646
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 604
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 578
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 566
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 564
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 556
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 537
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 525
+    },
+    {
+      "term": "PRURITUS",
+      "count": 515
+    },
+    {
+      "term": "COUGH",
+      "count": 513
+    },
+    {
+      "term": "RASH",
+      "count": 509
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 497
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 476
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 471
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 458
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 444
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 427
+    },
+    {
+      "term": "INJURY",
+      "count": 422
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 406
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 402
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 396
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 395
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 392
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 375
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 364
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 362
+    }
+  ]
+}

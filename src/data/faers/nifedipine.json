@@ -1,0 +1,206 @@
+{
+  "drug": "nifedipine",
+  "fetchedAt": "2026-03-20T06:02:32Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2507
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2429
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2304
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 2264
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2220
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2020
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1996
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1766
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1764
+    },
+    {
+      "term": "PAIN",
+      "count": 1695
+    },
+    {
+      "term": "DEATH",
+      "count": 1505
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1488
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1486
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1446
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1443
+    },
+    {
+      "term": "MALAISE",
+      "count": 1381
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1347
+    },
+    {
+      "term": "VOMITING",
+      "count": 1339
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 1256
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 1218
+    },
+    {
+      "term": "FALL",
+      "count": 1218
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1166
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1163
+    },
+    {
+      "term": "COUGH",
+      "count": 1146
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 1096
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1079
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1056
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 1032
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1025
+    },
+    {
+      "term": "PREMATURE BABY",
+      "count": 998
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 990
+    },
+    {
+      "term": "RASH",
+      "count": 988
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 955
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 912
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 888
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 887
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 878
+    },
+    {
+      "term": "PRURITUS",
+      "count": 871
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 865
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 823
+    },
+    {
+      "term": "ANXIETY",
+      "count": 804
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 771
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 761
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 752
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 738
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 720
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 678
+    },
+    {
+      "term": "PREMATURE DELIVERY",
+      "count": 668
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 663
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 657
+    }
+  ]
+}

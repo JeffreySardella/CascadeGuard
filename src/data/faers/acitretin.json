@@ -1,0 +1,206 @@
+{
+  "drug": "acitretin",
+  "fetchedAt": "2026-03-20T06:07:39Z",
+  "results": [
+    {
+      "term": "PSORIASIS",
+      "count": 1152
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1132
+    },
+    {
+      "term": "PAIN",
+      "count": 462
+    },
+    {
+      "term": "FATIGUE",
+      "count": 457
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 446
+    },
+    {
+      "term": "PRURITUS",
+      "count": 437
+    },
+    {
+      "term": "NAUSEA",
+      "count": 409
+    },
+    {
+      "term": "HEADACHE",
+      "count": 348
+    },
+    {
+      "term": "SKIN EXFOLIATION",
+      "count": 343
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 331
+    },
+    {
+      "term": "PYREXIA",
+      "count": 321
+    },
+    {
+      "term": "MALAISE",
+      "count": 319
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 305
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 292
+    },
+    {
+      "term": "COUGH",
+      "count": 285
+    },
+    {
+      "term": "PSORIATIC ARTHROPATHY",
+      "count": 283
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 268
+    },
+    {
+      "term": "INFLUENZA",
+      "count": 260
+    },
+    {
+      "term": "VOMITING",
+      "count": 252
+    },
+    {
+      "term": "SKIN HAEMORRHAGE",
+      "count": 250
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 247
+    },
+    {
+      "term": "FALL",
+      "count": 240
+    },
+    {
+      "term": "ARTHRITIS",
+      "count": 238
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 237
+    },
+    {
+      "term": "ANXIETY",
+      "count": 232
+    },
+    {
+      "term": "RHINORRHOEA",
+      "count": 229
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 218
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 213
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 207
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 207
+    },
+    {
+      "term": "GASTROINTESTINAL DISORDER",
+      "count": 198
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 198
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 197
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 195
+    },
+    {
+      "term": "CHEST DISCOMFORT",
+      "count": 193
+    },
+    {
+      "term": "RESPIRATORY TRACT CONGESTION",
+      "count": 192
+    },
+    {
+      "term": "INFLUENZA LIKE ILLNESS",
+      "count": 191
+    },
+    {
+      "term": "SINUS CONGESTION",
+      "count": 191
+    },
+    {
+      "term": "CYSTITIS",
+      "count": 189
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 189
+    },
+    {
+      "term": "SINUS DISORDER",
+      "count": 189
+    },
+    {
+      "term": "SNEEZING",
+      "count": 189
+    },
+    {
+      "term": "TREATMENT FAILURE",
+      "count": 189
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 184
+    },
+    {
+      "term": "SENSORY LOSS",
+      "count": 184
+    },
+    {
+      "term": "APHASIA",
+      "count": 180
+    },
+    {
+      "term": "ANGINA PECTORIS",
+      "count": 179
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT INCOMPLETE",
+      "count": 176
+    },
+    {
+      "term": "CATARACT",
+      "count": 175
+    },
+    {
+      "term": "DYSARTHRIA",
+      "count": 175
+    }
+  ]
+}

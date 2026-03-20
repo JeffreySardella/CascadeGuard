@@ -1,0 +1,206 @@
+{
+  "drug": "naproxen",
+  "fetchedAt": "2026-03-20T06:02:42Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 20367
+    },
+    {
+      "term": "PAIN",
+      "count": 12237
+    },
+    {
+      "term": "FATIGUE",
+      "count": 11327
+    },
+    {
+      "term": "NAUSEA",
+      "count": 10614
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 10232
+    },
+    {
+      "term": "HEADACHE",
+      "count": 9098
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 8572
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 8289
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 7796
+    },
+    {
+      "term": "VOMITING",
+      "count": 7320
+    },
+    {
+      "term": "RASH",
+      "count": 7022
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 6905
+    },
+    {
+      "term": "MALAISE",
+      "count": 6449
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 6332
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 6246
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 5920
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 5742
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 5681
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 5485
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 5482
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 5425
+    },
+    {
+      "term": "PRURITUS",
+      "count": 5220
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4915
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4863
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 4756
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 4673
+    },
+    {
+      "term": "ANXIETY",
+      "count": 4664
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 4605
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 4527
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4517
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 4498
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 4403
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 4327
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4316
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 4273
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4273
+    },
+    {
+      "term": "URTICARIA",
+      "count": 4224
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 4208
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4117
+    },
+    {
+      "term": "FALL",
+      "count": 3998
+    },
+    {
+      "term": "SWELLING",
+      "count": 3975
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 3911
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3867
+    },
+    {
+      "term": "PSORIATIC ARTHROPATHY",
+      "count": 3865
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 3846
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 3682
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 3597
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3564
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 3490
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 3476
+    }
+  ]
+}

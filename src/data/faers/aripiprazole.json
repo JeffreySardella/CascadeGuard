@@ -1,0 +1,206 @@
+{
+  "drug": "aripiprazole",
+  "fetchedAt": "2026-03-20T06:06:11Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 8308
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 8299
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 7874
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 5252
+    },
+    {
+      "term": "ANXIETY",
+      "count": 5109
+    },
+    {
+      "term": "FATIGUE",
+      "count": 4319
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4051
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 4036
+    },
+    {
+      "term": "NAUSEA",
+      "count": 3973
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 3890
+    },
+    {
+      "term": "TREMOR",
+      "count": 3682
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3602
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 3561
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 3523
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 3201
+    },
+    {
+      "term": "HEADACHE",
+      "count": 3196
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3187
+    },
+    {
+      "term": "AKATHISIA",
+      "count": 3012
+    },
+    {
+      "term": "PSYCHOTIC DISORDER",
+      "count": 2881
+    },
+    {
+      "term": "TARDIVE DYSKINESIA",
+      "count": 2825
+    },
+    {
+      "term": "PAIN",
+      "count": 2808
+    },
+    {
+      "term": "VOMITING",
+      "count": 2764
+    },
+    {
+      "term": "DYSKINESIA",
+      "count": 2388
+    },
+    {
+      "term": "MALAISE",
+      "count": 2303
+    },
+    {
+      "term": "AGITATION",
+      "count": 2254
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 2240
+    },
+    {
+      "term": "SEDATION",
+      "count": 2225
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 2216
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2125
+    },
+    {
+      "term": "SCHIZOPHRENIA",
+      "count": 2085
+    },
+    {
+      "term": "FALL",
+      "count": 2054
+    },
+    {
+      "term": "TREATMENT NONCOMPLIANCE",
+      "count": 2048
+    },
+    {
+      "term": "EXTRAPYRAMIDAL DISORDER",
+      "count": 2032
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2025
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 2019
+    },
+    {
+      "term": "GAMBLING DISORDER",
+      "count": 1988
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 1950
+    },
+    {
+      "term": "RESTLESSNESS",
+      "count": 1904
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 1866
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 1864
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 1852
+    },
+    {
+      "term": "HALLUCINATION, AUDITORY",
+      "count": 1841
+    },
+    {
+      "term": "DYSTONIA",
+      "count": 1827
+    },
+    {
+      "term": "OBSESSIVE-COMPULSIVE DISORDER",
+      "count": 1813
+    },
+    {
+      "term": "DEATH",
+      "count": 1787
+    },
+    {
+      "term": "MENTAL DISORDER",
+      "count": 1787
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1724
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1718
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1716
+    },
+    {
+      "term": "NEUROLEPTIC MALIGNANT SYNDROME",
+      "count": 1654
+    }
+  ]
+}

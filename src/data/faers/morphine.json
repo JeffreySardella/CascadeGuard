@@ -1,0 +1,206 @@
+{
+  "drug": "morphine",
+  "fetchedAt": "2026-03-20T06:03:08Z",
+  "results": [
+    {
+      "term": "DRUG DEPENDENCE",
+      "count": 33820
+    },
+    {
+      "term": "PAIN",
+      "count": 26761
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 25314
+    },
+    {
+      "term": "DEATH",
+      "count": 21504
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 17587
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 15711
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME",
+      "count": 14570
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 12382
+    },
+    {
+      "term": "NAUSEA",
+      "count": 10557
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 9370
+    },
+    {
+      "term": "VOMITING",
+      "count": 7967
+    },
+    {
+      "term": "FATIGUE",
+      "count": 7568
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 6459
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 6451
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 6237
+    },
+    {
+      "term": "HEADACHE",
+      "count": 6032
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 5973
+    },
+    {
+      "term": "ANXIETY",
+      "count": 5404
+    },
+    {
+      "term": "DEPENDENCE",
+      "count": 5144
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 5085
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 4999
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4886
+    },
+    {
+      "term": "MALAISE",
+      "count": 4559
+    },
+    {
+      "term": "FALL",
+      "count": 4366
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4354
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4277
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 4163
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 4058
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 4002
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3995
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 3933
+    },
+    {
+      "term": "RASH",
+      "count": 3904
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 3881
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 3765
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 3733
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 3467
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3252
+    },
+    {
+      "term": "PRURITUS",
+      "count": 3105
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 3085
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3010
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 2926
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 2750
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME NEONATAL",
+      "count": 2746
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 2721
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 2615
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 2546
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 2517
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 2512
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 2408
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 2402
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "indomethacin",
+  "fetchedAt": "2026-03-20T06:08:28Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1372
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1102
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1002
+    },
+    {
+      "term": "HEADACHE",
+      "count": 989
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 939
+    },
+    {
+      "term": "PAIN",
+      "count": 922
+    },
+    {
+      "term": "NAUSEA",
+      "count": 907
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 879
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 868
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 744
+    },
+    {
+      "term": "VOMITING",
+      "count": 740
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 643
+    },
+    {
+      "term": "PYREXIA",
+      "count": 616
+    },
+    {
+      "term": "PRURITUS",
+      "count": 606
+    },
+    {
+      "term": "MALAISE",
+      "count": 590
+    },
+    {
+      "term": "FALL",
+      "count": 562
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 538
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 527
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 522
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 520
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 501
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 498
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 480
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 459
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 459
+    },
+    {
+      "term": "COUGH",
+      "count": 456
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 452
+    },
+    {
+      "term": "RASH",
+      "count": 452
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 437
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 427
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 426
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 403
+    },
+    {
+      "term": "ANXIETY",
+      "count": 402
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 388
+    },
+    {
+      "term": "SEPSIS",
+      "count": 385
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 381
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 374
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 373
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 369
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 343
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 340
+    },
+    {
+      "term": "VISION BLURRED",
+      "count": 340
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 330
+    },
+    {
+      "term": "TACHYCARDIA",
+      "count": 318
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 318
+    },
+    {
+      "term": "CHILLS",
+      "count": 308
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 304
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 303
+    },
+    {
+      "term": "MYALGIA",
+      "count": 301
+    },
+    {
+      "term": "TINNITUS",
+      "count": 301
+    }
+  ]
+}

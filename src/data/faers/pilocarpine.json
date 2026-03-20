@@ -1,0 +1,206 @@
+{
+  "drug": "pilocarpine",
+  "fetchedAt": "2026-03-20T06:07:58Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 432
+    },
+    {
+      "term": "HEADACHE",
+      "count": 404
+    },
+    {
+      "term": "VISION BLURRED",
+      "count": 203
+    },
+    {
+      "term": "NAUSEA",
+      "count": 200
+    },
+    {
+      "term": "VISUAL IMPAIRMENT",
+      "count": 200
+    },
+    {
+      "term": "PAIN",
+      "count": 190
+    },
+    {
+      "term": "FATIGUE",
+      "count": 178
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 169
+    },
+    {
+      "term": "EYE PAIN",
+      "count": 159
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 152
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 140
+    },
+    {
+      "term": "EYE IRRITATION",
+      "count": 135
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 132
+    },
+    {
+      "term": "FALL",
+      "count": 124
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 121
+    },
+    {
+      "term": "COUGH",
+      "count": 113
+    },
+    {
+      "term": "MALAISE",
+      "count": 103
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 97
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 97
+    },
+    {
+      "term": "VOMITING",
+      "count": 96
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 93
+    },
+    {
+      "term": "OCULAR HYPERAEMIA",
+      "count": 92
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 90
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 90
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 89
+    },
+    {
+      "term": "RASH",
+      "count": 81
+    },
+    {
+      "term": "DRY MOUTH",
+      "count": 80
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 77
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 76
+    },
+    {
+      "term": "PRURITUS",
+      "count": 75
+    },
+    {
+      "term": "PYREXIA",
+      "count": 74
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 66
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 65
+    },
+    {
+      "term": "VITREOUS FLOATERS",
+      "count": 65
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 61
+    },
+    {
+      "term": "ANXIETY",
+      "count": 60
+    },
+    {
+      "term": "DRY EYE",
+      "count": 60
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 60
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 59
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 59
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 58
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 57
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 57
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 56
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 55
+    },
+    {
+      "term": "SJOGREN^S SYNDROME",
+      "count": 55
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 54
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 54
+    },
+    {
+      "term": "ASTHMA",
+      "count": 53
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 52
+    }
+  ]
+}

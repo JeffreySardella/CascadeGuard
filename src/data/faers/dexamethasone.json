@@ -1,0 +1,206 @@
+{
+  "drug": "dexamethasone",
+  "fetchedAt": "2026-03-20T06:03:20Z",
+  "results": [
+    {
+      "term": "OFF LABEL USE",
+      "count": 22580
+    },
+    {
+      "term": "FATIGUE",
+      "count": 17010
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 16997
+    },
+    {
+      "term": "NAUSEA",
+      "count": 14157
+    },
+    {
+      "term": "PLASMA CELL MYELOMA",
+      "count": 13926
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 13699
+    },
+    {
+      "term": "DEATH",
+      "count": 13361
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 13088
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 11525
+    },
+    {
+      "term": "PYREXIA",
+      "count": 11178
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 10538
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 10360
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 9200
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 9023
+    },
+    {
+      "term": "VOMITING",
+      "count": 8929
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 8808
+    },
+    {
+      "term": "NEUROPATHY PERIPHERAL",
+      "count": 8487
+    },
+    {
+      "term": "RASH",
+      "count": 8354
+    },
+    {
+      "term": "DISEASE PROGRESSION",
+      "count": 7501
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 6974
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 6246
+    },
+    {
+      "term": "SEPSIS",
+      "count": 6188
+    },
+    {
+      "term": "PLATELET COUNT DECREASED",
+      "count": 6138
+    },
+    {
+      "term": "HEADACHE",
+      "count": 5895
+    },
+    {
+      "term": "PAIN",
+      "count": 5771
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5683
+    },
+    {
+      "term": "INFECTION",
+      "count": 5288
+    },
+    {
+      "term": "MALAISE",
+      "count": 4985
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 4955
+    },
+    {
+      "term": "WHITE BLOOD CELL COUNT DECREASED",
+      "count": 4950
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 4798
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 4707
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 4610
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 4516
+    },
+    {
+      "term": "FALL",
+      "count": 4438
+    },
+    {
+      "term": "PANCYTOPENIA",
+      "count": 4330
+    },
+    {
+      "term": "COVID-19",
+      "count": 4283
+    },
+    {
+      "term": "COUGH",
+      "count": 4214
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 4016
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 4010
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 3915
+    },
+    {
+      "term": "PRURITUS",
+      "count": 3877
+    },
+    {
+      "term": "PULMONARY EMBOLISM",
+      "count": 3824
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 3793
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 3766
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 3607
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 3516
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 3508
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 3499
+    },
+    {
+      "term": "MALIGNANT NEOPLASM PROGRESSION",
+      "count": 3433
+    }
+  ]
+}

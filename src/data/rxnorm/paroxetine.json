@@ -1,0 +1,11 @@
+{
+  "genericName": "paroxetine",
+  "rxcui": "32937",
+  "drugClass": "Serotonin Uptake Inhibitors",
+  "brandNames": [
+    "Paxil",
+    "Brisdelle",
+    "Pexeva"
+  ],
+  "fetchedAt": "2026-03-20T06:07:42Z"
+}

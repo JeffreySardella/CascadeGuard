@@ -1,0 +1,27 @@
+{
+  "genericName": "hydrochlorothiazide",
+  "rxcui": "5487",
+  "drugClass": "Sodium Chloride Symporter Inhibitors",
+  "brandNames": [
+    "Tribenzor",
+    "Exforge HCT",
+    "Tekturna HCT",
+    "Accuretic",
+    "Aldactazide",
+    "Vaseretic",
+    "Diovan HCT",
+    "Hyzaar",
+    "Lopressor HCT",
+    "Lotensin HCT",
+    "Dyazide",
+    "Avalide",
+    "Inzirqo",
+    "Atacand HCT",
+    "Micardis-HCT",
+    "Benicar HCT",
+    "Maxzide",
+    "Ziac",
+    "Zestoretic"
+  ],
+  "fetchedAt": "2026-03-20T06:02:29Z"
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "meclizine",
+  "fetchedAt": "2026-03-20T06:07:50Z",
+  "results": [
+    {
+      "term": "DIZZINESS",
+      "count": 1888
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1670
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1585
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1223
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1180
+    },
+    {
+      "term": "FALL",
+      "count": 1162
+    },
+    {
+      "term": "PAIN",
+      "count": 1148
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 976
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 946
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 942
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 904
+    },
+    {
+      "term": "VOMITING",
+      "count": 872
+    },
+    {
+      "term": "ANXIETY",
+      "count": 712
+    },
+    {
+      "term": "VERTIGO",
+      "count": 711
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 685
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 684
+    },
+    {
+      "term": "DEATH",
+      "count": 659
+    },
+    {
+      "term": "MALAISE",
+      "count": 643
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 641
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 620
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 611
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 587
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 578
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 570
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 535
+    },
+    {
+      "term": "RASH",
+      "count": 532
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 527
+    },
+    {
+      "term": "COUGH",
+      "count": 521
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 521
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 519
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 515
+    },
+    {
+      "term": "PRURITUS",
+      "count": 497
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 482
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 473
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 469
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 450
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 437
+    },
+    {
+      "term": "TREMOR",
+      "count": 415
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 413
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 405
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 389
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 380
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 378
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 370
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 366
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 363
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 354
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 351
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 347
+    },
+    {
+      "term": "PYREXIA",
+      "count": 341
+    }
+  ]
+}

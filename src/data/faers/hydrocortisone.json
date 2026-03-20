@@ -1,0 +1,206 @@
+{
+  "drug": "hydrocortisone",
+  "fetchedAt": "2026-03-20T06:07:48Z",
+  "results": [
+    {
+      "term": "OFF LABEL USE",
+      "count": 14311
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 13387
+    },
+    {
+      "term": "FATIGUE",
+      "count": 12026
+    },
+    {
+      "term": "PAIN",
+      "count": 10480
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 9329
+    },
+    {
+      "term": "NAUSEA",
+      "count": 9201
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 8672
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 8577
+    },
+    {
+      "term": "RASH",
+      "count": 8554
+    },
+    {
+      "term": "HEADACHE",
+      "count": 8312
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 8049
+    },
+    {
+      "term": "PYREXIA",
+      "count": 7166
+    },
+    {
+      "term": "VOMITING",
+      "count": 6775
+    },
+    {
+      "term": "MALAISE",
+      "count": 6322
+    },
+    {
+      "term": "PRURITUS",
+      "count": 6279
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 6022
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 5964
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5710
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 5387
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 5369
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 5362
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 5279
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 5272
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 5217
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 5194
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 5180
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 5086
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 5006
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 4956
+    },
+    {
+      "term": "INTENTIONAL PRODUCT USE ISSUE",
+      "count": 4858
+    },
+    {
+      "term": "SWELLING",
+      "count": 4786
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 4632
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 4624
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 4367
+    },
+    {
+      "term": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+      "count": 4263
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 4216
+    },
+    {
+      "term": "HEPATIC ENZYME INCREASED",
+      "count": 4146
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 4129
+    },
+    {
+      "term": "URTICARIA",
+      "count": 4115
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4075
+    },
+    {
+      "term": "WOUND",
+      "count": 4074
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 4006
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 3960
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 3947
+    },
+    {
+      "term": "INFECTION",
+      "count": 3903
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 3902
+    },
+    {
+      "term": "GLOSSODYNIA",
+      "count": 3898
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 3895
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3814
+    },
+    {
+      "term": "ANXIETY",
+      "count": 3806
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "hydrocodone",
+  "fetchedAt": "2026-03-20T06:08:15Z",
+  "results": [
+    {
+      "term": "DRUG DEPENDENCE",
+      "count": 39908
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 23095
+    },
+    {
+      "term": "PAIN",
+      "count": 17091
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 15288
+    },
+    {
+      "term": "DEATH",
+      "count": 15206
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 10479
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME",
+      "count": 9367
+    },
+    {
+      "term": "ANXIETY",
+      "count": 4773
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 3807
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 3346
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME NEONATAL",
+      "count": 3315
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2671
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 2535
+    },
+    {
+      "term": "LEARNING DISABILITY",
+      "count": 2506
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2359
+    },
+    {
+      "term": "DEVELOPMENTAL DELAY",
+      "count": 2336
+    },
+    {
+      "term": "DEPENDENCE",
+      "count": 2199
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2101
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 2023
+    },
+    {
+      "term": "DISABILITY",
+      "count": 1820
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1704
+    },
+    {
+      "term": "MENTAL DISORDER",
+      "count": 1673
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1614
+    },
+    {
+      "term": "INJURY",
+      "count": 1599
+    },
+    {
+      "term": "VOMITING",
+      "count": 1516
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1406
+    },
+    {
+      "term": "FALL",
+      "count": 1356
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1350
+    },
+    {
+      "term": "CARDIAC DISORDER",
+      "count": 1324
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 1246
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1229
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1224
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1174
+    },
+    {
+      "term": "UNEVALUABLE EVENT",
+      "count": 1155
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1139
+    },
+    {
+      "term": "WITHDRAWAL SYNDROME",
+      "count": 1044
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1040
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1025
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 944
+    },
+    {
+      "term": "ACCIDENTAL OVERDOSE",
+      "count": 925
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 915
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 914
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 907
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 891
+    },
+    {
+      "term": "MALAISE",
+      "count": 884
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 824
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 794
+    },
+    {
+      "term": "AMNESIA",
+      "count": 774
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 774
+    },
+    {
+      "term": "ROAD TRAFFIC ACCIDENT",
+      "count": 757
+    }
+  ]
+}

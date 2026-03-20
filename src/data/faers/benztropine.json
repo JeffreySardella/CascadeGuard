@@ -1,0 +1,206 @@
+{
+  "drug": "benztropine",
+  "fetchedAt": "2026-03-20T06:04:10Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 443
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 420
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 383
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 351
+    },
+    {
+      "term": "DEATH",
+      "count": 319
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 317
+    },
+    {
+      "term": "TREMOR",
+      "count": 311
+    },
+    {
+      "term": "FALL",
+      "count": 239
+    },
+    {
+      "term": "FATIGUE",
+      "count": 235
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 233
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 228
+    },
+    {
+      "term": "NAUSEA",
+      "count": 225
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 222
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 204
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 198
+    },
+    {
+      "term": "ANXIETY",
+      "count": 193
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 192
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 183
+    },
+    {
+      "term": "GRANULOCYTOPENIA",
+      "count": 183
+    },
+    {
+      "term": "VOMITING",
+      "count": 180
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 177
+    },
+    {
+      "term": "HEADACHE",
+      "count": 176
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 173
+    },
+    {
+      "term": "PSYCHOTIC DISORDER",
+      "count": 171
+    },
+    {
+      "term": "TARDIVE DYSKINESIA",
+      "count": 160
+    },
+    {
+      "term": "AGITATION",
+      "count": 154
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 154
+    },
+    {
+      "term": "EXTRAPYRAMIDAL DISORDER",
+      "count": 147
+    },
+    {
+      "term": "PYREXIA",
+      "count": 147
+    },
+    {
+      "term": "TACHYCARDIA",
+      "count": 145
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 142
+    },
+    {
+      "term": "PAIN",
+      "count": 142
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 142
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 140
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 139
+    },
+    {
+      "term": "TREATMENT NONCOMPLIANCE",
+      "count": 139
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 130
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 130
+    },
+    {
+      "term": "SEDATION",
+      "count": 128
+    },
+    {
+      "term": "DYSKINESIA",
+      "count": 122
+    },
+    {
+      "term": "SCHIZOPHRENIA",
+      "count": 121
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 120
+    },
+    {
+      "term": "DYSTONIA",
+      "count": 120
+    },
+    {
+      "term": "NEUROLEPTIC MALIGNANT SYNDROME",
+      "count": 120
+    },
+    {
+      "term": "CARDIAC ARREST",
+      "count": 118
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 118
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 116
+    },
+    {
+      "term": "HALLUCINATION, AUDITORY",
+      "count": 116
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 114
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 113
+    }
+  ]
+}

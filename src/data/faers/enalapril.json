@@ -1,0 +1,206 @@
+{
+  "drug": "enalapril",
+  "fetchedAt": "2026-03-20T06:02:22Z",
+  "results": [
+    {
+      "term": "DIARRHOEA",
+      "count": 3113
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2995
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2990
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2847
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2670
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2524
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 2436
+    },
+    {
+      "term": "VOMITING",
+      "count": 2219
+    },
+    {
+      "term": "PAIN",
+      "count": 2103
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 2087
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2067
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1992
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1958
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1871
+    },
+    {
+      "term": "MALAISE",
+      "count": 1842
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1803
+    },
+    {
+      "term": "FALL",
+      "count": 1788
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1696
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1678
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1602
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1572
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1537
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 1410
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1391
+    },
+    {
+      "term": "COUGH",
+      "count": 1389
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1387
+    },
+    {
+      "term": "DEATH",
+      "count": 1256
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 1230
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 1216
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1214
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 1213
+    },
+    {
+      "term": "RASH",
+      "count": 1173
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1149
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1136
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 1117
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1111
+    },
+    {
+      "term": "HYPERKALAEMIA",
+      "count": 1107
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 1085
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1082
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 1070
+    },
+    {
+      "term": "RENAL FAILURE ACUTE",
+      "count": 1066
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1053
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1041
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 1032
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 1005
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1004
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 990
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 971
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 958
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 943
+    }
+  ]
+}

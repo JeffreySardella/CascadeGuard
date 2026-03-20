@@ -1,0 +1,206 @@
+{
+  "drug": "venlafaxine",
+  "fetchedAt": "2026-03-20T06:06:41Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 9708
+    },
+    {
+      "term": "NAUSEA",
+      "count": 8841
+    },
+    {
+      "term": "FATIGUE",
+      "count": 8003
+    },
+    {
+      "term": "HEADACHE",
+      "count": 7327
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 6470
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 6238
+    },
+    {
+      "term": "ANXIETY",
+      "count": 6038
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 5772
+    },
+    {
+      "term": "PAIN",
+      "count": 5469
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 5159
+    },
+    {
+      "term": "VOMITING",
+      "count": 4782
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4769
+    },
+    {
+      "term": "FALL",
+      "count": 4615
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 4494
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 4481
+    },
+    {
+      "term": "MALAISE",
+      "count": 4453
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4196
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 4051
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 3872
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 3860
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 3792
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 3620
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 3612
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 3544
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 3526
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3525
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME",
+      "count": 3483
+    },
+    {
+      "term": "TREMOR",
+      "count": 3375
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 3293
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 3144
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 3041
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2929
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2907
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 2784
+    },
+    {
+      "term": "RASH",
+      "count": 2699
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2665
+    },
+    {
+      "term": "PARAESTHESIA",
+      "count": 2603
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2565
+    },
+    {
+      "term": "DEATH",
+      "count": 2541
+    },
+    {
+      "term": "PRURITUS",
+      "count": 2471
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 2438
+    },
+    {
+      "term": "SEROTONIN SYNDROME",
+      "count": 2430
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 2385
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2298
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 2251
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2225
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 2217
+    },
+    {
+      "term": "COUGH",
+      "count": 2169
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 2138
+    },
+    {
+      "term": "WITHDRAWAL SYNDROME",
+      "count": 2119
+    }
+  ]
+}

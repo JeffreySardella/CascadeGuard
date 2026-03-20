@@ -1,0 +1,206 @@
+{
+  "drug": "bismuth subsalicylate",
+  "fetchedAt": "2026-03-20T06:07:08Z",
+  "results": [
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1418
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 822
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 724
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 711
+    },
+    {
+      "term": "NAUSEA",
+      "count": 615
+    },
+    {
+      "term": "END STAGE RENAL DISEASE",
+      "count": 462
+    },
+    {
+      "term": "VOMITING",
+      "count": 399
+    },
+    {
+      "term": "FATIGUE",
+      "count": 368
+    },
+    {
+      "term": "RENAL INJURY",
+      "count": 327
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 311
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 286
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 281
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 259
+    },
+    {
+      "term": "PAIN",
+      "count": 256
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 243
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 241
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 239
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 239
+    },
+    {
+      "term": "OSTEOPOROSIS",
+      "count": 239
+    },
+    {
+      "term": "HEADACHE",
+      "count": 224
+    },
+    {
+      "term": "ANXIETY",
+      "count": 223
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 213
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 187
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 185
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 184
+    },
+    {
+      "term": "FALL",
+      "count": 184
+    },
+    {
+      "term": "DEATH",
+      "count": 182
+    },
+    {
+      "term": "NEPHROGENIC ANAEMIA",
+      "count": 180
+    },
+    {
+      "term": "ARTHRITIS",
+      "count": 175
+    },
+    {
+      "term": "ABDOMINAL DISTENSION",
+      "count": 168
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 167
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 162
+    },
+    {
+      "term": "DYSPEPSIA",
+      "count": 160
+    },
+    {
+      "term": "MALAISE",
+      "count": 157
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 146
+    },
+    {
+      "term": "FAECES DISCOLOURED",
+      "count": 143
+    },
+    {
+      "term": "COUGH",
+      "count": 142
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 139
+    },
+    {
+      "term": "MULTIPLE FRACTURES",
+      "count": 132
+    },
+    {
+      "term": "PRURITUS",
+      "count": 130
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 129
+    },
+    {
+      "term": "BONE DISORDER",
+      "count": 125
+    },
+    {
+      "term": "REBOUND ACID HYPERSECRETION",
+      "count": 124
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 117
+    },
+    {
+      "term": "PYREXIA",
+      "count": 117
+    },
+    {
+      "term": "TUBULOINTERSTITIAL NEPHRITIS",
+      "count": 116
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 115
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 113
+    },
+    {
+      "term": "RASH",
+      "count": 111
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 110
+    }
+  ]
+}

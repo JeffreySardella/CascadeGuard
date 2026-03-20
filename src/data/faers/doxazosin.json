@@ -1,0 +1,206 @@
+{
+  "drug": "doxazosin",
+  "fetchedAt": "2026-03-20T06:07:26Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 1938
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1688
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1682
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1623
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1570
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1431
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1291
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1257
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1224
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1201
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1108
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 1089
+    },
+    {
+      "term": "VOMITING",
+      "count": 1035
+    },
+    {
+      "term": "FALL",
+      "count": 997
+    },
+    {
+      "term": "MALAISE",
+      "count": 979
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 958
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 951
+    },
+    {
+      "term": "PAIN",
+      "count": 937
+    },
+    {
+      "term": "DEATH",
+      "count": 905
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 886
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 870
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 848
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 826
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 794
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 752
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 752
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 744
+    },
+    {
+      "term": "COUGH",
+      "count": 735
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 733
+    },
+    {
+      "term": "ANXIETY",
+      "count": 718
+    },
+    {
+      "term": "PRURITUS",
+      "count": 701
+    },
+    {
+      "term": "RASH",
+      "count": 700
+    },
+    {
+      "term": "PYREXIA",
+      "count": 699
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 681
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 641
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 624
+    },
+    {
+      "term": "ASTHMA",
+      "count": 604
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 602
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 599
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 597
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 590
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 581
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 568
+    },
+    {
+      "term": "MYALGIA",
+      "count": 545
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 540
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 534
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 525
+    },
+    {
+      "term": "HYPERKALAEMIA",
+      "count": 521
+    },
+    {
+      "term": "PRODUCTIVE COUGH",
+      "count": 505
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 503
+    }
+  ]
+}

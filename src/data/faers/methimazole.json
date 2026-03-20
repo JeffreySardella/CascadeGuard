@@ -1,0 +1,206 @@
+{
+  "drug": "methimazole",
+  "fetchedAt": "2026-03-20T06:04:42Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 607
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 463
+    },
+    {
+      "term": "FATIGUE",
+      "count": 426
+    },
+    {
+      "term": "HYPERTHYROIDISM",
+      "count": 384
+    },
+    {
+      "term": "NAUSEA",
+      "count": 372
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 325
+    },
+    {
+      "term": "HEADACHE",
+      "count": 315
+    },
+    {
+      "term": "PAIN",
+      "count": 296
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 292
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 266
+    },
+    {
+      "term": "AGRANULOCYTOSIS",
+      "count": 243
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 212
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 211
+    },
+    {
+      "term": "ANXIETY",
+      "count": 208
+    },
+    {
+      "term": "RASH",
+      "count": 208
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 196
+    },
+    {
+      "term": "PRURITUS",
+      "count": 195
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 193
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 185
+    },
+    {
+      "term": "PYREXIA",
+      "count": 177
+    },
+    {
+      "term": "DEATH",
+      "count": 174
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 164
+    },
+    {
+      "term": "FALL",
+      "count": 163
+    },
+    {
+      "term": "VOMITING",
+      "count": 162
+    },
+    {
+      "term": "MALAISE",
+      "count": 161
+    },
+    {
+      "term": "HYPOTHYROIDISM",
+      "count": 155
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 146
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 144
+    },
+    {
+      "term": "COUGH",
+      "count": 139
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 135
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 134
+    },
+    {
+      "term": "THYROTOXIC CRISIS",
+      "count": 127
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 124
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 123
+    },
+    {
+      "term": "MYALGIA",
+      "count": 122
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 121
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 120
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 117
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 116
+    },
+    {
+      "term": "CARDIAC ARREST",
+      "count": 114
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 113
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 113
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 111
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 110
+    },
+    {
+      "term": "TINNITUS",
+      "count": 109
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 107
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 107
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 105
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 103
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 103
+    }
+  ]
+}

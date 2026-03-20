@@ -1,0 +1,206 @@
+{
+  "drug": "tadalafil",
+  "fetchedAt": "2026-03-20T06:07:22Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 11666
+    },
+    {
+      "term": "HEADACHE",
+      "count": 10691
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 7803
+    },
+    {
+      "term": "NAUSEA",
+      "count": 6498
+    },
+    {
+      "term": "DEATH",
+      "count": 5898
+    },
+    {
+      "term": "FATIGUE",
+      "count": 5836
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 5432
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5176
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4226
+    },
+    {
+      "term": "COUGH",
+      "count": 4201
+    },
+    {
+      "term": "MALAISE",
+      "count": 3723
+    },
+    {
+      "term": "VOMITING",
+      "count": 3434
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 3307
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 3297
+    },
+    {
+      "term": "PAIN",
+      "count": 3291
+    },
+    {
+      "term": "FLUID RETENTION",
+      "count": 3149
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 3047
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 2970
+    },
+    {
+      "term": "PULMONARY ARTERIAL HYPERTENSION",
+      "count": 2840
+    },
+    {
+      "term": "FLUSHING",
+      "count": 2767
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 2645
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2604
+    },
+    {
+      "term": "PAIN IN JAW",
+      "count": 2368
+    },
+    {
+      "term": "DYSPNOEA EXERTIONAL",
+      "count": 2341
+    },
+    {
+      "term": "NASAL CONGESTION",
+      "count": 2259
+    },
+    {
+      "term": "FALL",
+      "count": 2223
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 2215
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 2191
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2185
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 2168
+    },
+    {
+      "term": "OXYGEN SATURATION DECREASED",
+      "count": 2118
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 2105
+    },
+    {
+      "term": "MYALGIA",
+      "count": 2093
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1998
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 1987
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 1963
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1953
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1768
+    },
+    {
+      "term": "INFUSION SITE PAIN",
+      "count": 1743
+    },
+    {
+      "term": "PULMONARY HYPERTENSION",
+      "count": 1707
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 1659
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1655
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1645
+    },
+    {
+      "term": "OEDEMA",
+      "count": 1635
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1565
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1526
+    },
+    {
+      "term": "HOSPITALISATION",
+      "count": 1522
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 1492
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 1437
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1414
+    }
+  ]
+}

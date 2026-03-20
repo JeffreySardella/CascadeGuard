@@ -1,0 +1,206 @@
+{
+  "drug": "hydrochlorothiazide",
+  "fetchedAt": "2026-03-20T06:02:34Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 13412
+    },
+    {
+      "term": "FATIGUE",
+      "count": 13395
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 13038
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 11432
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 11010
+    },
+    {
+      "term": "HEADACHE",
+      "count": 10463
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 10277
+    },
+    {
+      "term": "PAIN",
+      "count": 10093
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 7960
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 7771
+    },
+    {
+      "term": "FALL",
+      "count": 7644
+    },
+    {
+      "term": "VOMITING",
+      "count": 7603
+    },
+    {
+      "term": "MALAISE",
+      "count": 7273
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 7253
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 6971
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 6696
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 6545
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 6525
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 6075
+    },
+    {
+      "term": "COUGH",
+      "count": 5986
+    },
+    {
+      "term": "PRURITUS",
+      "count": 5940
+    },
+    {
+      "term": "ANXIETY",
+      "count": 5547
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 5433
+    },
+    {
+      "term": "RASH",
+      "count": 5215
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 5129
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 4983
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4771
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4766
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 4583
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 4530
+    },
+    {
+      "term": "DEATH",
+      "count": 4474
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 4336
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 4288
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 4258
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 4217
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4108
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4071
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 4026
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3892
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 3875
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3823
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 3756
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 3754
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 3721
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3673
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 3671
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 3629
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3604
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 3587
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 3555
+    }
+  ]
+}

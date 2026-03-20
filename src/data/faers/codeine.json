@@ -1,0 +1,206 @@
+{
+  "drug": "codeine",
+  "fetchedAt": "2026-03-20T06:03:59Z",
+  "results": [
+    {
+      "term": "DEPENDENCE",
+      "count": 6571
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 2521
+    },
+    {
+      "term": "PAIN",
+      "count": 2464
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2297
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2251
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 2187
+    },
+    {
+      "term": "RASH",
+      "count": 1866
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1809
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 1783
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1777
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 1746
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1731
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 1639
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1625
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1575
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1571
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 1566
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 1566
+    },
+    {
+      "term": "VOMITING",
+      "count": 1534
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 1511
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1500
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 1491
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 1471
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 1468
+    },
+    {
+      "term": "HEPATIC ENZYME INCREASED",
+      "count": 1462
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 1453
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 1443
+    },
+    {
+      "term": "BLISTER",
+      "count": 1438
+    },
+    {
+      "term": "SWELLING",
+      "count": 1420
+    },
+    {
+      "term": "MALAISE",
+      "count": 1397
+    },
+    {
+      "term": "STOMATITIS",
+      "count": 1393
+    },
+    {
+      "term": "DUODENAL ULCER PERFORATION",
+      "count": 1389
+    },
+    {
+      "term": "HELICOBACTER INFECTION",
+      "count": 1378
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1375
+    },
+    {
+      "term": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+      "count": 1374
+    },
+    {
+      "term": "FOLLICULITIS",
+      "count": 1361
+    },
+    {
+      "term": "PERICARDITIS",
+      "count": 1352
+    },
+    {
+      "term": "LOWER RESPIRATORY TRACT INFECTION",
+      "count": 1349
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 1347
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1346
+    },
+    {
+      "term": "PEMPHIGUS",
+      "count": 1341
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1328
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1322
+    },
+    {
+      "term": "HAND DEFORMITY",
+      "count": 1317
+    },
+    {
+      "term": "IMPAIRED HEALING",
+      "count": 1316
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1305
+    },
+    {
+      "term": "IRRITABLE BOWEL SYNDROME",
+      "count": 1305
+    },
+    {
+      "term": "GLOSSODYNIA",
+      "count": 1303
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1273
+    },
+    {
+      "term": "MUSCLE INJURY",
+      "count": 1271
+    }
+  ]
+}

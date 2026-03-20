@@ -1,0 +1,206 @@
+{
+  "drug": "metoprolol",
+  "fetchedAt": "2026-03-20T06:03:00Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 22538
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 19526
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 19149
+    },
+    {
+      "term": "NAUSEA",
+      "count": 18957
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 17042
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 16174
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 14092
+    },
+    {
+      "term": "DEATH",
+      "count": 13700
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 13102
+    },
+    {
+      "term": "PAIN",
+      "count": 12867
+    },
+    {
+      "term": "HEADACHE",
+      "count": 12833
+    },
+    {
+      "term": "FALL",
+      "count": 12418
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 10033
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 9986
+    },
+    {
+      "term": "VOMITING",
+      "count": 9932
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 9416
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 9321
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 9088
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 9031
+    },
+    {
+      "term": "MALAISE",
+      "count": 8984
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 8717
+    },
+    {
+      "term": "COUGH",
+      "count": 8443
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 8164
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 8072
+    },
+    {
+      "term": "RASH",
+      "count": 7775
+    },
+    {
+      "term": "PRURITUS",
+      "count": 7514
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 7426
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 7391
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 7289
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 6841
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 6798
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 6725
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 6614
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 6565
+    },
+    {
+      "term": "ANXIETY",
+      "count": 6541
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 6338
+    },
+    {
+      "term": "PYREXIA",
+      "count": 6194
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 6003
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 5998
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 5878
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 5727
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 5634
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 5489
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 5446
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 5397
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 5360
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 5239
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 5234
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 5213
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 5182
+    }
+  ]
+}

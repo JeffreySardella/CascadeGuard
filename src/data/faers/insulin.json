@@ -1,0 +1,206 @@
+{
+  "drug": "insulin",
+  "fetchedAt": "2026-03-20T06:04:30Z",
+  "results": [
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 85689
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 23592
+    },
+    {
+      "term": "BLOOD GLUCOSE DECREASED",
+      "count": 21813
+    },
+    {
+      "term": "NAUSEA",
+      "count": 20008
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 17237
+    },
+    {
+      "term": "INCORRECT DOSE ADMINISTERED",
+      "count": 15918
+    },
+    {
+      "term": "VISUAL IMPAIRMENT",
+      "count": 15002
+    },
+    {
+      "term": "HYPOGLYCAEMIA",
+      "count": 14705
+    },
+    {
+      "term": "FATIGUE",
+      "count": 14448
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 14405
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 13793
+    },
+    {
+      "term": "MALAISE",
+      "count": 13335
+    },
+    {
+      "term": "VOMITING",
+      "count": 13083
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 12473
+    },
+    {
+      "term": "FALL",
+      "count": 12105
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 11966
+    },
+    {
+      "term": "HEADACHE",
+      "count": 11074
+    },
+    {
+      "term": "PAIN",
+      "count": 10940
+    },
+    {
+      "term": "INJECTION SITE PAIN",
+      "count": 10913
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF PRODUCT ADMINISTRATION",
+      "count": 10897
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 10852
+    },
+    {
+      "term": "PRODUCT STORAGE ERROR",
+      "count": 10634
+    },
+    {
+      "term": "DEATH",
+      "count": 10180
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 8912
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 8874
+    },
+    {
+      "term": "GLYCOSYLATED HAEMOGLOBIN INCREASED",
+      "count": 8742
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 8417
+    },
+    {
+      "term": "HYPERGLYCAEMIA",
+      "count": 8273
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 8169
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 8034
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 8031
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 7536
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 7500
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 7464
+    },
+    {
+      "term": "BLOOD GLUCOSE ABNORMAL",
+      "count": 7327
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 6871
+    },
+    {
+      "term": "DIABETES MELLITUS INADEQUATE CONTROL",
+      "count": 6835
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 6674
+    },
+    {
+      "term": "COUGH",
+      "count": 6445
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 6404
+    },
+    {
+      "term": "PRURITUS",
+      "count": 6253
+    },
+    {
+      "term": "PYREXIA",
+      "count": 6219
+    },
+    {
+      "term": "DIABETIC KETOACIDOSIS",
+      "count": 6142
+    },
+    {
+      "term": "CATARACT",
+      "count": 6126
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 6043
+    },
+    {
+      "term": "WRONG TECHNIQUE IN PRODUCT USAGE PROCESS",
+      "count": 6036
+    },
+    {
+      "term": "RASH",
+      "count": 5893
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 5749
+    },
+    {
+      "term": "TREMOR",
+      "count": 5731
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 5707
+    }
+  ]
+}

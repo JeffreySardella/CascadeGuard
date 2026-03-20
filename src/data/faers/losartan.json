@@ -1,0 +1,206 @@
+{
+  "drug": "losartan",
+  "fetchedAt": "2026-03-20T06:04:46Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 13966
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 11700
+    },
+    {
+      "term": "NAUSEA",
+      "count": 11512
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 11290
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 10377
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 9895
+    },
+    {
+      "term": "HEADACHE",
+      "count": 9456
+    },
+    {
+      "term": "PAIN",
+      "count": 8870
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 7929
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 7572
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 7273
+    },
+    {
+      "term": "MALAISE",
+      "count": 6960
+    },
+    {
+      "term": "FALL",
+      "count": 6425
+    },
+    {
+      "term": "COUGH",
+      "count": 6415
+    },
+    {
+      "term": "VOMITING",
+      "count": 6385
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 5888
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 5790
+    },
+    {
+      "term": "PRURITUS",
+      "count": 5766
+    },
+    {
+      "term": "DEATH",
+      "count": 5554
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 5515
+    },
+    {
+      "term": "RASH",
+      "count": 5476
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 5167
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 5111
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 5099
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 4874
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 4670
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4520
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 4364
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 4310
+    },
+    {
+      "term": "ANXIETY",
+      "count": 4196
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 4163
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 4139
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4071
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 4032
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 3978
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 3918
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3902
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 3802
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 3757
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 3672
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 3555
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 3524
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 3316
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 3315
+    },
+    {
+      "term": "COVID-19",
+      "count": 3297
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3237
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 3224
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 3192
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 3181
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 3134
+    }
+  ]
+}

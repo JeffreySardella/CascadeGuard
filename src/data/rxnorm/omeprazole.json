@@ -1,0 +1,15 @@
+{
+  "genericName": "omeprazole",
+  "rxcui": "7646",
+  "drugClass": "Proton Pump Inhibitors",
+  "brandNames": [
+    "Yosprala",
+    "Prilosec",
+    "Talicia",
+    "Konvomep",
+    "Primeguard",
+    "Zegerid Reformulated Aug 2006",
+    "UlcerGard"
+  ],
+  "fetchedAt": "2026-03-20T06:03:27Z"
+}

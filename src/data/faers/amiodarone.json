@@ -1,0 +1,206 @@
+{
+  "drug": "amiodarone",
+  "fetchedAt": "2026-03-20T06:03:04Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 1158
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 975
+    },
+    {
+      "term": "FATIGUE",
+      "count": 895
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 852
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 719
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 664
+    },
+    {
+      "term": "NAUSEA",
+      "count": 606
+    },
+    {
+      "term": "COUGH",
+      "count": 597
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 594
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 572
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 539
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 477
+    },
+    {
+      "term": "VOMITING",
+      "count": 467
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 453
+    },
+    {
+      "term": "PULMONARY TOXICITY",
+      "count": 407
+    },
+    {
+      "term": "DEATH",
+      "count": 392
+    },
+    {
+      "term": "PULMONARY FIBROSIS",
+      "count": 390
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 380
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 375
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 364
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 351
+    },
+    {
+      "term": "FALL",
+      "count": 350
+    },
+    {
+      "term": "HYPERTHYROIDISM",
+      "count": 349
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 347
+    },
+    {
+      "term": "RESPIRATORY FAILURE",
+      "count": 338
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 332
+    },
+    {
+      "term": "BLINDNESS",
+      "count": 328
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 328
+    },
+    {
+      "term": "WHEEZING",
+      "count": 326
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 324
+    },
+    {
+      "term": "HEADACHE",
+      "count": 323
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 319
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 317
+    },
+    {
+      "term": "SEPSIS",
+      "count": 306
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 303
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 297
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 282
+    },
+    {
+      "term": "CARDIOGENIC SHOCK",
+      "count": 280
+    },
+    {
+      "term": "PAIN",
+      "count": 269
+    },
+    {
+      "term": "UNEVALUABLE EVENT",
+      "count": 269
+    },
+    {
+      "term": "INTERSTITIAL LUNG DISEASE",
+      "count": 267
+    },
+    {
+      "term": "BRADYCARDIA",
+      "count": 262
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 261
+    },
+    {
+      "term": "VENTRICULAR FIBRILLATION",
+      "count": 260
+    },
+    {
+      "term": "MULTIPLE ORGAN DYSFUNCTION SYNDROME",
+      "count": 259
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 246
+    },
+    {
+      "term": "ABDOMINAL DISTENSION",
+      "count": 238
+    },
+    {
+      "term": "ASCITES",
+      "count": 236
+    },
+    {
+      "term": "GASTROINTESTINAL HAEMORRHAGE",
+      "count": 234
+    },
+    {
+      "term": "TREMOR",
+      "count": 233
+    }
+  ]
+}

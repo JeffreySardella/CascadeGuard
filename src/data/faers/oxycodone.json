@@ -1,0 +1,206 @@
+{
+  "drug": "oxycodone",
+  "fetchedAt": "2026-03-20T06:03:06Z",
+  "results": [
+    {
+      "term": "DRUG DEPENDENCE",
+      "count": 102987
+    },
+    {
+      "term": "PAIN",
+      "count": 68749
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 59089
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 50107
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME",
+      "count": 38330
+    },
+    {
+      "term": "DEATH",
+      "count": 33849
+    },
+    {
+      "term": "DEPENDENCE",
+      "count": 22768
+    },
+    {
+      "term": "NAUSEA",
+      "count": 19578
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 18578
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 18316
+    },
+    {
+      "term": "FATIGUE",
+      "count": 18307
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 13828
+    },
+    {
+      "term": "VOMITING",
+      "count": 13621
+    },
+    {
+      "term": "ANXIETY",
+      "count": 13067
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 12869
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 12714
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 12698
+    },
+    {
+      "term": "HEADACHE",
+      "count": 12097
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 11151
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 10905
+    },
+    {
+      "term": "ILL-DEFINED DISORDER",
+      "count": 10514
+    },
+    {
+      "term": "RASH",
+      "count": 9737
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 9347
+    },
+    {
+      "term": "PYREXIA",
+      "count": 9343
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 8877
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 8650
+    },
+    {
+      "term": "MALAISE",
+      "count": 8649
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 8617
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 8543
+    },
+    {
+      "term": "FALL",
+      "count": 8460
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 7987
+    },
+    {
+      "term": "PRURITUS",
+      "count": 7637
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 7449
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 7424
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 7363
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 7340
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 7103
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 6819
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 6557
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME NEONATAL",
+      "count": 6400
+    },
+    {
+      "term": "WITHDRAWAL SYNDROME",
+      "count": 6377
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 6367
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 6224
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 6177
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 6144
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 6137
+    },
+    {
+      "term": "INJURY",
+      "count": 6130
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 6030
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 5926
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 5899
+    }
+  ]
+}

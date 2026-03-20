@@ -1,0 +1,206 @@
+{
+  "drug": "linagliptin",
+  "fetchedAt": "2026-03-20T06:06:58Z",
+  "results": [
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 1585
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1323
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1310
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1134
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1059
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1031
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1012
+    },
+    {
+      "term": "VOMITING",
+      "count": 1001
+    },
+    {
+      "term": "MALAISE",
+      "count": 845
+    },
+    {
+      "term": "HEADACHE",
+      "count": 838
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 824
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 788
+    },
+    {
+      "term": "PRURITUS",
+      "count": 773
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 752
+    },
+    {
+      "term": "PYREXIA",
+      "count": 713
+    },
+    {
+      "term": "PAIN",
+      "count": 708
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 659
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 657
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 627
+    },
+    {
+      "term": "COVID-19",
+      "count": 603
+    },
+    {
+      "term": "FALL",
+      "count": 602
+    },
+    {
+      "term": "DEATH",
+      "count": 596
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 594
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 592
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 586
+    },
+    {
+      "term": "RASH",
+      "count": 576
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 575
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 566
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 557
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 552
+    },
+    {
+      "term": "ANXIETY",
+      "count": 551
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 549
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 520
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 515
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 506
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 503
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 498
+    },
+    {
+      "term": "VISUAL IMPAIRMENT",
+      "count": 490
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 482
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 474
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 473
+    },
+    {
+      "term": "TACHYCARDIA",
+      "count": 465
+    },
+    {
+      "term": "HEART RATE INCREASED",
+      "count": 462
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 442
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 426
+    },
+    {
+      "term": "DRY SKIN",
+      "count": 425
+    },
+    {
+      "term": "BLINDNESS",
+      "count": 420
+    },
+    {
+      "term": "AMNESIA",
+      "count": 417
+    },
+    {
+      "term": "HYPOGLYCAEMIA",
+      "count": 412
+    },
+    {
+      "term": "SUBARACHNOID HAEMORRHAGE",
+      "count": 412
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "fludrocortisone",
+  "fetchedAt": "2026-03-20T06:07:36Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 146
+    },
+    {
+      "term": "FALL",
+      "count": 144
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 135
+    },
+    {
+      "term": "NAUSEA",
+      "count": 129
+    },
+    {
+      "term": "DEATH",
+      "count": 126
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 124
+    },
+    {
+      "term": "HEADACHE",
+      "count": 108
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 103
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 96
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 95
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 93
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 90
+    },
+    {
+      "term": "VOMITING",
+      "count": 90
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 85
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 81
+    },
+    {
+      "term": "PAIN",
+      "count": 79
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 78
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 77
+    },
+    {
+      "term": "MALAISE",
+      "count": 74
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 73
+    },
+    {
+      "term": "PYREXIA",
+      "count": 70
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 69
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 64
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 62
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 61
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 58
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 58
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 55
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 54
+    },
+    {
+      "term": "ANXIETY",
+      "count": 52
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 50
+    },
+    {
+      "term": "BLOOD PRESSURE DECREASED",
+      "count": 48
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 47
+    },
+    {
+      "term": "COUGH",
+      "count": 47
+    },
+    {
+      "term": "COVID-19",
+      "count": 47
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 47
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 47
+    },
+    {
+      "term": "RASH",
+      "count": 47
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 46
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 44
+    },
+    {
+      "term": "SEIZURE",
+      "count": 43
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 43
+    },
+    {
+      "term": "TREMOR",
+      "count": 43
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 40
+    },
+    {
+      "term": "ORTHOSTATIC HYPOTENSION",
+      "count": 40
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 39
+    },
+    {
+      "term": "PRURITUS",
+      "count": 39
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 39
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 38
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 37
+    }
+  ]
+}

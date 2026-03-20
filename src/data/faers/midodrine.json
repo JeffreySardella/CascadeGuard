@@ -1,0 +1,206 @@
+{
+  "drug": "midodrine",
+  "fetchedAt": "2026-03-20T06:05:58Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 332
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 323
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 315
+    },
+    {
+      "term": "HEADACHE",
+      "count": 309
+    },
+    {
+      "term": "DEATH",
+      "count": 293
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 279
+    },
+    {
+      "term": "FATIGUE",
+      "count": 276
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 269
+    },
+    {
+      "term": "FALL",
+      "count": 255
+    },
+    {
+      "term": "VOMITING",
+      "count": 191
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 180
+    },
+    {
+      "term": "COUGH",
+      "count": 174
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 173
+    },
+    {
+      "term": "PAIN",
+      "count": 170
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 169
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 167
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 162
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 143
+    },
+    {
+      "term": "INFUSION SITE PAIN",
+      "count": 124
+    },
+    {
+      "term": "MALAISE",
+      "count": 120
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 119
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 115
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 112
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 109
+    },
+    {
+      "term": "BLOOD PRESSURE DECREASED",
+      "count": 105
+    },
+    {
+      "term": "COVID-19",
+      "count": 105
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 103
+    },
+    {
+      "term": "ANXIETY",
+      "count": 101
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 101
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 101
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 95
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 90
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 88
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 88
+    },
+    {
+      "term": "PYREXIA",
+      "count": 87
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 85
+    },
+    {
+      "term": "ILLNESS",
+      "count": 84
+    },
+    {
+      "term": "RASH",
+      "count": 83
+    },
+    {
+      "term": "PRURITUS",
+      "count": 81
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 80
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 79
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 79
+    },
+    {
+      "term": "SEPSIS",
+      "count": 79
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 77
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 76
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 75
+    },
+    {
+      "term": "INFUSION SITE ERYTHEMA",
+      "count": 74
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 73
+    },
+    {
+      "term": "HOSPITALISATION",
+      "count": 73
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 72
+    }
+  ]
+}

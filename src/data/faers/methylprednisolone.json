@@ -1,0 +1,206 @@
+{
+  "drug": "methylprednisolone",
+  "fetchedAt": "2026-03-20T06:07:46Z",
+  "results": [
+    {
+      "term": "OFF LABEL USE",
+      "count": 24184
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 17843
+    },
+    {
+      "term": "FATIGUE",
+      "count": 10108
+    },
+    {
+      "term": "PAIN",
+      "count": 9645
+    },
+    {
+      "term": "NAUSEA",
+      "count": 9180
+    },
+    {
+      "term": "HEADACHE",
+      "count": 9147
+    },
+    {
+      "term": "PYREXIA",
+      "count": 8855
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 8484
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 8045
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 7894
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 7770
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 7238
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 7005
+    },
+    {
+      "term": "RASH",
+      "count": 6843
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 6318
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 6064
+    },
+    {
+      "term": "VOMITING",
+      "count": 6021
+    },
+    {
+      "term": "MALAISE",
+      "count": 5717
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 5612
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 5483
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5323
+    },
+    {
+      "term": "COUGH",
+      "count": 5129
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 5040
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4928
+    },
+    {
+      "term": "PRURITUS",
+      "count": 4845
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 4661
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 4650
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 4566
+    },
+    {
+      "term": "INTENTIONAL PRODUCT USE ISSUE",
+      "count": 4437
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 4360
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 4200
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 4116
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3950
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 3833
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 3776
+    },
+    {
+      "term": "ANXIETY",
+      "count": 3715
+    },
+    {
+      "term": "FALL",
+      "count": 3699
+    },
+    {
+      "term": "INFECTION",
+      "count": 3663
+    },
+    {
+      "term": "URTICARIA",
+      "count": 3639
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 3606
+    },
+    {
+      "term": "COVID-19",
+      "count": 3537
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 3487
+    },
+    {
+      "term": "DEATH",
+      "count": 3473
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 3453
+    },
+    {
+      "term": "SEPSIS",
+      "count": 3413
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 3410
+    },
+    {
+      "term": "OXYGEN SATURATION DECREASED",
+      "count": 3407
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 3307
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 3252
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 3187
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "nystatin",
+  "fetchedAt": "2026-03-20T06:04:24Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 1970
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1805
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1792
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1617
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1484
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1383
+    },
+    {
+      "term": "VOMITING",
+      "count": 1333
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1269
+    },
+    {
+      "term": "PAIN",
+      "count": 1261
+    },
+    {
+      "term": "DEATH",
+      "count": 1190
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1113
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1010
+    },
+    {
+      "term": "RASH",
+      "count": 967
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 957
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 934
+    },
+    {
+      "term": "COUGH",
+      "count": 934
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 889
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 862
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 857
+    },
+    {
+      "term": "FALL",
+      "count": 802
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 801
+    },
+    {
+      "term": "MALAISE",
+      "count": 794
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 791
+    },
+    {
+      "term": "ANXIETY",
+      "count": 753
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 743
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 738
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 721
+    },
+    {
+      "term": "SEPSIS",
+      "count": 712
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 675
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 670
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 656
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 640
+    },
+    {
+      "term": "PRURITUS",
+      "count": 634
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 626
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 619
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 592
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 586
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 570
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 569
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 553
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 515
+    },
+    {
+      "term": "CANDIDA INFECTION",
+      "count": 506
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 506
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 485
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 472
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 459
+    },
+    {
+      "term": "INFECTION",
+      "count": 449
+    },
+    {
+      "term": "ORAL CANDIDIASIS",
+      "count": 444
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 438
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 437
+    }
+  ]
+}

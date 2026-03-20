@@ -1,0 +1,206 @@
+{
+  "drug": "alendronate",
+  "fetchedAt": "2026-03-20T06:07:14Z",
+  "results": [
+    {
+      "term": "PAIN",
+      "count": 13574
+    },
+    {
+      "term": "FATIGUE",
+      "count": 12810
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 12364
+    },
+    {
+      "term": "FEMUR FRACTURE",
+      "count": 11429
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 11084
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 9949
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 9892
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 9821
+    },
+    {
+      "term": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+      "count": 8988
+    },
+    {
+      "term": "RASH",
+      "count": 8741
+    },
+    {
+      "term": "PEMPHIGUS",
+      "count": 8686
+    },
+    {
+      "term": "FALL",
+      "count": 8232
+    },
+    {
+      "term": "GLOSSODYNIA",
+      "count": 8078
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 8068
+    },
+    {
+      "term": "SWELLING",
+      "count": 7610
+    },
+    {
+      "term": "NAUSEA",
+      "count": 7590
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 7518
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 7488
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 7432
+    },
+    {
+      "term": "HEADACHE",
+      "count": 6966
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 6954
+    },
+    {
+      "term": "HAND DEFORMITY",
+      "count": 6932
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 6856
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 6754
+    },
+    {
+      "term": "WOUND",
+      "count": 6664
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 6536
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 6504
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 6425
+    },
+    {
+      "term": "CONTRAINDICATED PRODUCT ADMINISTERED",
+      "count": 6187
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 6164
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 5912
+    },
+    {
+      "term": "HEPATIC ENZYME INCREASED",
+      "count": 5862
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5808
+    },
+    {
+      "term": "PERICARDITIS",
+      "count": 5678
+    },
+    {
+      "term": "OSTEOARTHRITIS",
+      "count": 5623
+    },
+    {
+      "term": "DISCOMFORT",
+      "count": 5493
+    },
+    {
+      "term": "IMPAIRED HEALING",
+      "count": 5404
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 5358
+    },
+    {
+      "term": "VOMITING",
+      "count": 5238
+    },
+    {
+      "term": "ANTI-CYCLIC CITRULLINATED PEPTIDE ANTIBODY POSITIVE",
+      "count": 5148
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 5139
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 5040
+    },
+    {
+      "term": "PYREXIA",
+      "count": 5011
+    },
+    {
+      "term": "ANXIETY",
+      "count": 4917
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4906
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 4887
+    },
+    {
+      "term": "MALAISE",
+      "count": 4880
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4859
+    },
+    {
+      "term": "PRURITUS",
+      "count": 4839
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 4820
+    }
+  ]
+}

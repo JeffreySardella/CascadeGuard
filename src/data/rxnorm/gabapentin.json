@@ -1,0 +1,12 @@
+{
+  "genericName": "gabapentin",
+  "rxcui": "25480",
+  "drugClass": "Unknown Cellular or Molecular Interaction",
+  "brandNames": [
+    "Gralise",
+    "Horizant",
+    "Neurontin",
+    "Gabarone"
+  ],
+  "fetchedAt": "2026-03-20T06:03:00Z"
+}

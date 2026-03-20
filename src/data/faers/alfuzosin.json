@@ -1,0 +1,206 @@
+{
+  "drug": "alfuzosin",
+  "fetchedAt": "2026-03-20T06:07:28Z",
+  "results": [
+    {
+      "term": "DIZZINESS",
+      "count": 327
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 315
+    },
+    {
+      "term": "FATIGUE",
+      "count": 283
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 233
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 200
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 193
+    },
+    {
+      "term": "FALL",
+      "count": 187
+    },
+    {
+      "term": "NAUSEA",
+      "count": 180
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 175
+    },
+    {
+      "term": "HEADACHE",
+      "count": 167
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 152
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 152
+    },
+    {
+      "term": "MALAISE",
+      "count": 141
+    },
+    {
+      "term": "DEATH",
+      "count": 134
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 127
+    },
+    {
+      "term": "PAIN",
+      "count": 125
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 125
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 123
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 118
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 112
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 111
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 111
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 109
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 107
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 107
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 104
+    },
+    {
+      "term": "RASH",
+      "count": 102
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 102
+    },
+    {
+      "term": "VOMITING",
+      "count": 96
+    },
+    {
+      "term": "COUGH",
+      "count": 94
+    },
+    {
+      "term": "PRURITUS",
+      "count": 92
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 88
+    },
+    {
+      "term": "MYALGIA",
+      "count": 87
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 86
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 86
+    },
+    {
+      "term": "URINARY RETENTION",
+      "count": 86
+    },
+    {
+      "term": "PYREXIA",
+      "count": 85
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 84
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 83
+    },
+    {
+      "term": "ANXIETY",
+      "count": 80
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 76
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 76
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 75
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 73
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 73
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 73
+    },
+    {
+      "term": "BLOOD PRESSURE DECREASED",
+      "count": 72
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 72
+    },
+    {
+      "term": "TREMOR",
+      "count": 71
+    },
+    {
+      "term": "DYSURIA",
+      "count": 70
+    }
+  ]
+}

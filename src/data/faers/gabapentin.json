@@ -1,0 +1,206 @@
+{
+  "drug": "gabapentin",
+  "fetchedAt": "2026-03-20T06:03:14Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 29099
+    },
+    {
+      "term": "FATIGUE",
+      "count": 24477
+    },
+    {
+      "term": "NAUSEA",
+      "count": 22031
+    },
+    {
+      "term": "PAIN",
+      "count": 20809
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 19091
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 17503
+    },
+    {
+      "term": "HEADACHE",
+      "count": 17372
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 16088
+    },
+    {
+      "term": "FALL",
+      "count": 15227
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 13781
+    },
+    {
+      "term": "VOMITING",
+      "count": 11739
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 11670
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 11403
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 11187
+    },
+    {
+      "term": "DEATH",
+      "count": 10779
+    },
+    {
+      "term": "MALAISE",
+      "count": 10549
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 10088
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 10036
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 10024
+    },
+    {
+      "term": "ANXIETY",
+      "count": 9859
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 9598
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 9462
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 9037
+    },
+    {
+      "term": "RASH",
+      "count": 8701
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 8484
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 8452
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 8112
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 8056
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 7737
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 7498
+    },
+    {
+      "term": "PRURITUS",
+      "count": 7434
+    },
+    {
+      "term": "PYREXIA",
+      "count": 7361
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 6957
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 6910
+    },
+    {
+      "term": "COUGH",
+      "count": 6716
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 6666
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 6623
+    },
+    {
+      "term": "TREMOR",
+      "count": 6582
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 6544
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 6527
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 6493
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 6403
+    },
+    {
+      "term": "DRUG INEFFECTIVE FOR UNAPPROVED INDICATION",
+      "count": 6367
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 6351
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 6247
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 6056
+    },
+    {
+      "term": "NEUROPATHY PERIPHERAL",
+      "count": 5905
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 5835
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 5834
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 5822
+    }
+  ]
+}

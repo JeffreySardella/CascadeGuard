@@ -1,0 +1,206 @@
+{
+  "drug": "senna",
+  "fetchedAt": "2026-03-20T06:04:18Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 3434
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2865
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2720
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 2296
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2284
+    },
+    {
+      "term": "PAIN",
+      "count": 2255
+    },
+    {
+      "term": "DEATH",
+      "count": 2189
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2089
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2048
+    },
+    {
+      "term": "VOMITING",
+      "count": 2017
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1924
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1882
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1738
+    },
+    {
+      "term": "FALL",
+      "count": 1712
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1554
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1484
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1431
+    },
+    {
+      "term": "RASH",
+      "count": 1428
+    },
+    {
+      "term": "MALAISE",
+      "count": 1421
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1269
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1159
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1156
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1112
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1077
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1042
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1030
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 1017
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1009
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1004
+    },
+    {
+      "term": "ANXIETY",
+      "count": 993
+    },
+    {
+      "term": "COUGH",
+      "count": 952
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 928
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 903
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 890
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 883
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 879
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 825
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 822
+    },
+    {
+      "term": "SEPSIS",
+      "count": 815
+    },
+    {
+      "term": "PRURITUS",
+      "count": 773
+    },
+    {
+      "term": "ASTHMA",
+      "count": 769
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 769
+    },
+    {
+      "term": "HAEMOGLOBIN DECREASED",
+      "count": 755
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 725
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 717
+    },
+    {
+      "term": "DISEASE PROGRESSION",
+      "count": 716
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 711
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 704
+    },
+    {
+      "term": "PLEURAL EFFUSION",
+      "count": 695
+    },
+    {
+      "term": "FLUID RETENTION",
+      "count": 689
+    }
+  ]
+}

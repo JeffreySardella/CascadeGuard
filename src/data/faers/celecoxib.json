@@ -1,0 +1,206 @@
+{
+  "drug": "celecoxib",
+  "fetchedAt": "2026-03-20T06:02:49Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 17633
+    },
+    {
+      "term": "PAIN",
+      "count": 12296
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 10924
+    },
+    {
+      "term": "FATIGUE",
+      "count": 9709
+    },
+    {
+      "term": "NAUSEA",
+      "count": 9389
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 7713
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 7650
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 7296
+    },
+    {
+      "term": "HEADACHE",
+      "count": 7228
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 7199
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 7038
+    },
+    {
+      "term": "MALAISE",
+      "count": 6220
+    },
+    {
+      "term": "RASH",
+      "count": 6214
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 6207
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 6187
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 6184
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 6069
+    },
+    {
+      "term": "VOMITING",
+      "count": 5816
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 5503
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 5249
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 4847
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4794
+    },
+    {
+      "term": "PRURITUS",
+      "count": 4579
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4459
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 4450
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4405
+    },
+    {
+      "term": "FALL",
+      "count": 4355
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 4334
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 4320
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 4311
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4287
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 4255
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 4133
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 4047
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 4023
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4023
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 3992
+    },
+    {
+      "term": "PYREXIA",
+      "count": 3976
+    },
+    {
+      "term": "ANXIETY",
+      "count": 3883
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 3862
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 3831
+    },
+    {
+      "term": "SWELLING",
+      "count": 3581
+    },
+    {
+      "term": "PSORIATIC ARTHROPATHY",
+      "count": 3527
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 3506
+    },
+    {
+      "term": "ARTHRITIS",
+      "count": 3503
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3466
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 3440
+    },
+    {
+      "term": "INFECTION",
+      "count": 3340
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3305
+    },
+    {
+      "term": "URTICARIA",
+      "count": 3305
+    }
+  ]
+}

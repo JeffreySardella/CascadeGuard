@@ -1,0 +1,206 @@
+{
+  "drug": "mirabegron",
+  "fetchedAt": "2026-03-20T06:08:05Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 5738
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2683
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2215
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2162
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2093
+    },
+    {
+      "term": "FALL",
+      "count": 1892
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1861
+    },
+    {
+      "term": "PAIN",
+      "count": 1742
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1705
+    },
+    {
+      "term": "INTENTIONAL PRODUCT MISUSE",
+      "count": 1524
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1490
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 1474
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1468
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1391
+    },
+    {
+      "term": "RASH",
+      "count": 1350
+    },
+    {
+      "term": "DRY MOUTH",
+      "count": 1319
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1308
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1297
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1295
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1292
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1292
+    },
+    {
+      "term": "VOMITING",
+      "count": 1198
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 1151
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1116
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1106
+    },
+    {
+      "term": "MALAISE",
+      "count": 1102
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 1097
+    },
+    {
+      "term": "INTENTIONAL PRODUCT USE ISSUE",
+      "count": 1084
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 1073
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 1067
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT INCOMPLETE",
+      "count": 1060
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1050
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 1021
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1015
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1007
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 991
+    },
+    {
+      "term": "DEATH",
+      "count": 974
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 958
+    },
+    {
+      "term": "PARAESTHESIA",
+      "count": 957
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 937
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 922
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 873
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 865
+    },
+    {
+      "term": "POLLAKIURIA",
+      "count": 841
+    },
+    {
+      "term": "URINARY INCONTINENCE",
+      "count": 833
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 813
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 812
+    },
+    {
+      "term": "URTICARIA",
+      "count": 807
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 796
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 794
+    }
+  ]
+}

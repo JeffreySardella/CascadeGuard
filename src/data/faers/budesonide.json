@@ -1,0 +1,206 @@
+{
+  "drug": "budesonide",
+  "fetchedAt": "2026-03-20T06:03:12Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 24562
+    },
+    {
+      "term": "ASTHMA",
+      "count": 16115
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 12886
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 11580
+    },
+    {
+      "term": "COUGH",
+      "count": 11124
+    },
+    {
+      "term": "FATIGUE",
+      "count": 8729
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 8296
+    },
+    {
+      "term": "WHEEZING",
+      "count": 7682
+    },
+    {
+      "term": "HEADACHE",
+      "count": 7476
+    },
+    {
+      "term": "MALAISE",
+      "count": 6724
+    },
+    {
+      "term": "NAUSEA",
+      "count": 6568
+    },
+    {
+      "term": "DEATH",
+      "count": 5965
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 5862
+    },
+    {
+      "term": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+      "count": 5422
+    },
+    {
+      "term": "PAIN",
+      "count": 5336
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 5126
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5108
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 4935
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 4780
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 4410
+    },
+    {
+      "term": "INTENTIONAL PRODUCT MISUSE",
+      "count": 4396
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 4346
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT INCOMPLETE",
+      "count": 4280
+    },
+    {
+      "term": "CHEST DISCOMFORT",
+      "count": 4278
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4258
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4145
+    },
+    {
+      "term": "DEVICE MALFUNCTION",
+      "count": 4023
+    },
+    {
+      "term": "VOMITING",
+      "count": 3985
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 3752
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 3746
+    },
+    {
+      "term": "PRODUCTIVE COUGH",
+      "count": 3633
+    },
+    {
+      "term": "RASH",
+      "count": 3602
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 3596
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 3562
+    },
+    {
+      "term": "FALL",
+      "count": 3553
+    },
+    {
+      "term": "LOSS OF PERSONAL INDEPENDENCE IN DAILY ACTIVITIES",
+      "count": 3454
+    },
+    {
+      "term": "ANXIETY",
+      "count": 3291
+    },
+    {
+      "term": "PRURITUS",
+      "count": 3257
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 3154
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 3107
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 3099
+    },
+    {
+      "term": "BRONCHITIS",
+      "count": 3097
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 3079
+    },
+    {
+      "term": "DEVICE DELIVERY SYSTEM ISSUE",
+      "count": 3061
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 2942
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 2937
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 2912
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 2905
+    },
+    {
+      "term": "DYSPHONIA",
+      "count": 2894
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2842
+    }
+  ]
+}

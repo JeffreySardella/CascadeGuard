@@ -1,0 +1,206 @@
+{
+  "drug": "desipramine",
+  "fetchedAt": "2026-03-20T06:06:45Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 137
+    },
+    {
+      "term": "FATIGUE",
+      "count": 127
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 116
+    },
+    {
+      "term": "NAUSEA",
+      "count": 83
+    },
+    {
+      "term": "HEADACHE",
+      "count": 74
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 72
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 70
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 66
+    },
+    {
+      "term": "PAIN",
+      "count": 62
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 61
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 60
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 59
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 58
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 49
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 48
+    },
+    {
+      "term": "DYSPNOEA EXERTIONAL",
+      "count": 48
+    },
+    {
+      "term": "ANXIETY",
+      "count": 45
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 45
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 44
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 43
+    },
+    {
+      "term": "ANGINA PECTORIS",
+      "count": 41
+    },
+    {
+      "term": "CARDIAC MURMUR",
+      "count": 41
+    },
+    {
+      "term": "THERAPY NON-RESPONDER",
+      "count": 41
+    },
+    {
+      "term": "HYPERKERATOSIS",
+      "count": 40
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 39
+    },
+    {
+      "term": "FALL",
+      "count": 39
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 39
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 38
+    },
+    {
+      "term": "OSTEOARTHRITIS",
+      "count": 38
+    },
+    {
+      "term": "VOMITING",
+      "count": 38
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 38
+    },
+    {
+      "term": "DEATH",
+      "count": 37
+    },
+    {
+      "term": "IMMUNE THROMBOCYTOPENIA",
+      "count": 37
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 36
+    },
+    {
+      "term": "TREMOR",
+      "count": 36
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 35
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 34
+    },
+    {
+      "term": "ASPARTATE AMINOTRANSFERASE INCREASED",
+      "count": 34
+    },
+    {
+      "term": "MALAISE",
+      "count": 34
+    },
+    {
+      "term": "RASH",
+      "count": 34
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 33
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 33
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 32
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 31
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT DECREASED",
+      "count": 30
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 29
+    },
+    {
+      "term": "INTERSTITIAL LUNG DISEASE",
+      "count": 28
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 28
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 28
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 27
+    }
+  ]
+}

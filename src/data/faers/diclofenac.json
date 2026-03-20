@@ -1,0 +1,206 @@
+{
+  "drug": "diclofenac",
+  "fetchedAt": "2026-03-20T06:08:22Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 31638
+    },
+    {
+      "term": "PAIN",
+      "count": 15781
+    },
+    {
+      "term": "FATIGUE",
+      "count": 13817
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 13427
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 13276
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 11204
+    },
+    {
+      "term": "RASH",
+      "count": 10759
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 10589
+    },
+    {
+      "term": "NAUSEA",
+      "count": 9625
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 9580
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 9299
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 8854
+    },
+    {
+      "term": "HEADACHE",
+      "count": 8776
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 8625
+    },
+    {
+      "term": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+      "count": 8020
+    },
+    {
+      "term": "SWELLING",
+      "count": 7991
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 7927
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 7899
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 7729
+    },
+    {
+      "term": "PEMPHIGUS",
+      "count": 7708
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 7632
+    },
+    {
+      "term": "GLOSSODYNIA",
+      "count": 7503
+    },
+    {
+      "term": "VOMITING",
+      "count": 7247
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 7150
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 7131
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 7051
+    },
+    {
+      "term": "PRODUCT ADMINISTERED AT INAPPROPRIATE SITE",
+      "count": 6963
+    },
+    {
+      "term": "HAND DEFORMITY",
+      "count": 6949
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 6930
+    },
+    {
+      "term": "DRUG EFFECTIVE FOR UNAPPROVED INDICATION",
+      "count": 6799
+    },
+    {
+      "term": "WOUND",
+      "count": 6794
+    },
+    {
+      "term": "CONTRAINDICATED PRODUCT ADMINISTERED",
+      "count": 6620
+    },
+    {
+      "term": "HEPATIC ENZYME INCREASED",
+      "count": 6611
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 6488
+    },
+    {
+      "term": "PRURITUS",
+      "count": 6363
+    },
+    {
+      "term": "PYREXIA",
+      "count": 6358
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 6336
+    },
+    {
+      "term": "DISCOMFORT",
+      "count": 6274
+    },
+    {
+      "term": "MALAISE",
+      "count": 6272
+    },
+    {
+      "term": "PERICARDITIS",
+      "count": 6164
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 5845
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 5837
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 5820
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 5795
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 5757
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 5704
+    },
+    {
+      "term": "ANTI-CYCLIC CITRULLINATED PEPTIDE ANTIBODY POSITIVE",
+      "count": 5473
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 5425
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 5385
+    },
+    {
+      "term": "INFECTION",
+      "count": 5296
+    }
+  ]
+}

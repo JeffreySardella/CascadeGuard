@@ -1,0 +1,206 @@
+{
+  "drug": "olanzapine",
+  "fetchedAt": "2026-03-20T06:06:08Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 7170
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 6803
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 5962
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 5397
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4067
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 3996
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 3983
+    },
+    {
+      "term": "NAUSEA",
+      "count": 3903
+    },
+    {
+      "term": "FATIGUE",
+      "count": 3500
+    },
+    {
+      "term": "ANXIETY",
+      "count": 3438
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 3380
+    },
+    {
+      "term": "VOMITING",
+      "count": 3197
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 3087
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2955
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 2863
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 2824
+    },
+    {
+      "term": "AGITATION",
+      "count": 2811
+    },
+    {
+      "term": "DEATH",
+      "count": 2686
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2662
+    },
+    {
+      "term": "SEDATION",
+      "count": 2641
+    },
+    {
+      "term": "FALL",
+      "count": 2634
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 2608
+    },
+    {
+      "term": "NEUROLEPTIC MALIGNANT SYNDROME",
+      "count": 2607
+    },
+    {
+      "term": "TREMOR",
+      "count": 2587
+    },
+    {
+      "term": "PSYCHOTIC DISORDER",
+      "count": 2579
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2518
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 2492
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 2423
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 2377
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 2356
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 2319
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2291
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2194
+    },
+    {
+      "term": "TACHYCARDIA",
+      "count": 2179
+    },
+    {
+      "term": "SCHIZOPHRENIA",
+      "count": 2171
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 2147
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2139
+    },
+    {
+      "term": "MALAISE",
+      "count": 2133
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 2112
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 2094
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1965
+    },
+    {
+      "term": "ELECTROCARDIOGRAM QT PROLONGED",
+      "count": 1936
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 1929
+    },
+    {
+      "term": "TYPE 2 DIABETES MELLITUS",
+      "count": 1923
+    },
+    {
+      "term": "PANCREATITIS",
+      "count": 1904
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1865
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1801
+    },
+    {
+      "term": "EXTRAPYRAMIDAL DISORDER",
+      "count": 1715
+    },
+    {
+      "term": "PAIN",
+      "count": 1649
+    },
+    {
+      "term": "COMA",
+      "count": 1627
+    }
+  ]
+}

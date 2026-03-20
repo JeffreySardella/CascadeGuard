@@ -1,0 +1,206 @@
+{
+  "drug": "rosuvastatin",
+  "fetchedAt": "2026-03-20T06:03:31Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 13911
+    },
+    {
+      "term": "NAUSEA",
+      "count": 11736
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 11345
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 11328
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 10640
+    },
+    {
+      "term": "PAIN",
+      "count": 10406
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 9867
+    },
+    {
+      "term": "MYALGIA",
+      "count": 9727
+    },
+    {
+      "term": "HEADACHE",
+      "count": 9515
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 8848
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 8724
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 8349
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 7842
+    },
+    {
+      "term": "MALAISE",
+      "count": 7618
+    },
+    {
+      "term": "FALL",
+      "count": 7226
+    },
+    {
+      "term": "VOMITING",
+      "count": 6974
+    },
+    {
+      "term": "COUGH",
+      "count": 6659
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 6209
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 6199
+    },
+    {
+      "term": "PRURITUS",
+      "count": 5831
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 5733
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 5547
+    },
+    {
+      "term": "RASH",
+      "count": 5223
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 5189
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 4936
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 4925
+    },
+    {
+      "term": "DEATH",
+      "count": 4739
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 4551
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4538
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4518
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 4501
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 4430
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 4368
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 4077
+    },
+    {
+      "term": "ANXIETY",
+      "count": 4039
+    },
+    {
+      "term": "RHABDOMYOLYSIS",
+      "count": 4005
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3999
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3994
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3933
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3931
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 3821
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3787
+    },
+    {
+      "term": "ASTHMA",
+      "count": 3771
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 3738
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 3669
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 3634
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 3633
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 3512
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 3448
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 3427
+    }
+  ]
+}

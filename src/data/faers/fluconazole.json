@@ -1,0 +1,206 @@
+{
+  "drug": "fluconazole",
+  "fetchedAt": "2026-03-20T06:04:26Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4934
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 4329
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4122
+    },
+    {
+      "term": "NAUSEA",
+      "count": 3699
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3541
+    },
+    {
+      "term": "FATIGUE",
+      "count": 3154
+    },
+    {
+      "term": "PAIN",
+      "count": 3121
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 2934
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2851
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2809
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 2659
+    },
+    {
+      "term": "RASH",
+      "count": 2403
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2365
+    },
+    {
+      "term": "VOMITING",
+      "count": 2329
+    },
+    {
+      "term": "DEATH",
+      "count": 2135
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 2134
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 2070
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 2002
+    },
+    {
+      "term": "SEPSIS",
+      "count": 1953
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 1865
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1861
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1770
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1625
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1567
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1553
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1542
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1526
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1521
+    },
+    {
+      "term": "PLATELET COUNT DECREASED",
+      "count": 1518
+    },
+    {
+      "term": "MALAISE",
+      "count": 1503
+    },
+    {
+      "term": "INFECTION",
+      "count": 1446
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1421
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1366
+    },
+    {
+      "term": "PANCYTOPENIA",
+      "count": 1352
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1313
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1309
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1287
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 1286
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1282
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1280
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1260
+    },
+    {
+      "term": "COUGH",
+      "count": 1204
+    },
+    {
+      "term": "WHITE BLOOD CELL COUNT DECREASED",
+      "count": 1170
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 1151
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 1116
+    },
+    {
+      "term": "FALL",
+      "count": 1101
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1066
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 1066
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1064
+    },
+    {
+      "term": "RESPIRATORY FAILURE",
+      "count": 1058
+    }
+  ]
+}

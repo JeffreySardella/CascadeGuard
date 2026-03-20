@@ -1,0 +1,206 @@
+{
+  "drug": "ibuprofen",
+  "fetchedAt": "2026-03-20T06:02:40Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 26760
+    },
+    {
+      "term": "PAIN",
+      "count": 19083
+    },
+    {
+      "term": "FATIGUE",
+      "count": 18212
+    },
+    {
+      "term": "NAUSEA",
+      "count": 17700
+    },
+    {
+      "term": "HEADACHE",
+      "count": 16127
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 13077
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 12746
+    },
+    {
+      "term": "VOMITING",
+      "count": 12661
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 12331
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 11097
+    },
+    {
+      "term": "RASH",
+      "count": 10831
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 10556
+    },
+    {
+      "term": "PRURITUS",
+      "count": 9596
+    },
+    {
+      "term": "PYREXIA",
+      "count": 9545
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 8380
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 8363
+    },
+    {
+      "term": "ANXIETY",
+      "count": 8065
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 8000
+    },
+    {
+      "term": "MALAISE",
+      "count": 7913
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 7754
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 7709
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 7466
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 7349
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 7325
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 7142
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 6975
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 6921
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 6822
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 6617
+    },
+    {
+      "term": "URTICARIA",
+      "count": 6497
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 6438
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 6430
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 6331
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 6231
+    },
+    {
+      "term": "FALL",
+      "count": 5838
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 5702
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 5623
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 5573
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 5459
+    },
+    {
+      "term": "COUGH",
+      "count": 5403
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 5358
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 5318
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 5251
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 5211
+    },
+    {
+      "term": "SWELLING",
+      "count": 5128
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 5079
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 5046
+    },
+    {
+      "term": "INFECTION",
+      "count": 5024
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 4978
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 4917
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "memantine",
+  "fetchedAt": "2026-03-20T06:06:34Z",
+  "results": [
+    {
+      "term": "FALL",
+      "count": 975
+    },
+    {
+      "term": "DEATH",
+      "count": 906
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 853
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 766
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 750
+    },
+    {
+      "term": "FATIGUE",
+      "count": 640
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 617
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 521
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 493
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 485
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 451
+    },
+    {
+      "term": "NAUSEA",
+      "count": 437
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 433
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 415
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 358
+    },
+    {
+      "term": "AGITATION",
+      "count": 355
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 352
+    },
+    {
+      "term": "VOMITING",
+      "count": 349
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 334
+    },
+    {
+      "term": "HEADACHE",
+      "count": 334
+    },
+    {
+      "term": "DEMENTIA",
+      "count": 333
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 331
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 315
+    },
+    {
+      "term": "TREMOR",
+      "count": 277
+    },
+    {
+      "term": "BRADYCARDIA",
+      "count": 276
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 271
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 270
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 267
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 262
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 257
+    },
+    {
+      "term": "MALAISE",
+      "count": 254
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 243
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 240
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 231
+    },
+    {
+      "term": "DELIRIUM",
+      "count": 228
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 227
+    },
+    {
+      "term": "PAIN",
+      "count": 225
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 222
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 219
+    },
+    {
+      "term": "SEIZURE",
+      "count": 213
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 212
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 204
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 201
+    },
+    {
+      "term": "RASH",
+      "count": 200
+    },
+    {
+      "term": "ABNORMAL BEHAVIOUR",
+      "count": 188
+    },
+    {
+      "term": "PYREXIA",
+      "count": 186
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 180
+    },
+    {
+      "term": "COGNITIVE DISORDER",
+      "count": 179
+    },
+    {
+      "term": "ANXIETY",
+      "count": 178
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 177
+    }
+  ]
+}

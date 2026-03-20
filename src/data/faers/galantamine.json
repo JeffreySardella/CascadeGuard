@@ -1,0 +1,206 @@
+{
+  "drug": "galantamine",
+  "fetchedAt": "2026-03-20T06:06:28Z",
+  "results": [
+    {
+      "term": "FALL",
+      "count": 803
+    },
+    {
+      "term": "COGNITIVE DISORDER",
+      "count": 656
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 644
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 627
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 622
+    },
+    {
+      "term": "ORTHOSTATIC HYPOTENSION",
+      "count": 620
+    },
+    {
+      "term": "SEDATION",
+      "count": 581
+    },
+    {
+      "term": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+      "count": 556
+    },
+    {
+      "term": "PAIN",
+      "count": 546
+    },
+    {
+      "term": "CREATININE RENAL CLEARANCE DECREASED",
+      "count": 526
+    },
+    {
+      "term": "BLOOD CALCIUM DECREASED",
+      "count": 525
+    },
+    {
+      "term": "SEDATION COMPLICATION",
+      "count": 522
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 520
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 517
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 261
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 162
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 142
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 128
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 121
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 114
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 107
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 103
+    },
+    {
+      "term": "NAUSEA",
+      "count": 101
+    },
+    {
+      "term": "ANTICHOLINERGIC SYNDROME",
+      "count": 98
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 96
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 94
+    },
+    {
+      "term": "DEATH",
+      "count": 92
+    },
+    {
+      "term": "VOMITING",
+      "count": 90
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 85
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 84
+    },
+    {
+      "term": "DEMENTIA",
+      "count": 77
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 75
+    },
+    {
+      "term": "MALAISE",
+      "count": 74
+    },
+    {
+      "term": "TREMOR",
+      "count": 72
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 71
+    },
+    {
+      "term": "FATIGUE",
+      "count": 71
+    },
+    {
+      "term": "MULTIPLE DRUG THERAPY",
+      "count": 71
+    },
+    {
+      "term": "AGITATION",
+      "count": 70
+    },
+    {
+      "term": "HEADACHE",
+      "count": 68
+    },
+    {
+      "term": "RENAL FUNCTION TEST ABNORMAL",
+      "count": 65
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 62
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 59
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 59
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 58
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 58
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 57
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 56
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 53
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 52
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 51
+    }
+  ]
+}

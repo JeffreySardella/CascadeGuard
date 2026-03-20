@@ -1,0 +1,206 @@
+{
+  "drug": "sertraline",
+  "fetchedAt": "2026-03-20T06:03:35Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 13397
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 13248
+    },
+    {
+      "term": "FATIGUE",
+      "count": 12441
+    },
+    {
+      "term": "HEADACHE",
+      "count": 10799
+    },
+    {
+      "term": "ANXIETY",
+      "count": 10072
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 9974
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 9350
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 9307
+    },
+    {
+      "term": "PAIN",
+      "count": 8082
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 8014
+    },
+    {
+      "term": "VOMITING",
+      "count": 7915
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 7895
+    },
+    {
+      "term": "FALL",
+      "count": 7267
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 7077
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 6563
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 6340
+    },
+    {
+      "term": "MALAISE",
+      "count": 6155
+    },
+    {
+      "term": "TREMOR",
+      "count": 5301
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 5268
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 5248
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 5231
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 5033
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 4985
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4747
+    },
+    {
+      "term": "DEATH",
+      "count": 4713
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 4702
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 4497
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4393
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 4250
+    },
+    {
+      "term": "PRURITUS",
+      "count": 4230
+    },
+    {
+      "term": "RASH",
+      "count": 4127
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 4026
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 3907
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3863
+    },
+    {
+      "term": "PYREXIA",
+      "count": 3792
+    },
+    {
+      "term": "COUGH",
+      "count": 3778
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 3618
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 3480
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 3436
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 3318
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 3257
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 3244
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 3203
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 3190
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 3174
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3157
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 3061
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 3041
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 3012
+    },
+    {
+      "term": "AGITATION",
+      "count": 2959
+    }
+  ]
+}

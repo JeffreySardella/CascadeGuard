@@ -1,0 +1,206 @@
+{
+  "drug": "atorvastatin",
+  "fetchedAt": "2026-03-20T06:03:26Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 13964
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 13023
+    },
+    {
+      "term": "NAUSEA",
+      "count": 12578
+    },
+    {
+      "term": "TYPE 2 DIABETES MELLITUS",
+      "count": 11266
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 11157
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 11137
+    },
+    {
+      "term": "PAIN",
+      "count": 10166
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 9874
+    },
+    {
+      "term": "MYALGIA",
+      "count": 9874
+    },
+    {
+      "term": "HEADACHE",
+      "count": 9765
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 8946
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 8598
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 8253
+    },
+    {
+      "term": "FALL",
+      "count": 7936
+    },
+    {
+      "term": "DEATH",
+      "count": 7557
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 7070
+    },
+    {
+      "term": "MALAISE",
+      "count": 7042
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 6855
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 6728
+    },
+    {
+      "term": "VOMITING",
+      "count": 6398
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 6078
+    },
+    {
+      "term": "COUGH",
+      "count": 5986
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 5902
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 5650
+    },
+    {
+      "term": "PRURITUS",
+      "count": 5625
+    },
+    {
+      "term": "RASH",
+      "count": 5499
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 5446
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 5388
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 5263
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 5183
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 5053
+    },
+    {
+      "term": "ANXIETY",
+      "count": 4770
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4634
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 4615
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 4490
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 4413
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 4391
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 4299
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 4239
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 4162
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4092
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4002
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 3936
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 3908
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 3709
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3690
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 3619
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3589
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3537
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 3451
+    }
+  ]
+}

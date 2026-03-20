@@ -1,0 +1,206 @@
+{
+  "drug": "prednisone",
+  "fetchedAt": "2026-03-20T06:03:18Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 64645
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 53164
+    },
+    {
+      "term": "FATIGUE",
+      "count": 39609
+    },
+    {
+      "term": "PAIN",
+      "count": 36926
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 33813
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 32405
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 27783
+    },
+    {
+      "term": "NAUSEA",
+      "count": 27703
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 27475
+    },
+    {
+      "term": "HEADACHE",
+      "count": 25770
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 24413
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 24096
+    },
+    {
+      "term": "RASH",
+      "count": 22255
+    },
+    {
+      "term": "PYREXIA",
+      "count": 21127
+    },
+    {
+      "term": "MALAISE",
+      "count": 20284
+    },
+    {
+      "term": "COUGH",
+      "count": 18698
+    },
+    {
+      "term": "VOMITING",
+      "count": 18455
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 17717
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 17604
+    },
+    {
+      "term": "ASTHMA",
+      "count": 17253
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 16992
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 16744
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 16564
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 15596
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 14598
+    },
+    {
+      "term": "PRURITUS",
+      "count": 14565
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 14430
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 14334
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 13963
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 13736
+    },
+    {
+      "term": "DEATH",
+      "count": 13554
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 13366
+    },
+    {
+      "term": "INFECTION",
+      "count": 13338
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 13165
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 12617
+    },
+    {
+      "term": "SWELLING",
+      "count": 12599
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 12499
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 12313
+    },
+    {
+      "term": "FALL",
+      "count": 12246
+    },
+    {
+      "term": "WHEEZING",
+      "count": 11847
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 11571
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 11461
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 11353
+    },
+    {
+      "term": "INTENTIONAL PRODUCT USE ISSUE",
+      "count": 11268
+    },
+    {
+      "term": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+      "count": 11036
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 10978
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 10897
+    },
+    {
+      "term": "TREATMENT FAILURE",
+      "count": 10697
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 10399
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT INCOMPLETE",
+      "count": 10324
+    }
+  ]
+}

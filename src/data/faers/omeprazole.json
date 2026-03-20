@@ -1,0 +1,206 @@
+{
+  "drug": "omeprazole",
+  "fetchedAt": "2026-03-20T06:03:49Z",
+  "results": [
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 36779
+    },
+    {
+      "term": "NAUSEA",
+      "count": 26319
+    },
+    {
+      "term": "FATIGUE",
+      "count": 25441
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 24874
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 23774
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 22625
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 20518
+    },
+    {
+      "term": "PAIN",
+      "count": 19971
+    },
+    {
+      "term": "HEADACHE",
+      "count": 18836
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 18161
+    },
+    {
+      "term": "VOMITING",
+      "count": 16906
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 16695
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 15573
+    },
+    {
+      "term": "MALAISE",
+      "count": 13765
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 13749
+    },
+    {
+      "term": "FALL",
+      "count": 13453
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 13387
+    },
+    {
+      "term": "DEATH",
+      "count": 12840
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 12280
+    },
+    {
+      "term": "PYREXIA",
+      "count": 10848
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 10593
+    },
+    {
+      "term": "END STAGE RENAL DISEASE",
+      "count": 10579
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 10544
+    },
+    {
+      "term": "COUGH",
+      "count": 10292
+    },
+    {
+      "term": "RASH",
+      "count": 10242
+    },
+    {
+      "term": "PRURITUS",
+      "count": 9894
+    },
+    {
+      "term": "RENAL INJURY",
+      "count": 9740
+    },
+    {
+      "term": "ANXIETY",
+      "count": 9550
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 9471
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 9314
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 9283
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 9202
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 9072
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 8821
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 8604
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 8406
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 8356
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 8158
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 8089
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 7806
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 7601
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 7500
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 7301
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 7082
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 6765
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 6610
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 6333
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 6308
+    },
+    {
+      "term": "DYSPEPSIA",
+      "count": 6301
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 6172
+    }
+  ]
+}

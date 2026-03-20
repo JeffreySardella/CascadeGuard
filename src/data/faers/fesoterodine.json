@@ -1,0 +1,206 @@
+{
+  "drug": "fesoterodine",
+  "fetchedAt": "2026-03-20T06:08:03Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1661
+    },
+    {
+      "term": "DRY MOUTH",
+      "count": 822
+    },
+    {
+      "term": "FALL",
+      "count": 529
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 505
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 504
+    },
+    {
+      "term": "FATIGUE",
+      "count": 504
+    },
+    {
+      "term": "URINARY RETENTION",
+      "count": 502
+    },
+    {
+      "term": "PAIN",
+      "count": 440
+    },
+    {
+      "term": "HEADACHE",
+      "count": 416
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 393
+    },
+    {
+      "term": "MALAISE",
+      "count": 333
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 325
+    },
+    {
+      "term": "NAUSEA",
+      "count": 322
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 320
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 319
+    },
+    {
+      "term": "RASH",
+      "count": 318
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 308
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 296
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 291
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 278
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 272
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 263
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 257
+    },
+    {
+      "term": "PYREXIA",
+      "count": 248
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 247
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 245
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 244
+    },
+    {
+      "term": "ARTHRITIS",
+      "count": 233
+    },
+    {
+      "term": "VISION BLURRED",
+      "count": 224
+    },
+    {
+      "term": "POLLAKIURIA",
+      "count": 222
+    },
+    {
+      "term": "DYSURIA",
+      "count": 218
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 214
+    },
+    {
+      "term": "URINARY INCONTINENCE",
+      "count": 208
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 200
+    },
+    {
+      "term": "INTENTIONAL PRODUCT USE ISSUE",
+      "count": 200
+    },
+    {
+      "term": "VOMITING",
+      "count": 199
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 196
+    },
+    {
+      "term": "VERTIGO",
+      "count": 195
+    },
+    {
+      "term": "COVID-19",
+      "count": 193
+    },
+    {
+      "term": "RECTAL HAEMORRHAGE",
+      "count": 191
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 188
+    },
+    {
+      "term": "COLITIS ULCERATIVE",
+      "count": 186
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 185
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 185
+    },
+    {
+      "term": "DEATH",
+      "count": 184
+    },
+    {
+      "term": "STRESS",
+      "count": 180
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 178
+    },
+    {
+      "term": "DRUG EFFECT INCOMPLETE",
+      "count": 177
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 174
+    },
+    {
+      "term": "FREQUENT BOWEL MOVEMENTS",
+      "count": 173
+    }
+  ]
+}

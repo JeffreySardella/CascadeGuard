@@ -1,0 +1,206 @@
+{
+  "drug": "zoledronic acid",
+  "fetchedAt": "2026-03-20T06:07:18Z",
+  "results": [
+    {
+      "term": "ARTHRALGIA",
+      "count": 3082
+    },
+    {
+      "term": "PAIN",
+      "count": 3045
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2701
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2690
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2659
+    },
+    {
+      "term": "OSTEONECROSIS OF JAW",
+      "count": 2613
+    },
+    {
+      "term": "DEATH",
+      "count": 2439
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2278
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 2188
+    },
+    {
+      "term": "VOMITING",
+      "count": 1983
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1894
+    },
+    {
+      "term": "MYALGIA",
+      "count": 1806
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1661
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1624
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1595
+    },
+    {
+      "term": "BONE PAIN",
+      "count": 1520
+    },
+    {
+      "term": "MALAISE",
+      "count": 1518
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1485
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1375
+    },
+    {
+      "term": "FALL",
+      "count": 1367
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 1316
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1276
+    },
+    {
+      "term": "CHILLS",
+      "count": 1241
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1226
+    },
+    {
+      "term": "INFLUENZA LIKE ILLNESS",
+      "count": 1209
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1132
+    },
+    {
+      "term": "MALIGNANT NEOPLASM PROGRESSION",
+      "count": 1124
+    },
+    {
+      "term": "OSTEONECROSIS",
+      "count": 1025
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1011
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 914
+    },
+    {
+      "term": "COUGH",
+      "count": 912
+    },
+    {
+      "term": "METASTASES TO BONE",
+      "count": 861
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 811
+    },
+    {
+      "term": "PRURITUS",
+      "count": 774
+    },
+    {
+      "term": "RASH",
+      "count": 772
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 765
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 751
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 738
+    },
+    {
+      "term": "PAIN IN JAW",
+      "count": 734
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 731
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 702
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 687
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 671
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 662
+    },
+    {
+      "term": "DISEASE PROGRESSION",
+      "count": 649
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 617
+    },
+    {
+      "term": "NEUROPATHY PERIPHERAL",
+      "count": 599
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 592
+    },
+    {
+      "term": "WHITE BLOOD CELL COUNT DECREASED",
+      "count": 592
+    },
+    {
+      "term": "HYPOCALCAEMIA",
+      "count": 579
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "donepezil",
+  "fetchedAt": "2026-03-20T06:02:51Z",
+  "results": [
+    {
+      "term": "FALL",
+      "count": 3002
+    },
+    {
+      "term": "DEATH",
+      "count": 2068
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1933
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1786
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1773
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1718
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1630
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1570
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 1514
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1488
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 1341
+    },
+    {
+      "term": "VOMITING",
+      "count": 1306
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 1208
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1188
+    },
+    {
+      "term": "DEMENTIA",
+      "count": 1077
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1076
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1067
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 1065
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1050
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 999
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 988
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 985
+    },
+    {
+      "term": "BRADYCARDIA",
+      "count": 982
+    },
+    {
+      "term": "MALAISE",
+      "count": 975
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 911
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 901
+    },
+    {
+      "term": "TREMOR",
+      "count": 894
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 810
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 773
+    },
+    {
+      "term": "AGITATION",
+      "count": 769
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 761
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 758
+    },
+    {
+      "term": "PYREXIA",
+      "count": 720
+    },
+    {
+      "term": "PAIN",
+      "count": 645
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 633
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 632
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 628
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 613
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 601
+    },
+    {
+      "term": "COUGH",
+      "count": 595
+    },
+    {
+      "term": "ANXIETY",
+      "count": 576
+    },
+    {
+      "term": "COGNITIVE DISORDER",
+      "count": 572
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 568
+    },
+    {
+      "term": "PRURITUS",
+      "count": 551
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 546
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 535
+    },
+    {
+      "term": "SEPSIS",
+      "count": 530
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 523
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 514
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 512
+    }
+  ]
+}

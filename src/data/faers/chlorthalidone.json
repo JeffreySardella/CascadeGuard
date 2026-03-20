@@ -1,0 +1,206 @@
+{
+  "drug": "chlorthalidone",
+  "fetchedAt": "2026-03-20T06:02:35Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1220
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1144
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1012
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 870
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 790
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 731
+    },
+    {
+      "term": "HEADACHE",
+      "count": 674
+    },
+    {
+      "term": "PAIN",
+      "count": 668
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 633
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 531
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 529
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 528
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 527
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 502
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 490
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 478
+    },
+    {
+      "term": "VOMITING",
+      "count": 462
+    },
+    {
+      "term": "MALAISE",
+      "count": 460
+    },
+    {
+      "term": "FALL",
+      "count": 438
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 428
+    },
+    {
+      "term": "RASH",
+      "count": 427
+    },
+    {
+      "term": "PRURITUS",
+      "count": 406
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 399
+    },
+    {
+      "term": "COUGH",
+      "count": 395
+    },
+    {
+      "term": "NIGHTMARE",
+      "count": 368
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 367
+    },
+    {
+      "term": "SEDATION",
+      "count": 358
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 357
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 351
+    },
+    {
+      "term": "NEPHROLITHIASIS",
+      "count": 337
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 335
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 334
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 333
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 327
+    },
+    {
+      "term": "DEATH",
+      "count": 327
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 309
+    },
+    {
+      "term": "HYPOKALAEMIA",
+      "count": 297
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 290
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 281
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 277
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 274
+    },
+    {
+      "term": "PYREXIA",
+      "count": 274
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 268
+    },
+    {
+      "term": "ANXIETY",
+      "count": 267
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 265
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 264
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 259
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 258
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 256
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 241
+    }
+  ]
+}

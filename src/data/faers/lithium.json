@@ -1,0 +1,206 @@
+{
+  "drug": "lithium",
+  "fetchedAt": "2026-03-20T06:06:49Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 3305
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 3280
+    },
+    {
+      "term": "TREMOR",
+      "count": 2538
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 2491
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2169
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2085
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1913
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1770
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1696
+    },
+    {
+      "term": "VOMITING",
+      "count": 1668
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1614
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1573
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 1529
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1447
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1396
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 1382
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1343
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1221
+    },
+    {
+      "term": "MANIA",
+      "count": 1169
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1154
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 1154
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 1151
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 1051
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1049
+    },
+    {
+      "term": "AGITATION",
+      "count": 1038
+    },
+    {
+      "term": "FALL",
+      "count": 991
+    },
+    {
+      "term": "MALAISE",
+      "count": 967
+    },
+    {
+      "term": "NEUROLEPTIC MALIGNANT SYNDROME",
+      "count": 945
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 933
+    },
+    {
+      "term": "PYREXIA",
+      "count": 911
+    },
+    {
+      "term": "PSYCHOTIC DISORDER",
+      "count": 906
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 898
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 869
+    },
+    {
+      "term": "PAIN",
+      "count": 856
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 843
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 825
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 818
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 797
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 796
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 759
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 731
+    },
+    {
+      "term": "RASH",
+      "count": 726
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 722
+    },
+    {
+      "term": "SEDATION",
+      "count": 719
+    },
+    {
+      "term": "BIPOLAR DISORDER",
+      "count": 692
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 683
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 672
+    },
+    {
+      "term": "IRRITABILITY",
+      "count": 646
+    },
+    {
+      "term": "SCHIZOPHRENIA",
+      "count": 632
+    },
+    {
+      "term": "DYSARTHRIA",
+      "count": 625
+    }
+  ]
+}

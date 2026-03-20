@@ -1,0 +1,206 @@
+{
+  "drug": "glipizide",
+  "fetchedAt": "2026-03-20T06:04:32Z",
+  "results": [
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 6678
+    },
+    {
+      "term": "NAUSEA",
+      "count": 4442
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 3510
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3270
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2999
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2811
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2443
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2405
+    },
+    {
+      "term": "BLOOD GLUCOSE DECREASED",
+      "count": 2231
+    },
+    {
+      "term": "VOMITING",
+      "count": 2167
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2113
+    },
+    {
+      "term": "PAIN",
+      "count": 2073
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2043
+    },
+    {
+      "term": "DEATH",
+      "count": 2033
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1973
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1645
+    },
+    {
+      "term": "FALL",
+      "count": 1641
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 1620
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1617
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1537
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1524
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 1454
+    },
+    {
+      "term": "MALAISE",
+      "count": 1376
+    },
+    {
+      "term": "HYPOGLYCAEMIA",
+      "count": 1316
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1314
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1311
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1291
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1234
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1194
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1186
+    },
+    {
+      "term": "INJECTION SITE PAIN",
+      "count": 1154
+    },
+    {
+      "term": "RASH",
+      "count": 1141
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1136
+    },
+    {
+      "term": "COUGH",
+      "count": 1108
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 1100
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 1097
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1096
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1087
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 1068
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1040
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 999
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 991
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 986
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 947
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 918
+    },
+    {
+      "term": "GLYCOSYLATED HAEMOGLOBIN INCREASED",
+      "count": 888
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 883
+    },
+    {
+      "term": "TREMOR",
+      "count": 879
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 874
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 874
+    }
+  ]
+}

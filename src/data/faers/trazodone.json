@@ -1,0 +1,206 @@
+{
+  "drug": "trazodone",
+  "fetchedAt": "2026-03-20T06:08:07Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1182
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1129
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1097
+    },
+    {
+      "term": "HEADACHE",
+      "count": 908
+    },
+    {
+      "term": "PAIN",
+      "count": 807
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 793
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 711
+    },
+    {
+      "term": "VOMITING",
+      "count": 676
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 673
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 656
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 621
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 599
+    },
+    {
+      "term": "FALL",
+      "count": 591
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 518
+    },
+    {
+      "term": "ANXIETY",
+      "count": 511
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 471
+    },
+    {
+      "term": "DEATH",
+      "count": 454
+    },
+    {
+      "term": "MALAISE",
+      "count": 425
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 422
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 413
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 412
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 407
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 396
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 368
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 367
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 358
+    },
+    {
+      "term": "PYREXIA",
+      "count": 354
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 348
+    },
+    {
+      "term": "COUGH",
+      "count": 332
+    },
+    {
+      "term": "TREMOR",
+      "count": 332
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 331
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 326
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 325
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 319
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 316
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 315
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 309
+    },
+    {
+      "term": "RASH",
+      "count": 305
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 304
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 303
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 296
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 290
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 285
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 284
+    },
+    {
+      "term": "PRURITUS",
+      "count": 283
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 280
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 269
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 267
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 264
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 263
+    }
+  ]
+}

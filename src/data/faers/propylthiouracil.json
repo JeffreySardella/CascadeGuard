@@ -1,0 +1,206 @@
+{
+  "drug": "propylthiouracil",
+  "fetchedAt": "2026-03-20T06:04:44Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 189
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 149
+    },
+    {
+      "term": "HYPERTHYROIDISM",
+      "count": 135
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 113
+    },
+    {
+      "term": "NAUSEA",
+      "count": 87
+    },
+    {
+      "term": "EXPOSURE DURING PREGNANCY",
+      "count": 84
+    },
+    {
+      "term": "ANTI-NEUTROPHIL CYTOPLASMIC ANTIBODY POSITIVE VASCULITIS",
+      "count": 83
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 68
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 67
+    },
+    {
+      "term": "AGRANULOCYTOSIS",
+      "count": 59
+    },
+    {
+      "term": "FATIGUE",
+      "count": 58
+    },
+    {
+      "term": "PYREXIA",
+      "count": 58
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 56
+    },
+    {
+      "term": "VOMITING",
+      "count": 56
+    },
+    {
+      "term": "CARDIAC ARREST",
+      "count": 54
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 49
+    },
+    {
+      "term": "PREMATURE BABY",
+      "count": 49
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 48
+    },
+    {
+      "term": "CARDIOGENIC SHOCK",
+      "count": 47
+    },
+    {
+      "term": "HYPOTHYROIDISM",
+      "count": 47
+    },
+    {
+      "term": "THYROTOXIC CRISIS",
+      "count": 47
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 45
+    },
+    {
+      "term": "ACUTE HEPATIC FAILURE",
+      "count": 44
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 42
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 41
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 41
+    },
+    {
+      "term": "HEADACHE",
+      "count": 39
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 38
+    },
+    {
+      "term": "DRUG-INDUCED LIVER INJURY",
+      "count": 38
+    },
+    {
+      "term": "PAIN",
+      "count": 38
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 37
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 36
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 35
+    },
+    {
+      "term": "GOITRE",
+      "count": 35
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 34
+    },
+    {
+      "term": "HEPATOTOXICITY",
+      "count": 34
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 34
+    },
+    {
+      "term": "TACHYCARDIA",
+      "count": 32
+    },
+    {
+      "term": "VASCULITIS",
+      "count": 32
+    },
+    {
+      "term": "RASH",
+      "count": 31
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 30
+    },
+    {
+      "term": "MULTIPLE ORGAN DYSFUNCTION SYNDROME",
+      "count": 30
+    },
+    {
+      "term": "RHABDOMYOLYSIS",
+      "count": 30
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 30
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 28
+    },
+    {
+      "term": "PRURITUS",
+      "count": 28
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 28
+    },
+    {
+      "term": "GASTROINTESTINAL HAEMORRHAGE",
+      "count": 27
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 27
+    },
+    {
+      "term": "TREATMENT NONCOMPLIANCE",
+      "count": 27
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "genericName": "morphine",
+  "rxcui": "7052",
+  "drugClass": "Opioid mu-Receptor Agonists",
+  "brandNames": [
+    "Arymo",
+    "Kadian",
+    "MS Contin",
+    "Duramorph",
+    "Infumorph",
+    "Mitigo"
+  ],
+  "fetchedAt": "2026-03-20T06:02:54Z"
+}

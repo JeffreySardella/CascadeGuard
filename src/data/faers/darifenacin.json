@@ -1,0 +1,206 @@
+{
+  "drug": "darifenacin",
+  "fetchedAt": "2026-03-20T06:08:01Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 183
+    },
+    {
+      "term": "HERPES ZOSTER",
+      "count": 136
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 135
+    },
+    {
+      "term": "PNEUMONIA VIRAL",
+      "count": 117
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 113
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 107
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 102
+    },
+    {
+      "term": "FIBROMYALGIA",
+      "count": 100
+    },
+    {
+      "term": "ARTHRITIS",
+      "count": 98
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 97
+    },
+    {
+      "term": "BLOOD CHOLESTEROL INCREASED",
+      "count": 96
+    },
+    {
+      "term": "LEUKOPENIA",
+      "count": 96
+    },
+    {
+      "term": "LIVER FUNCTION TEST ABNORMAL",
+      "count": 89
+    },
+    {
+      "term": "INFECTION",
+      "count": 87
+    },
+    {
+      "term": "ORAL PAIN",
+      "count": 80
+    },
+    {
+      "term": "SOFT TISSUE DISORDER",
+      "count": 73
+    },
+    {
+      "term": "FATIGUE",
+      "count": 65
+    },
+    {
+      "term": "FALL",
+      "count": 57
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 56
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 55
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT INCOMPLETE",
+      "count": 53
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 51
+    },
+    {
+      "term": "TENDERNESS",
+      "count": 51
+    },
+    {
+      "term": "SWELLING",
+      "count": 50
+    },
+    {
+      "term": "ASPHYXIA",
+      "count": 48
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 48
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 46
+    },
+    {
+      "term": "STOMATITIS",
+      "count": 46
+    },
+    {
+      "term": "ARTERIOSCLEROSIS CORONARY ARTERY",
+      "count": 44
+    },
+    {
+      "term": "NAUSEA",
+      "count": 44
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 44
+    },
+    {
+      "term": "DEATH",
+      "count": 43
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 43
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 40
+    },
+    {
+      "term": "PAIN",
+      "count": 40
+    },
+    {
+      "term": "CONTRAINDICATED PRODUCT ADMINISTERED",
+      "count": 39
+    },
+    {
+      "term": "C-REACTIVE PROTEIN INCREASED",
+      "count": 36
+    },
+    {
+      "term": "C-REACTIVE PROTEIN ABNORMAL",
+      "count": 35
+    },
+    {
+      "term": "MALAISE",
+      "count": 35
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 34
+    },
+    {
+      "term": "HEADACHE",
+      "count": 34
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 33
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 33
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 28
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 28
+    },
+    {
+      "term": "VOMITING",
+      "count": 27
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 27
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 25
+    },
+    {
+      "term": "NEURALGIA",
+      "count": 25
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 25
+    }
+  ]
+}

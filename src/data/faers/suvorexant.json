@@ -1,0 +1,206 @@
+{
+  "drug": "suvorexant",
+  "fetchedAt": "2026-03-20T06:07:56Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2994
+    },
+    {
+      "term": "NIGHTMARE",
+      "count": 736
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 726
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 674
+    },
+    {
+      "term": "ABNORMAL DREAMS",
+      "count": 599
+    },
+    {
+      "term": "HEADACHE",
+      "count": 535
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 485
+    },
+    {
+      "term": "NAUSEA",
+      "count": 381
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 372
+    },
+    {
+      "term": "FATIGUE",
+      "count": 353
+    },
+    {
+      "term": "NO ADVERSE EVENT",
+      "count": 350
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 325
+    },
+    {
+      "term": "ANXIETY",
+      "count": 308
+    },
+    {
+      "term": "FALL",
+      "count": 258
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 258
+    },
+    {
+      "term": "MALAISE",
+      "count": 239
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 237
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 237
+    },
+    {
+      "term": "WRONG TECHNIQUE IN PRODUCT USAGE PROCESS",
+      "count": 234
+    },
+    {
+      "term": "SLEEP PARALYSIS",
+      "count": 231
+    },
+    {
+      "term": "POOR QUALITY SLEEP",
+      "count": 221
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 210
+    },
+    {
+      "term": "ADVERSE EVENT",
+      "count": 206
+    },
+    {
+      "term": "SLEEP DISORDER",
+      "count": 196
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 193
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 191
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 183
+    },
+    {
+      "term": "VOMITING",
+      "count": 174
+    },
+    {
+      "term": "MIDDLE INSOMNIA",
+      "count": 173
+    },
+    {
+      "term": "DELIRIUM",
+      "count": 166
+    },
+    {
+      "term": "PYREXIA",
+      "count": 155
+    },
+    {
+      "term": "DRUG EFFECT INCOMPLETE",
+      "count": 152
+    },
+    {
+      "term": "PAIN",
+      "count": 151
+    },
+    {
+      "term": "AGITATION",
+      "count": 149
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 145
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 143
+    },
+    {
+      "term": "SOMNAMBULISM",
+      "count": 141
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 137
+    },
+    {
+      "term": "RASH",
+      "count": 133
+    },
+    {
+      "term": "TREMOR",
+      "count": 132
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 130
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 128
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 127
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 121
+    },
+    {
+      "term": "DEATH",
+      "count": 120
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 120
+    },
+    {
+      "term": "PRURITUS",
+      "count": 115
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 109
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 107
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 102
+    }
+  ]
+}

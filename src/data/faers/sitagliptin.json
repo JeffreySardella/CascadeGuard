@@ -1,0 +1,206 @@
+{
+  "drug": "sitagliptin",
+  "fetchedAt": "2026-03-20T06:06:54Z",
+  "results": [
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 5855
+    },
+    {
+      "term": "NAUSEA",
+      "count": 4779
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 4714
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4365
+    },
+    {
+      "term": "FATIGUE",
+      "count": 3695
+    },
+    {
+      "term": "HEADACHE",
+      "count": 3048
+    },
+    {
+      "term": "VOMITING",
+      "count": 3039
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 3019
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 2931
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2916
+    },
+    {
+      "term": "PANCREATITIS",
+      "count": 2733
+    },
+    {
+      "term": "DEATH",
+      "count": 2650
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2593
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2558
+    },
+    {
+      "term": "MALAISE",
+      "count": 2367
+    },
+    {
+      "term": "PAIN",
+      "count": 2333
+    },
+    {
+      "term": "FALL",
+      "count": 2235
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2206
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 2120
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 2092
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2074
+    },
+    {
+      "term": "PANCREATIC CARCINOMA",
+      "count": 2005
+    },
+    {
+      "term": "RASH",
+      "count": 1955
+    },
+    {
+      "term": "HYPOGLYCAEMIA",
+      "count": 1859
+    },
+    {
+      "term": "NO ADVERSE EVENT",
+      "count": 1753
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1749
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1746
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1744
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1734
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1719
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1714
+    },
+    {
+      "term": "COUGH",
+      "count": 1699
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1657
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1647
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1572
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1459
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1429
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1394
+    },
+    {
+      "term": "DIABETES MELLITUS INADEQUATE CONTROL",
+      "count": 1389
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1361
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1313
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 1312
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1311
+    },
+    {
+      "term": "GLYCOSYLATED HAEMOGLOBIN INCREASED",
+      "count": 1284
+    },
+    {
+      "term": "LACTIC ACIDOSIS",
+      "count": 1269
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1216
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 1194
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 1189
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1172
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 1167
+    }
+  ]
+}

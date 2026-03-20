@@ -1,0 +1,14 @@
+{
+  "genericName": "insulin",
+  "rxcui": "253182",
+  "drugClass": null,
+  "brandNames": [
+    "Novolin",
+    "Humulin",
+    "Afrezza",
+    "Myxredlin",
+    "Humulin R",
+    "Novolin R"
+  ],
+  "fetchedAt": "2026-03-20T06:04:05Z"
+}

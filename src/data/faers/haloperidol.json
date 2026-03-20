@@ -1,0 +1,206 @@
+{
+  "drug": "haloperidol",
+  "fetchedAt": "2026-03-20T06:02:56Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2264
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 1797
+    },
+    {
+      "term": "NEUROLEPTIC MALIGNANT SYNDROME",
+      "count": 1698
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1499
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1434
+    },
+    {
+      "term": "EXTRAPYRAMIDAL DISORDER",
+      "count": 1371
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 1139
+    },
+    {
+      "term": "AGITATION",
+      "count": 919
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 897
+    },
+    {
+      "term": "PYREXIA",
+      "count": 861
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 840
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 792
+    },
+    {
+      "term": "DELIRIUM",
+      "count": 791
+    },
+    {
+      "term": "TREMOR",
+      "count": 778
+    },
+    {
+      "term": "DEATH",
+      "count": 763
+    },
+    {
+      "term": "VOMITING",
+      "count": 758
+    },
+    {
+      "term": "SEDATION",
+      "count": 703
+    },
+    {
+      "term": "AKATHISIA",
+      "count": 693
+    },
+    {
+      "term": "NAUSEA",
+      "count": 693
+    },
+    {
+      "term": "PSYCHOTIC DISORDER",
+      "count": 689
+    },
+    {
+      "term": "DYSTONIA",
+      "count": 675
+    },
+    {
+      "term": "TACHYCARDIA",
+      "count": 673
+    },
+    {
+      "term": "ELECTROCARDIOGRAM QT PROLONGED",
+      "count": 663
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 639
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 633
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 595
+    },
+    {
+      "term": "ANXIETY",
+      "count": 593
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 591
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 590
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 588
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 581
+    },
+    {
+      "term": "FATIGUE",
+      "count": 580
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 560
+    },
+    {
+      "term": "FALL",
+      "count": 559
+    },
+    {
+      "term": "SCHIZOPHRENIA",
+      "count": 559
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 551
+    },
+    {
+      "term": "TREATMENT NONCOMPLIANCE",
+      "count": 514
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 501
+    },
+    {
+      "term": "LEUKOPENIA",
+      "count": 488
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 478
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 477
+    },
+    {
+      "term": "MALAISE",
+      "count": 477
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 475
+    },
+    {
+      "term": "CATATONIA",
+      "count": 472
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 453
+    },
+    {
+      "term": "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+      "count": 452
+    },
+    {
+      "term": "CARDIAC ARREST",
+      "count": 451
+    },
+    {
+      "term": "HALLUCINATION, AUDITORY",
+      "count": 451
+    },
+    {
+      "term": "RHABDOMYOLYSIS",
+      "count": 449
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 436
+    }
+  ]
+}

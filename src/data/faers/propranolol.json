@@ -1,0 +1,206 @@
+{
+  "drug": "propranolol",
+  "fetchedAt": "2026-03-20T06:03:02Z",
+  "results": [
+    {
+      "term": "OFF LABEL USE",
+      "count": 7261
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 5332
+    },
+    {
+      "term": "NAUSEA",
+      "count": 4279
+    },
+    {
+      "term": "HEADACHE",
+      "count": 3785
+    },
+    {
+      "term": "FATIGUE",
+      "count": 3752
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3120
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 3102
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 2837
+    },
+    {
+      "term": "VOMITING",
+      "count": 2653
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2561
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 2488
+    },
+    {
+      "term": "PAIN",
+      "count": 2324
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 2275
+    },
+    {
+      "term": "ANXIETY",
+      "count": 2187
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 2172
+    },
+    {
+      "term": "FALL",
+      "count": 2137
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2039
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 1921
+    },
+    {
+      "term": "MALAISE",
+      "count": 1904
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1891
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1847
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 1835
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 1793
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1776
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1723
+    },
+    {
+      "term": "TREMOR",
+      "count": 1708
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1547
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 1502
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1499
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1473
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1431
+    },
+    {
+      "term": "BRADYCARDIA",
+      "count": 1413
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1375
+    },
+    {
+      "term": "COUGH",
+      "count": 1363
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 1355
+    },
+    {
+      "term": "RASH",
+      "count": 1327
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 1294
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1270
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1261
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 1257
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 1250
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF PRODUCT ADMINISTRATION",
+      "count": 1199
+    },
+    {
+      "term": "DEATH",
+      "count": 1189
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1175
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 1172
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1145
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1098
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1076
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 1073
+    },
+    {
+      "term": "DRUG INEFFECTIVE FOR UNAPPROVED INDICATION",
+      "count": 1031
+    }
+  ]
+}

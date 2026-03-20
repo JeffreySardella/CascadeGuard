@@ -1,0 +1,18 @@
+{
+  "genericName": "oxycodone",
+  "rxcui": "7804",
+  "drugClass": "Full Opioid Agonists",
+  "brandNames": [
+    "Primlev",
+    "Oxaydo",
+    "Xtampza",
+    "Roxybond",
+    "Nalocet",
+    "Endocet",
+    "Oxycontin",
+    "Roxicodone",
+    "Prolate",
+    "Percocet"
+  ],
+  "fetchedAt": "2026-03-20T06:02:52Z"
+}

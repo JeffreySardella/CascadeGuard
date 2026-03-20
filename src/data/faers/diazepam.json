@@ -1,0 +1,206 @@
+{
+  "drug": "diazepam",
+  "fetchedAt": "2026-03-20T06:06:15Z",
+  "results": [
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 9167
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 7080
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 7019
+    },
+    {
+      "term": "NAUSEA",
+      "count": 6151
+    },
+    {
+      "term": "FATIGUE",
+      "count": 5718
+    },
+    {
+      "term": "PAIN",
+      "count": 5207
+    },
+    {
+      "term": "ANXIETY",
+      "count": 4986
+    },
+    {
+      "term": "HEADACHE",
+      "count": 4969
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 4899
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 4563
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 4487
+    },
+    {
+      "term": "VOMITING",
+      "count": 4388
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 4295
+    },
+    {
+      "term": "FALL",
+      "count": 4213
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 4161
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4139
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 4053
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 3955
+    },
+    {
+      "term": "DEATH",
+      "count": 3920
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 3870
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 3865
+    },
+    {
+      "term": "MALAISE",
+      "count": 3518
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 3189
+    },
+    {
+      "term": "COMA",
+      "count": 3103
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 3073
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2986
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 2855
+    },
+    {
+      "term": "TREMOR",
+      "count": 2809
+    },
+    {
+      "term": "DRUG DEPENDENCE",
+      "count": 2756
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2732
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 2718
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 2597
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2580
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 2575
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 2565
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 2557
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 2482
+    },
+    {
+      "term": "AGITATION",
+      "count": 2436
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2412
+    },
+    {
+      "term": "SEIZURE",
+      "count": 2400
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 2301
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2297
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 2284
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 2170
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 2152
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 2119
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 2113
+    },
+    {
+      "term": "RASH",
+      "count": 2061
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 2051
+    },
+    {
+      "term": "CARDIAC ARREST",
+      "count": 1972
+    }
+  ]
+}

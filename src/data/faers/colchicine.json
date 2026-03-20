@@ -1,0 +1,206 @@
+{
+  "drug": "colchicine",
+  "fetchedAt": "2026-03-20T06:04:05Z",
+  "results": [
+    {
+      "term": "DIARRHOEA",
+      "count": 2691
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2269
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2212
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1949
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1748
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1469
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1443
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1431
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1325
+    },
+    {
+      "term": "GOUT",
+      "count": 1275
+    },
+    {
+      "term": "VOMITING",
+      "count": 1270
+    },
+    {
+      "term": "PAIN",
+      "count": 1234
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 1190
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 1125
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1043
+    },
+    {
+      "term": "RASH",
+      "count": 1033
+    },
+    {
+      "term": "PYREXIA",
+      "count": 939
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 933
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 896
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 892
+    },
+    {
+      "term": "MALAISE",
+      "count": 883
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 876
+    },
+    {
+      "term": "DEATH",
+      "count": 859
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 807
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 803
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 744
+    },
+    {
+      "term": "COUGH",
+      "count": 723
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 713
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 708
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 707
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 686
+    },
+    {
+      "term": "FALL",
+      "count": 681
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 649
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 637
+    },
+    {
+      "term": "PRURITUS",
+      "count": 625
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 595
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 592
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 589
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 573
+    },
+    {
+      "term": "MYALGIA",
+      "count": 553
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 550
+    },
+    {
+      "term": "RHABDOMYOLYSIS",
+      "count": 534
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 531
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 518
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 492
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 489
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 470
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 467
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 465
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 465
+    }
+  ]
+}

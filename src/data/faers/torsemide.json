@@ -1,0 +1,206 @@
+{
+  "drug": "torsemide",
+  "fetchedAt": "2026-03-20T06:08:34Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 3305
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2066
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1926
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1916
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1821
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1734
+    },
+    {
+      "term": "DEATH",
+      "count": 1639
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 1581
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 1526
+    },
+    {
+      "term": "FALL",
+      "count": 1513
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1406
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1404
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1386
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 1342
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1286
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1235
+    },
+    {
+      "term": "VOMITING",
+      "count": 1196
+    },
+    {
+      "term": "COUGH",
+      "count": 1175
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 1129
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1099
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1082
+    },
+    {
+      "term": "PAIN",
+      "count": 1060
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1010
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 982
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 942
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 910
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 904
+    },
+    {
+      "term": "PYREXIA",
+      "count": 895
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 860
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 851
+    },
+    {
+      "term": "FLUID RETENTION",
+      "count": 788
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 773
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 755
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 754
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 729
+    },
+    {
+      "term": "MALAISE",
+      "count": 726
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 702
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 701
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 693
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 682
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 675
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 641
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 636
+    },
+    {
+      "term": "DYSPNOEA EXERTIONAL",
+      "count": 595
+    },
+    {
+      "term": "BLOOD CREATININE INCREASED",
+      "count": 587
+    },
+    {
+      "term": "PRURITUS",
+      "count": 585
+    },
+    {
+      "term": "HAEMOGLOBIN DECREASED",
+      "count": 584
+    },
+    {
+      "term": "GASTROINTESTINAL HAEMORRHAGE",
+      "count": 577
+    },
+    {
+      "term": "HYPOKALAEMIA",
+      "count": 560
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 554
+    }
+  ]
+}

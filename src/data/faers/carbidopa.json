@@ -1,0 +1,206 @@
+{
+  "drug": "carbidopa",
+  "fetchedAt": "2026-03-20T06:04:09Z",
+  "results": [
+    {
+      "term": "FALL",
+      "count": 4771
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4510
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 4349
+    },
+    {
+      "term": "TREMOR",
+      "count": 3477
+    },
+    {
+      "term": "DEATH",
+      "count": 3233
+    },
+    {
+      "term": "DYSKINESIA",
+      "count": 3057
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2753
+    },
+    {
+      "term": "PARKINSON^S DISEASE",
+      "count": 2740
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2594
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2375
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2261
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 2192
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 2171
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2003
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1589
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1534
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1531
+    },
+    {
+      "term": "MALAISE",
+      "count": 1510
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1509
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1490
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1464
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 1385
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1346
+    },
+    {
+      "term": "DEVICE ISSUE",
+      "count": 1309
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 1287
+    },
+    {
+      "term": "COUGH",
+      "count": 1209
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 1152
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1105
+    },
+    {
+      "term": "PAIN",
+      "count": 1093
+    },
+    {
+      "term": "VOMITING",
+      "count": 1077
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1073
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1044
+    },
+    {
+      "term": "ON AND OFF PHENOMENON",
+      "count": 1034
+    },
+    {
+      "term": "HALLUCINATION, VISUAL",
+      "count": 1032
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 1004
+    },
+    {
+      "term": "DEVICE DISLOCATION",
+      "count": 975
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 947
+    },
+    {
+      "term": "FREEZING PHENOMENON",
+      "count": 936
+    },
+    {
+      "term": "ADVERSE EVENT",
+      "count": 927
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 925
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 906
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 895
+    },
+    {
+      "term": "THERAPEUTIC RESPONSE SHORTENED",
+      "count": 892
+    },
+    {
+      "term": "SPEECH DISORDER",
+      "count": 885
+    },
+    {
+      "term": "DELUSION",
+      "count": 866
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 854
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 824
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 802
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 788
+    },
+    {
+      "term": "AGITATION",
+      "count": 785
+    }
+  ]
+}

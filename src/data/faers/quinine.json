@@ -1,0 +1,206 @@
+{
+  "drug": "quinine",
+  "fetchedAt": "2026-03-20T06:07:32Z",
+  "results": [
+    {
+      "term": "DRUG ABUSE",
+      "count": 718
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 492
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 483
+    },
+    {
+      "term": "NAUSEA",
+      "count": 474
+    },
+    {
+      "term": "FALL",
+      "count": 460
+    },
+    {
+      "term": "PAIN",
+      "count": 454
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 405
+    },
+    {
+      "term": "VOMITING",
+      "count": 380
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 362
+    },
+    {
+      "term": "FATIGUE",
+      "count": 322
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 322
+    },
+    {
+      "term": "HEADACHE",
+      "count": 321
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 297
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 296
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 284
+    },
+    {
+      "term": "DEATH",
+      "count": 283
+    },
+    {
+      "term": "MALAISE",
+      "count": 282
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 266
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 265
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 263
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 263
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 262
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 257
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 255
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 246
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 237
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 235
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 232
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 222
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 205
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 197
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 194
+    },
+    {
+      "term": "RASH",
+      "count": 185
+    },
+    {
+      "term": "PYREXIA",
+      "count": 180
+    },
+    {
+      "term": "ANXIETY",
+      "count": 179
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 178
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 176
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 174
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 171
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 168
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 162
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 161
+    },
+    {
+      "term": "COUGH",
+      "count": 157
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 156
+    },
+    {
+      "term": "CARDIAC ARREST",
+      "count": 153
+    },
+    {
+      "term": "PRURITUS",
+      "count": 151
+    },
+    {
+      "term": "COGNITIVE DISORDER",
+      "count": 148
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 146
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 146
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 145
+    }
+  ]
+}

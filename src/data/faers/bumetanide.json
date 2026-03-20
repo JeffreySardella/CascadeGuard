@@ -1,0 +1,206 @@
+{
+  "drug": "bumetanide",
+  "fetchedAt": "2026-03-20T06:08:32Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 2494
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1657
+    },
+    {
+      "term": "DEATH",
+      "count": 1641
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1639
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1474
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1455
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1210
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1144
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1133
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1088
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1041
+    },
+    {
+      "term": "PAIN",
+      "count": 1008
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 998
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 953
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 894
+    },
+    {
+      "term": "FALL",
+      "count": 892
+    },
+    {
+      "term": "VOMITING",
+      "count": 853
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 834
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 824
+    },
+    {
+      "term": "MALAISE",
+      "count": 818
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 797
+    },
+    {
+      "term": "COUGH",
+      "count": 744
+    },
+    {
+      "term": "FLUID RETENTION",
+      "count": 742
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 737
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 708
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 688
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 684
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 653
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 639
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 634
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 610
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 604
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 590
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 550
+    },
+    {
+      "term": "ANXIETY",
+      "count": 547
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 547
+    },
+    {
+      "term": "RASH",
+      "count": 538
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 534
+    },
+    {
+      "term": "PRURITUS",
+      "count": 527
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 525
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 513
+    },
+    {
+      "term": "GASTROINTESTINAL HAEMORRHAGE",
+      "count": 508
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 496
+    },
+    {
+      "term": "PYREXIA",
+      "count": 488
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 476
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 476
+    },
+    {
+      "term": "OEDEMA",
+      "count": 459
+    },
+    {
+      "term": "HAEMOGLOBIN DECREASED",
+      "count": 449
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 446
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 436
+    }
+  ]
+}

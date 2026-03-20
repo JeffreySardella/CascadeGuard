@@ -1,0 +1,206 @@
+{
+  "drug": "tamsulosin",
+  "fetchedAt": "2026-03-20T06:07:25Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 1456
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1367
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1201
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1159
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 999
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 977
+    },
+    {
+      "term": "HEADACHE",
+      "count": 908
+    },
+    {
+      "term": "FALL",
+      "count": 871
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 865
+    },
+    {
+      "term": "NAUSEA",
+      "count": 825
+    },
+    {
+      "term": "COUGH",
+      "count": 725
+    },
+    {
+      "term": "PRURITUS",
+      "count": 680
+    },
+    {
+      "term": "MALAISE",
+      "count": 665
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 655
+    },
+    {
+      "term": "DEATH",
+      "count": 655
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 613
+    },
+    {
+      "term": "PYREXIA",
+      "count": 594
+    },
+    {
+      "term": "RASH",
+      "count": 577
+    },
+    {
+      "term": "PAIN",
+      "count": 572
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 566
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 560
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 558
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 554
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 548
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 521
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 510
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 490
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 481
+    },
+    {
+      "term": "VOMITING",
+      "count": 474
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 450
+    },
+    {
+      "term": "MYALGIA",
+      "count": 431
+    },
+    {
+      "term": "COVID-19",
+      "count": 428
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 422
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 411
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 410
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 409
+    },
+    {
+      "term": "SEPSIS",
+      "count": 409
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 407
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 404
+    },
+    {
+      "term": "ANXIETY",
+      "count": 399
+    },
+    {
+      "term": "WHEEZING",
+      "count": 399
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 398
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 396
+    },
+    {
+      "term": "ASTHMA",
+      "count": 389
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 386
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 367
+    },
+    {
+      "term": "LOSS OF PERSONAL INDEPENDENCE IN DAILY ACTIVITIES",
+      "count": 362
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 358
+    },
+    {
+      "term": "EYE PAIN",
+      "count": 344
+    },
+    {
+      "term": "VISION BLURRED",
+      "count": 344
+    }
+  ]
+}

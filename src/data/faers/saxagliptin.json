@@ -1,0 +1,206 @@
+{
+  "drug": "saxagliptin",
+  "fetchedAt": "2026-03-20T06:06:56Z",
+  "results": [
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 542
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 482
+    },
+    {
+      "term": "NAUSEA",
+      "count": 481
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 453
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 443
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 418
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 338
+    },
+    {
+      "term": "HEADACHE",
+      "count": 325
+    },
+    {
+      "term": "FATIGUE",
+      "count": 320
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 316
+    },
+    {
+      "term": "VOMITING",
+      "count": 309
+    },
+    {
+      "term": "DEATH",
+      "count": 274
+    },
+    {
+      "term": "RASH",
+      "count": 267
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 251
+    },
+    {
+      "term": "PANCREATITIS",
+      "count": 251
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 245
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 235
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 217
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 216
+    },
+    {
+      "term": "PRURITUS",
+      "count": 207
+    },
+    {
+      "term": "MALAISE",
+      "count": 198
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 197
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 191
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 188
+    },
+    {
+      "term": "FALL",
+      "count": 186
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 182
+    },
+    {
+      "term": "PAIN",
+      "count": 179
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 178
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 178
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 171
+    },
+    {
+      "term": "HYPOGLYCAEMIA",
+      "count": 171
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 164
+    },
+    {
+      "term": "CARDIOVASCULAR DISORDER",
+      "count": 162
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 162
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 160
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 158
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 156
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 154
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 154
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 148
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 143
+    },
+    {
+      "term": "GLYCOSYLATED HAEMOGLOBIN INCREASED",
+      "count": 139
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 133
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 122
+    },
+    {
+      "term": "BLOOD GLUCOSE DECREASED",
+      "count": 119
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 118
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 118
+    },
+    {
+      "term": "INJECTION SITE PAIN",
+      "count": 118
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 117
+    },
+    {
+      "term": "HYPERGLYCAEMIA",
+      "count": 117
+    }
+  ]
+}

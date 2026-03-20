@@ -1,0 +1,206 @@
+{
+  "drug": "risedronate",
+  "fetchedAt": "2026-03-20T06:07:16Z",
+  "results": [
+    {
+      "term": "ARTHRALGIA",
+      "count": 3731
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 3621
+    },
+    {
+      "term": "PAIN",
+      "count": 3614
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2990
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2911
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2817
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2802
+    },
+    {
+      "term": "VOMITING",
+      "count": 2735
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 2684
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2434
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 2417
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2326
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 2319
+    },
+    {
+      "term": "MALAISE",
+      "count": 2295
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 2136
+    },
+    {
+      "term": "FALL",
+      "count": 1987
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 1958
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1911
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1896
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1876
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1872
+    },
+    {
+      "term": "ASTHMA",
+      "count": 1869
+    },
+    {
+      "term": "WHEEZING",
+      "count": 1743
+    },
+    {
+      "term": "RASH",
+      "count": 1709
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1699
+    },
+    {
+      "term": "OEDEMA",
+      "count": 1636
+    },
+    {
+      "term": "COUGH",
+      "count": 1606
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 1571
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 1532
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 1529
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1503
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1474
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 1453
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1451
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 1437
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 1434
+    },
+    {
+      "term": "INFECTION",
+      "count": 1421
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 1407
+    },
+    {
+      "term": "OSTEOARTHRITIS",
+      "count": 1405
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 1384
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 1359
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1311
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 1307
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 1302
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1286
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 1275
+    },
+    {
+      "term": "FEMUR FRACTURE",
+      "count": 1265
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 1260
+    },
+    {
+      "term": "SWELLING",
+      "count": 1257
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1252
+    }
+  ]
+}

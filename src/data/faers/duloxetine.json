@@ -1,0 +1,206 @@
+{
+  "drug": "duloxetine",
+  "fetchedAt": "2026-03-20T06:06:36Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 17483
+    },
+    {
+      "term": "FATIGUE",
+      "count": 15601
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 13690
+    },
+    {
+      "term": "HEADACHE",
+      "count": 13361
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 13138
+    },
+    {
+      "term": "PAIN",
+      "count": 12078
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 9710
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 9700
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 9530
+    },
+    {
+      "term": "ANXIETY",
+      "count": 9527
+    },
+    {
+      "term": "VOMITING",
+      "count": 8285
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 8214
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME",
+      "count": 8134
+    },
+    {
+      "term": "FALL",
+      "count": 7663
+    },
+    {
+      "term": "PARAESTHESIA",
+      "count": 7365
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 7034
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 6805
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 6764
+    },
+    {
+      "term": "MALAISE",
+      "count": 6354
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 6266
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 6253
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 5766
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 5667
+    },
+    {
+      "term": "TREMOR",
+      "count": 5510
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 5381
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 5088
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4901
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 4758
+    },
+    {
+      "term": "AGITATION",
+      "count": 4683
+    },
+    {
+      "term": "IRRITABILITY",
+      "count": 4481
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 4406
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4032
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 4012
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 4001
+    },
+    {
+      "term": "RASH",
+      "count": 3997
+    },
+    {
+      "term": "VERTIGO",
+      "count": 3908
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3868
+    },
+    {
+      "term": "PRURITUS",
+      "count": 3836
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3708
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3611
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 3526
+    },
+    {
+      "term": "COUGH",
+      "count": 3438
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 3403
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 3287
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3252
+    },
+    {
+      "term": "PYREXIA",
+      "count": 3199
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 3157
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3155
+    },
+    {
+      "term": "DEATH",
+      "count": 3150
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 3141
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "fluoxetine",
+  "fetchedAt": "2026-03-20T06:03:33Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 8158
+    },
+    {
+      "term": "NAUSEA",
+      "count": 7514
+    },
+    {
+      "term": "FATIGUE",
+      "count": 7499
+    },
+    {
+      "term": "HEADACHE",
+      "count": 6387
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 6053
+    },
+    {
+      "term": "ANXIETY",
+      "count": 5842
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5227
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 5224
+    },
+    {
+      "term": "PAIN",
+      "count": 5071
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 4974
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4878
+    },
+    {
+      "term": "VOMITING",
+      "count": 4763
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 4728
+    },
+    {
+      "term": "FALL",
+      "count": 4415
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4282
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 4198
+    },
+    {
+      "term": "MALAISE",
+      "count": 3878
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 3733
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 3676
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 3566
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 3540
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 3497
+    },
+    {
+      "term": "TREMOR",
+      "count": 3361
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 3290
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 3066
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 2991
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 2905
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 2837
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2771
+    },
+    {
+      "term": "DEATH",
+      "count": 2620
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2613
+    },
+    {
+      "term": "PRURITUS",
+      "count": 2570
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2489
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 2446
+    },
+    {
+      "term": "RASH",
+      "count": 2354
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2347
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 2346
+    },
+    {
+      "term": "SEROTONIN SYNDROME",
+      "count": 2340
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 2330
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 2318
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 2312
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 2261
+    },
+    {
+      "term": "COUGH",
+      "count": 2244
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 2197
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 2187
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2143
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 2058
+    },
+    {
+      "term": "AGITATION",
+      "count": 2051
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 1998
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 1963
+    }
+  ]
+}

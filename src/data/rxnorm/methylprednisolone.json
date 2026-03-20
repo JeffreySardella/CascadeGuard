@@ -1,0 +1,12 @@
+{
+  "genericName": "methylprednisolone",
+  "rxcui": "6902",
+  "drugClass": "Lipoxygenase Inhibitors",
+  "brandNames": [
+    "HybriSil",
+    "Medrol",
+    "Solu-Medrol",
+    "Depo-Medrol"
+  ],
+  "fetchedAt": "2026-03-20T06:07:17Z"
+}

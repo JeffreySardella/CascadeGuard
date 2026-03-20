@@ -1,0 +1,206 @@
+{
+  "drug": "mirtazapine",
+  "fetchedAt": "2026-03-20T06:08:09Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 4837
+    },
+    {
+      "term": "FATIGUE",
+      "count": 4713
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4597
+    },
+    {
+      "term": "FALL",
+      "count": 4027
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3961
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 3836
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 3702
+    },
+    {
+      "term": "ANXIETY",
+      "count": 3470
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 3431
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 3394
+    },
+    {
+      "term": "DEATH",
+      "count": 3322
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3249
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 3209
+    },
+    {
+      "term": "VOMITING",
+      "count": 3192
+    },
+    {
+      "term": "HEADACHE",
+      "count": 3058
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 2994
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 2911
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2909
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2881
+    },
+    {
+      "term": "PAIN",
+      "count": 2850
+    },
+    {
+      "term": "MALAISE",
+      "count": 2645
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 2389
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 2328
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 2304
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2163
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 2158
+    },
+    {
+      "term": "TREMOR",
+      "count": 2156
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 2115
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2086
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2040
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 1989
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1958
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1903
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 1863
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 1825
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1813
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 1813
+    },
+    {
+      "term": "AGITATION",
+      "count": 1785
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1649
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1643
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 1549
+    },
+    {
+      "term": "TACHYCARDIA",
+      "count": 1545
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1465
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1460
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1456
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 1409
+    },
+    {
+      "term": "RASH",
+      "count": 1408
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 1378
+    },
+    {
+      "term": "COUGH",
+      "count": 1376
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 1368
+    }
+  ]
+}

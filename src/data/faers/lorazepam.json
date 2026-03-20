@@ -1,0 +1,206 @@
+{
+  "drug": "lorazepam",
+  "fetchedAt": "2026-03-20T06:06:22Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 13459
+    },
+    {
+      "term": "NAUSEA",
+      "count": 13335
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 12117
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 10356
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 10151
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 9235
+    },
+    {
+      "term": "ANXIETY",
+      "count": 8840
+    },
+    {
+      "term": "HEADACHE",
+      "count": 8661
+    },
+    {
+      "term": "PAIN",
+      "count": 8645
+    },
+    {
+      "term": "VOMITING",
+      "count": 8563
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 8105
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 7079
+    },
+    {
+      "term": "DEATH",
+      "count": 6637
+    },
+    {
+      "term": "FALL",
+      "count": 6409
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 6275
+    },
+    {
+      "term": "PYREXIA",
+      "count": 6209
+    },
+    {
+      "term": "MALAISE",
+      "count": 6020
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 5973
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 5860
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 5839
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 5517
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 5408
+    },
+    {
+      "term": "RASH",
+      "count": 5398
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 5336
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 5127
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 4981
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4731
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4644
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 4432
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 4426
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 4282
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 4277
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 4168
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 4145
+    },
+    {
+      "term": "PRURITUS",
+      "count": 4127
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 4049
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 3898
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3856
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 3774
+    },
+    {
+      "term": "COUGH",
+      "count": 3732
+    },
+    {
+      "term": "TREMOR",
+      "count": 3695
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 3555
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 3546
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 3500
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 3483
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 3385
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 3306
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 3254
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 3212
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 3202
+    }
+  ]
+}

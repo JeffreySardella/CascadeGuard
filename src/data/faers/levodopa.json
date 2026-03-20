@@ -1,0 +1,206 @@
+{
+  "drug": "levodopa",
+  "fetchedAt": "2026-03-20T06:04:07Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 5224
+    },
+    {
+      "term": "FALL",
+      "count": 5074
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 4586
+    },
+    {
+      "term": "TREMOR",
+      "count": 3732
+    },
+    {
+      "term": "DEATH",
+      "count": 3573
+    },
+    {
+      "term": "DYSKINESIA",
+      "count": 3494
+    },
+    {
+      "term": "PARKINSON^S DISEASE",
+      "count": 3341
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2909
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2744
+    },
+    {
+      "term": "COUGH",
+      "count": 2545
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2481
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2405
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 2379
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 2346
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2095
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1798
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1656
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1649
+    },
+    {
+      "term": "MALAISE",
+      "count": 1647
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1628
+    },
+    {
+      "term": "DEVICE ISSUE",
+      "count": 1624
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1612
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1599
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1552
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 1490
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 1389
+    },
+    {
+      "term": "ON AND OFF PHENOMENON",
+      "count": 1234
+    },
+    {
+      "term": "PAIN",
+      "count": 1191
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1188
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 1175
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1172
+    },
+    {
+      "term": "VOMITING",
+      "count": 1172
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1135
+    },
+    {
+      "term": "HALLUCINATION, VISUAL",
+      "count": 1123
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 1082
+    },
+    {
+      "term": "FREEZING PHENOMENON",
+      "count": 1043
+    },
+    {
+      "term": "SPEECH DISORDER",
+      "count": 1034
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1032
+    },
+    {
+      "term": "DEVICE DISLOCATION",
+      "count": 1017
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 1015
+    },
+    {
+      "term": "ADVERSE EVENT",
+      "count": 1012
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 1007
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1004
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 947
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 930
+    },
+    {
+      "term": "THERAPEUTIC RESPONSE SHORTENED",
+      "count": 928
+    },
+    {
+      "term": "DELUSION",
+      "count": 916
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 858
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 852
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 851
+    }
+  ]
+}

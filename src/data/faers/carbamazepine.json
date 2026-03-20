@@ -1,0 +1,206 @@
+{
+  "drug": "carbamazepine",
+  "fetchedAt": "2026-03-20T06:06:00Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4900
+    },
+    {
+      "term": "SEIZURE",
+      "count": 3609
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3370
+    },
+    {
+      "term": "FALL",
+      "count": 3043
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2862
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2690
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2629
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 2600
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2587
+    },
+    {
+      "term": "VOMITING",
+      "count": 2506
+    },
+    {
+      "term": "CONVULSION",
+      "count": 2505
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2472
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 2333
+    },
+    {
+      "term": "PAIN",
+      "count": 2293
+    },
+    {
+      "term": "RASH",
+      "count": 2278
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2243
+    },
+    {
+      "term": "EPILEPSY",
+      "count": 1991
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1984
+    },
+    {
+      "term": "MALAISE",
+      "count": 1784
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1661
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 1575
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1560
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 1507
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1504
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1487
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 1464
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 1399
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1372
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1371
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1339
+    },
+    {
+      "term": "DRUG REACTION WITH EOSINOPHILIA AND SYSTEMIC SYMPTOMS",
+      "count": 1334
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1326
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1315
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 1295
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1290
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1283
+    },
+    {
+      "term": "TREMOR",
+      "count": 1212
+    },
+    {
+      "term": "COGNITIVE DISORDER",
+      "count": 1176
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 1110
+    },
+    {
+      "term": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+      "count": 1081
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 1081
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1073
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 1041
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 1031
+    },
+    {
+      "term": "SEDATION",
+      "count": 1000
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 998
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 980
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 964
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 954
+    },
+    {
+      "term": "COUGH",
+      "count": 929
+    }
+  ]
+}

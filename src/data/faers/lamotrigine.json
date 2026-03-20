@@ -1,0 +1,206 @@
+{
+  "drug": "lamotrigine",
+  "fetchedAt": "2026-03-20T06:06:06Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 9925
+    },
+    {
+      "term": "RASH",
+      "count": 8410
+    },
+    {
+      "term": "SEIZURE",
+      "count": 6541
+    },
+    {
+      "term": "NAUSEA",
+      "count": 6157
+    },
+    {
+      "term": "FATIGUE",
+      "count": 5924
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 5835
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5777
+    },
+    {
+      "term": "HEADACHE",
+      "count": 5569
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4963
+    },
+    {
+      "term": "VOMITING",
+      "count": 4550
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4360
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 4338
+    },
+    {
+      "term": "ANXIETY",
+      "count": 4328
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4299
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 4076
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 3756
+    },
+    {
+      "term": "CONVULSION",
+      "count": 3681
+    },
+    {
+      "term": "PAIN",
+      "count": 3586
+    },
+    {
+      "term": "FALL",
+      "count": 3575
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3563
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 3355
+    },
+    {
+      "term": "EPILEPSY",
+      "count": 3211
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 3174
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3148
+    },
+    {
+      "term": "TREMOR",
+      "count": 3135
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 3074
+    },
+    {
+      "term": "MALAISE",
+      "count": 3059
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 3047
+    },
+    {
+      "term": "PRURITUS",
+      "count": 2925
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 2823
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2821
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2776
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 2674
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 2580
+    },
+    {
+      "term": "STEVENS-JOHNSON SYNDROME",
+      "count": 2574
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 2422
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 2410
+    },
+    {
+      "term": "DRUG REACTION WITH EOSINOPHILIA AND SYSTEMIC SYMPTOMS",
+      "count": 2365
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 2270
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 2255
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 2226
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 2161
+    },
+    {
+      "term": "EXPOSURE DURING PREGNANCY",
+      "count": 2114
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 2036
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 2025
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 1960
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1953
+    },
+    {
+      "term": "AGITATION",
+      "count": 1942
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1867
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1815
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "amitriptyline",
+  "fetchedAt": "2026-03-20T06:03:43Z",
+  "results": [
+    {
+      "term": "PAIN",
+      "count": 1572
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1435
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1382
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1370
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1342
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1152
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1087
+    },
+    {
+      "term": "MALAISE",
+      "count": 1039
+    },
+    {
+      "term": "FALL",
+      "count": 1014
+    },
+    {
+      "term": "VOMITING",
+      "count": 983
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 982
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 930
+    },
+    {
+      "term": "COGNITIVE DISORDER",
+      "count": 922
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 877
+    },
+    {
+      "term": "ANXIETY",
+      "count": 819
+    },
+    {
+      "term": "PRURITUS",
+      "count": 806
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 780
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 770
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 770
+    },
+    {
+      "term": "PYREXIA",
+      "count": 767
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 720
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 718
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 699
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 682
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 670
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 653
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 640
+    },
+    {
+      "term": "RASH",
+      "count": 636
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 621
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 599
+    },
+    {
+      "term": "INFUSION SITE PAIN",
+      "count": 591
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 581
+    },
+    {
+      "term": "VISUAL IMPAIRMENT",
+      "count": 577
+    },
+    {
+      "term": "COVID-19",
+      "count": 562
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 547
+    },
+    {
+      "term": "TACHYCARDIA",
+      "count": 545
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 540
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 538
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 534
+    },
+    {
+      "term": "SEDATION",
+      "count": 527
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 522
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 518
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 514
+    },
+    {
+      "term": "ORTHOSTATIC HYPOTENSION",
+      "count": 514
+    },
+    {
+      "term": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+      "count": 512
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 501
+    },
+    {
+      "term": "HEART RATE INCREASED",
+      "count": 501
+    },
+    {
+      "term": "LIP SWELLING",
+      "count": 485
+    },
+    {
+      "term": "DISTURBANCE IN ATTENTION",
+      "count": 483
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 476
+    }
+  ]
+}

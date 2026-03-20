@@ -1,0 +1,14 @@
+{
+  "genericName": "sitagliptin",
+  "rxcui": "593411",
+  "drugClass": "Dipeptidyl Peptidase 4 Inhibitors",
+  "brandNames": [
+    "Janumet",
+    "Steglujan",
+    "Zituvio",
+    "Zituvimet",
+    "Brynovin",
+    "Januvia"
+  ],
+  "fetchedAt": "2026-03-20T06:06:33Z"
+}

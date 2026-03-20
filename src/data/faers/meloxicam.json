@@ -1,0 +1,206 @@
+{
+  "drug": "meloxicam",
+  "fetchedAt": "2026-03-20T06:08:23Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 5908
+    },
+    {
+      "term": "PAIN",
+      "count": 4681
+    },
+    {
+      "term": "FATIGUE",
+      "count": 4580
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 4221
+    },
+    {
+      "term": "NAUSEA",
+      "count": 3820
+    },
+    {
+      "term": "HEADACHE",
+      "count": 3324
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3225
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2664
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2643
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2575
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 2574
+    },
+    {
+      "term": "MALAISE",
+      "count": 2486
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 2336
+    },
+    {
+      "term": "VOMITING",
+      "count": 2239
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 2235
+    },
+    {
+      "term": "RASH",
+      "count": 2211
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 2069
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 2050
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2045
+    },
+    {
+      "term": "PRURITUS",
+      "count": 2034
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1915
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1884
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 1882
+    },
+    {
+      "term": "FALL",
+      "count": 1878
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1797
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 1689
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1613
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1612
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1602
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 1601
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1593
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1571
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 1548
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 1521
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1483
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 1480
+    },
+    {
+      "term": "COUGH",
+      "count": 1463
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1452
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1445
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 1435
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1400
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 1393
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1378
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 1371
+    },
+    {
+      "term": "INFECTION",
+      "count": 1369
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 1299
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 1246
+    },
+    {
+      "term": "PSORIATIC ARTHROPATHY",
+      "count": 1246
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 1231
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 1228
+    }
+  ]
+}

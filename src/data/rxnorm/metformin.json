@@ -1,0 +1,22 @@
+{
+  "genericName": "metformin",
+  "rxcui": "6809",
+  "drugClass": "Insulin Receptor Agonists",
+  "brandNames": [
+    "Kazano",
+    "Jentadueto",
+    "Kombiglyze",
+    "Janumet",
+    "Glucophage",
+    "Invokamet",
+    "Xigduo",
+    "Synjardy",
+    "Segluromet",
+    "Trijardy",
+    "Zituvimet",
+    "Riomet",
+    "Actoplus Met",
+    "Glumetza"
+  ],
+  "fetchedAt": "2026-03-20T06:04:03Z"
+}

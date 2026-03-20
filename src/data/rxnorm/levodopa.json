@@ -1,0 +1,16 @@
+{
+  "genericName": "levodopa",
+  "rxcui": "6375",
+  "drugClass": "Dopamine Receptor Interactions",
+  "brandNames": [
+    "Stalevo",
+    "Rytary",
+    "Duopa",
+    "Inbrija",
+    "Dhivy",
+    "Crexont",
+    "Vyalev",
+    "Sinemet"
+  ],
+  "fetchedAt": "2026-03-20T06:03:45Z"
+}

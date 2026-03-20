@@ -1,0 +1,14 @@
+{
+  "genericName": "fentanyl",
+  "rxcui": "4337",
+  "drugClass": "Full Opioid Agonists",
+  "brandNames": [
+    "Abstral",
+    "Lazanda",
+    "Subsys",
+    "Ionsys",
+    "Actiq",
+    "Fentora"
+  ],
+  "fetchedAt": "2026-03-20T06:07:48Z"
+}

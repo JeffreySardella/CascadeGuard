@@ -1,0 +1,206 @@
+{
+  "drug": "alprazolam",
+  "fetchedAt": "2026-03-20T06:06:24Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 13399
+    },
+    {
+      "term": "NAUSEA",
+      "count": 12857
+    },
+    {
+      "term": "FATIGUE",
+      "count": 11936
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 10943
+    },
+    {
+      "term": "ANXIETY",
+      "count": 10167
+    },
+    {
+      "term": "HEADACHE",
+      "count": 9924
+    },
+    {
+      "term": "PAIN",
+      "count": 9817
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 8862
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 8785
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 8259
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 7863
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 7524
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 7224
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 7178
+    },
+    {
+      "term": "VOMITING",
+      "count": 7138
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 7039
+    },
+    {
+      "term": "FALL",
+      "count": 6923
+    },
+    {
+      "term": "DEATH",
+      "count": 6891
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 6714
+    },
+    {
+      "term": "MALAISE",
+      "count": 6545
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 5858
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 5373
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 5351
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 5221
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 5134
+    },
+    {
+      "term": "RASH",
+      "count": 4433
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4405
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 4387
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 4377
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4279
+    },
+    {
+      "term": "TREMOR",
+      "count": 4255
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 4193
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 4116
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4111
+    },
+    {
+      "term": "DRUG DEPENDENCE",
+      "count": 4044
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 3929
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3812
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3788
+    },
+    {
+      "term": "PRURITUS",
+      "count": 3776
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3698
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3622
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 3618
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 3612
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 3595
+    },
+    {
+      "term": "CARDIAC ARREST",
+      "count": 3528
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 3335
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 3318
+    },
+    {
+      "term": "COUGH",
+      "count": 3236
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 3215
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3175
+    }
+  ]
+}

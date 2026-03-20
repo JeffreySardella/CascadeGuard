@@ -1,0 +1,206 @@
+{
+  "drug": "zolpidem",
+  "fetchedAt": "2026-03-20T06:07:52Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 8549
+    },
+    {
+      "term": "NAUSEA",
+      "count": 8383
+    },
+    {
+      "term": "FATIGUE",
+      "count": 8144
+    },
+    {
+      "term": "PAIN",
+      "count": 6373
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 6247
+    },
+    {
+      "term": "HEADACHE",
+      "count": 6220
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 5860
+    },
+    {
+      "term": "FALL",
+      "count": 5524
+    },
+    {
+      "term": "ANXIETY",
+      "count": 5426
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5199
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 5192
+    },
+    {
+      "term": "VOMITING",
+      "count": 4864
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4476
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4436
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 4172
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 3922
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 3842
+    },
+    {
+      "term": "MALAISE",
+      "count": 3723
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 3668
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 3525
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 3478
+    },
+    {
+      "term": "DEATH",
+      "count": 3323
+    },
+    {
+      "term": "PYREXIA",
+      "count": 3192
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 3156
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3026
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 2956
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2892
+    },
+    {
+      "term": "RASH",
+      "count": 2889
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 2885
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 2856
+    },
+    {
+      "term": "AMNESIA",
+      "count": 2828
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2721
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 2680
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 2592
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 2584
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 2574
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 2566
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 2506
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 2489
+    },
+    {
+      "term": "PRURITUS",
+      "count": 2470
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 2459
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 2454
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 2449
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 2384
+    },
+    {
+      "term": "COUGH",
+      "count": 2319
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 2314
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 2297
+    },
+    {
+      "term": "TREMOR",
+      "count": 2281
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 2191
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 2182
+    }
+  ]
+}

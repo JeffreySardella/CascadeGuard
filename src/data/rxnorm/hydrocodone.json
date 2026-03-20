@@ -1,0 +1,27 @@
+{
+  "genericName": "hydrocodone",
+  "rxcui": "5489",
+  "drugClass": "Opioid mu-Receptor Agonists",
+  "brandNames": [
+    "Ibudone",
+    "Zohydro",
+    "Lortab",
+    "Hydromet",
+    "Verdrocet",
+    "Xylon",
+    "Hysingla",
+    "Obredon",
+    "Hycofenix",
+    "Norco",
+    "Tussigon",
+    "Ventuss",
+    "Vicoprofen",
+    "Hy-KXP",
+    "Lorcet",
+    "Hycet",
+    "Tussionex",
+    "Reprexain",
+    "Hycodan"
+  ],
+  "fetchedAt": "2026-03-20T06:07:44Z"
+}

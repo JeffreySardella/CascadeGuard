@@ -1,0 +1,206 @@
+{
+  "drug": "fentanyl",
+  "fetchedAt": "2026-03-20T06:08:19Z",
+  "results": [
+    {
+      "term": "DRUG ABUSE",
+      "count": 12092
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 8053
+    },
+    {
+      "term": "PAIN",
+      "count": 7736
+    },
+    {
+      "term": "DEATH",
+      "count": 7378
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 7163
+    },
+    {
+      "term": "DRUG DEPENDENCE",
+      "count": 6376
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 6272
+    },
+    {
+      "term": "NAUSEA",
+      "count": 5592
+    },
+    {
+      "term": "DEPENDENCE",
+      "count": 4400
+    },
+    {
+      "term": "VOMITING",
+      "count": 4060
+    },
+    {
+      "term": "FATIGUE",
+      "count": 3732
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 3660
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 3301
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 3219
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME",
+      "count": 3168
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3146
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3099
+    },
+    {
+      "term": "CARDIAC ARREST",
+      "count": 3024
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 3019
+    },
+    {
+      "term": "ANXIETY",
+      "count": 2645
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2483
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2363
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 2339
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2335
+    },
+    {
+      "term": "MALAISE",
+      "count": 2278
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2252
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2156
+    },
+    {
+      "term": "FALL",
+      "count": 2079
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2071
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 2030
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1942
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1929
+    },
+    {
+      "term": "CARDIO-RESPIRATORY ARREST",
+      "count": 1928
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1903
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1890
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1880
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1844
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1842
+    },
+    {
+      "term": "RESPIRATORY ARREST",
+      "count": 1842
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 1741
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1694
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1653
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1579
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1572
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1552
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 1462
+    },
+    {
+      "term": "RASH",
+      "count": 1447
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 1438
+    },
+    {
+      "term": "ILL-DEFINED DISORDER",
+      "count": 1438
+    },
+    {
+      "term": "PRODUCT QUALITY ISSUE",
+      "count": 1438
+    }
+  ]
+}

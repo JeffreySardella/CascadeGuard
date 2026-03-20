@@ -1,0 +1,206 @@
+{
+  "drug": "trihexyphenidyl",
+  "fetchedAt": "2026-03-20T06:04:12Z",
+  "results": [
+    {
+      "term": "OFF LABEL USE",
+      "count": 69
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 58
+    },
+    {
+      "term": "NAUSEA",
+      "count": 50
+    },
+    {
+      "term": "COMA",
+      "count": 45
+    },
+    {
+      "term": "ISCHAEMIC STROKE",
+      "count": 42
+    },
+    {
+      "term": "RESPIRATORY DISTRESS",
+      "count": 41
+    },
+    {
+      "term": "RESPIRATORY FAILURE",
+      "count": 37
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 35
+    },
+    {
+      "term": "FALL",
+      "count": 34
+    },
+    {
+      "term": "AREFLEXIA",
+      "count": 33
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 33
+    },
+    {
+      "term": "BRAIN SCAN ABNORMAL",
+      "count": 32
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 32
+    },
+    {
+      "term": "PNEUMONIA ASPIRATION",
+      "count": 32
+    },
+    {
+      "term": "TREMOR",
+      "count": 32
+    },
+    {
+      "term": "CEREBRAL ARTERY THROMBOSIS",
+      "count": 31
+    },
+    {
+      "term": "DISEASE RECURRENCE",
+      "count": 31
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 31
+    },
+    {
+      "term": "FACIAL PARALYSIS",
+      "count": 30
+    },
+    {
+      "term": "HEMIPLEGIA",
+      "count": 30
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 30
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 29
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 28
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 24
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 23
+    },
+    {
+      "term": "FATIGUE",
+      "count": 22
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 22
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 22
+    },
+    {
+      "term": "DYSKINESIA",
+      "count": 21
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 21
+    },
+    {
+      "term": "ANXIETY",
+      "count": 19
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 19
+    },
+    {
+      "term": "DEATH",
+      "count": 19
+    },
+    {
+      "term": "EXTRAPYRAMIDAL DISORDER",
+      "count": 19
+    },
+    {
+      "term": "WRONG PATIENT RECEIVED PRODUCT",
+      "count": 19
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 18
+    },
+    {
+      "term": "PARKINSONISM",
+      "count": 18
+    },
+    {
+      "term": "PYREXIA",
+      "count": 18
+    },
+    {
+      "term": "SALIVARY HYPERSECRETION",
+      "count": 18
+    },
+    {
+      "term": "VOMITING",
+      "count": 17
+    },
+    {
+      "term": "AGITATION",
+      "count": 16
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 16
+    },
+    {
+      "term": "BRADYCARDIA",
+      "count": 16
+    },
+    {
+      "term": "INTESTINAL OBSTRUCTION",
+      "count": 16
+    },
+    {
+      "term": "MENTAL DISORDER",
+      "count": 16
+    },
+    {
+      "term": "NEUROLEPTIC MALIGNANT SYNDROME",
+      "count": 16
+    },
+    {
+      "term": "ACUTE RESPIRATORY DISTRESS SYNDROME",
+      "count": 15
+    },
+    {
+      "term": "ALTERED STATE OF CONSCIOUSNESS",
+      "count": 15
+    },
+    {
+      "term": "URINARY RETENTION",
+      "count": 15
+    },
+    {
+      "term": "WRONG PATIENT",
+      "count": 15
+    }
+  ]
+}

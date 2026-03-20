@@ -1,0 +1,19 @@
+{
+  "genericName": "budesonide",
+  "rxcui": "19831",
+  "drugClass": "Glucocorticoid Receptor Agonists",
+  "brandNames": [
+    "Uceris",
+    "Entocort",
+    "Pulmicort",
+    "Rhinocort",
+    "Ortikos",
+    "Breztri",
+    "Tarpeyo",
+    "Breyna",
+    "Airsupra",
+    "Eohilia",
+    "Symbicort"
+  ],
+  "fetchedAt": "2026-03-20T06:02:58Z"
+}

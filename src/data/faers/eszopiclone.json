@@ -1,0 +1,206 @@
+{
+  "drug": "eszopiclone",
+  "fetchedAt": "2026-03-20T06:07:54Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4823
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 3888
+    },
+    {
+      "term": "DYSGEUSIA",
+      "count": 3854
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1382
+    },
+    {
+      "term": "MIDDLE INSOMNIA",
+      "count": 1213
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1185
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1168
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 881
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 870
+    },
+    {
+      "term": "INITIAL INSOMNIA",
+      "count": 856
+    },
+    {
+      "term": "ANXIETY",
+      "count": 852
+    },
+    {
+      "term": "PAIN",
+      "count": 808
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 745
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 712
+    },
+    {
+      "term": "FALL",
+      "count": 653
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 640
+    },
+    {
+      "term": "VOMITING",
+      "count": 629
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 523
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 519
+    },
+    {
+      "term": "MALAISE",
+      "count": 510
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 501
+    },
+    {
+      "term": "RASH",
+      "count": 464
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 463
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 457
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 422
+    },
+    {
+      "term": "PRURITUS",
+      "count": 387
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 382
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 375
+    },
+    {
+      "term": "PYREXIA",
+      "count": 373
+    },
+    {
+      "term": "TREMOR",
+      "count": 365
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 363
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 361
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 354
+    },
+    {
+      "term": "DEATH",
+      "count": 349
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 342
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 327
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 317
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 314
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 313
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 305
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 304
+    },
+    {
+      "term": "DRUG EFFECT DECREASED",
+      "count": 302
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 298
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 296
+    },
+    {
+      "term": "COUGH",
+      "count": 291
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 290
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 284
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 283
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 278
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 272
+    }
+  ]
+}

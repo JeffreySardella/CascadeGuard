@@ -1,0 +1,206 @@
+{
+  "drug": "metformin",
+  "fetchedAt": "2026-03-20T06:04:28Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 29313
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 27455
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 27319
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 22202
+    },
+    {
+      "term": "FATIGUE",
+      "count": 20908
+    },
+    {
+      "term": "VOMITING",
+      "count": 18842
+    },
+    {
+      "term": "LACTIC ACIDOSIS",
+      "count": 18419
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 17495
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 17267
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 16261
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 15449
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 14893
+    },
+    {
+      "term": "HEADACHE",
+      "count": 14663
+    },
+    {
+      "term": "PAIN",
+      "count": 13880
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 13067
+    },
+    {
+      "term": "MALAISE",
+      "count": 12552
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 11525
+    },
+    {
+      "term": "FALL",
+      "count": 11192
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 10453
+    },
+    {
+      "term": "DEATH",
+      "count": 9382
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 9156
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 8809
+    },
+    {
+      "term": "HYPOGLYCAEMIA",
+      "count": 8578
+    },
+    {
+      "term": "PRURITUS",
+      "count": 8558
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 8356
+    },
+    {
+      "term": "RASH",
+      "count": 8297
+    },
+    {
+      "term": "COUGH",
+      "count": 8252
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 8009
+    },
+    {
+      "term": "INJECTION SITE PAIN",
+      "count": 7647
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 7579
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 7464
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 7368
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 7294
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 7264
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 7228
+    },
+    {
+      "term": "PYREXIA",
+      "count": 7157
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 7000
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 6939
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 6859
+    },
+    {
+      "term": "BLOOD GLUCOSE DECREASED",
+      "count": 6842
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 6784
+    },
+    {
+      "term": "METABOLIC ACIDOSIS",
+      "count": 6612
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 6531
+    },
+    {
+      "term": "ANXIETY",
+      "count": 6499
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 6277
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 6196
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 6173
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 6122
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 6053
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 5976
+    }
+  ]
+}

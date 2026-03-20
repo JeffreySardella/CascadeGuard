@@ -1,0 +1,206 @@
+{
+  "drug": "solifenacin",
+  "fetchedAt": "2026-03-20T06:07:59Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 3600
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1615
+    },
+    {
+      "term": "DRY MOUTH",
+      "count": 1615
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1275
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1235
+    },
+    {
+      "term": "FALL",
+      "count": 1226
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1033
+    },
+    {
+      "term": "NAUSEA",
+      "count": 900
+    },
+    {
+      "term": "HEADACHE",
+      "count": 860
+    },
+    {
+      "term": "VISION BLURRED",
+      "count": 785
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 764
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 726
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 663
+    },
+    {
+      "term": "MALAISE",
+      "count": 655
+    },
+    {
+      "term": "PAIN",
+      "count": 655
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 605
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 598
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 515
+    },
+    {
+      "term": "DEATH",
+      "count": 510
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 482
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 481
+    },
+    {
+      "term": "URINARY INCONTINENCE",
+      "count": 479
+    },
+    {
+      "term": "VOMITING",
+      "count": 471
+    },
+    {
+      "term": "PRURITUS",
+      "count": 470
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 468
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 462
+    },
+    {
+      "term": "URINARY RETENTION",
+      "count": 443
+    },
+    {
+      "term": "RASH",
+      "count": 435
+    },
+    {
+      "term": "POLLAKIURIA",
+      "count": 428
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 426
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 407
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 392
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 379
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 369
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 363
+    },
+    {
+      "term": "COUGH",
+      "count": 361
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 358
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF DRUG ADMINISTRATION",
+      "count": 356
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 344
+    },
+    {
+      "term": "NOCTURIA",
+      "count": 344
+    },
+    {
+      "term": "PYREXIA",
+      "count": 338
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 334
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 331
+    },
+    {
+      "term": "DYSPEPSIA",
+      "count": 323
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 322
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 322
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 314
+    },
+    {
+      "term": "MULTIPLE SCLEROSIS RELAPSE",
+      "count": 310
+    },
+    {
+      "term": "ANXIETY",
+      "count": 307
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 306
+    }
+  ]
+}

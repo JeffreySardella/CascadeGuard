@@ -1,0 +1,206 @@
+{
+  "drug": "magnesium citrate",
+  "fetchedAt": "2026-03-20T06:04:38Z",
+  "results": [
+    {
+      "term": "NAUSEA",
+      "count": 773
+    },
+    {
+      "term": "FATIGUE",
+      "count": 766
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 725
+    },
+    {
+      "term": "PAIN",
+      "count": 723
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 711
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 688
+    },
+    {
+      "term": "HEADACHE",
+      "count": 612
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 541
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 528
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 520
+    },
+    {
+      "term": "RASH",
+      "count": 517
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 514
+    },
+    {
+      "term": "VOMITING",
+      "count": 497
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 472
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 442
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 433
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 421
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 414
+    },
+    {
+      "term": "MALAISE",
+      "count": 410
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 407
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 406
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 398
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 398
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 394
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 392
+    },
+    {
+      "term": "SLEEP DISORDER",
+      "count": 389
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 378
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 378
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 373
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 371
+    },
+    {
+      "term": "PEMPHIGUS",
+      "count": 370
+    },
+    {
+      "term": "PSORIATIC ARTHROPATHY",
+      "count": 369
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 367
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 366
+    },
+    {
+      "term": "WOUND",
+      "count": 366
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 363
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 362
+    },
+    {
+      "term": "PERICARDITIS",
+      "count": 362
+    },
+    {
+      "term": "SWELLING",
+      "count": 361
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 356
+    },
+    {
+      "term": "TREATMENT FAILURE",
+      "count": 356
+    },
+    {
+      "term": "FALL",
+      "count": 354
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 353
+    },
+    {
+      "term": "CONTRAINDICATED PRODUCT ADMINISTERED",
+      "count": 351
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 350
+    },
+    {
+      "term": "DRY MOUTH",
+      "count": 347
+    },
+    {
+      "term": "TYPE 2 DIABETES MELLITUS",
+      "count": 347
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT DECREASED",
+      "count": 345
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 342
+    },
+    {
+      "term": "HEPATIC ENZYME INCREASED",
+      "count": 341
+    }
+  ]
+}

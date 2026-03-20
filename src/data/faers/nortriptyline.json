@@ -1,0 +1,206 @@
+{
+  "drug": "nortriptyline",
+  "fetchedAt": "2026-03-20T06:06:43Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 777
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 705
+    },
+    {
+      "term": "PAIN",
+      "count": 695
+    },
+    {
+      "term": "HEADACHE",
+      "count": 679
+    },
+    {
+      "term": "FATIGUE",
+      "count": 593
+    },
+    {
+      "term": "NAUSEA",
+      "count": 514
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 485
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 460
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 430
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 396
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 395
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 388
+    },
+    {
+      "term": "HEPATIC ENZYME INCREASED",
+      "count": 383
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 374
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 365
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 361
+    },
+    {
+      "term": "IMMUNODEFICIENCY",
+      "count": 358
+    },
+    {
+      "term": "UPPER RESPIRATORY TRACT INFECTION",
+      "count": 351
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 348
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 344
+    },
+    {
+      "term": "FOOD ALLERGY",
+      "count": 342
+    },
+    {
+      "term": "ASTHMA",
+      "count": 340
+    },
+    {
+      "term": "PYREXIA",
+      "count": 337
+    },
+    {
+      "term": "RASH",
+      "count": 335
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 323
+    },
+    {
+      "term": "EXPOSURE DURING PREGNANCY",
+      "count": 322
+    },
+    {
+      "term": "RASH ERYTHEMATOUS",
+      "count": 307
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 306
+    },
+    {
+      "term": "PRESCRIBED OVERDOSE",
+      "count": 304
+    },
+    {
+      "term": "INTENTIONAL PRODUCT MISUSE",
+      "count": 288
+    },
+    {
+      "term": "FLUID RETENTION",
+      "count": 273
+    },
+    {
+      "term": "TREATMENT FAILURE",
+      "count": 270
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 268
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 264
+    },
+    {
+      "term": "INFECTION",
+      "count": 264
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 264
+    },
+    {
+      "term": "CONTRAINDICATED PRODUCT ADMINISTERED",
+      "count": 262
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 256
+    },
+    {
+      "term": "TEMPERATURE REGULATION DISORDER",
+      "count": 249
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 247
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 246
+    },
+    {
+      "term": "BURSITIS",
+      "count": 245
+    },
+    {
+      "term": "COELIAC DISEASE",
+      "count": 230
+    },
+    {
+      "term": "PSORIASIS",
+      "count": 228
+    },
+    {
+      "term": "FALL",
+      "count": 224
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 222
+    },
+    {
+      "term": "COMA",
+      "count": 212
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 204
+    },
+    {
+      "term": "PNEUMONIA ASPIRATION",
+      "count": 204
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 201
+    }
+  ]
+}

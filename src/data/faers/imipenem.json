@@ -1,0 +1,206 @@
+{
+  "drug": "imipenem",
+  "fetchedAt": "2026-03-20T06:07:44Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 347
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 301
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 257
+    },
+    {
+      "term": "PYREXIA",
+      "count": 210
+    },
+    {
+      "term": "CONVULSION",
+      "count": 191
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 159
+    },
+    {
+      "term": "SEPSIS",
+      "count": 154
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 143
+    },
+    {
+      "term": "DEATH",
+      "count": 136
+    },
+    {
+      "term": "SEPTIC SHOCK",
+      "count": 127
+    },
+    {
+      "term": "PATHOGEN RESISTANCE",
+      "count": 122
+    },
+    {
+      "term": "NAUSEA",
+      "count": 119
+    },
+    {
+      "term": "RESPIRATORY FAILURE",
+      "count": 113
+    },
+    {
+      "term": "VOMITING",
+      "count": 111
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 109
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 109
+    },
+    {
+      "term": "RASH",
+      "count": 106
+    },
+    {
+      "term": "PLATELET COUNT DECREASED",
+      "count": 97
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 96
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 90
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 82
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 82
+    },
+    {
+      "term": "MULTI-ORGAN FAILURE",
+      "count": 80
+    },
+    {
+      "term": "EPILEPSY",
+      "count": 73
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 73
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 72
+    },
+    {
+      "term": "ELECTROCARDIOGRAM QT PROLONGED",
+      "count": 69
+    },
+    {
+      "term": "DRUG RESISTANCE",
+      "count": 67
+    },
+    {
+      "term": "INFECTION",
+      "count": 66
+    },
+    {
+      "term": "ALANINE AMINOTRANSFERASE INCREASED",
+      "count": 63
+    },
+    {
+      "term": "HAEMOGLOBIN DECREASED",
+      "count": 62
+    },
+    {
+      "term": "TREATMENT FAILURE",
+      "count": 62
+    },
+    {
+      "term": "PANCYTOPENIA",
+      "count": 61
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 60
+    },
+    {
+      "term": "ASPARTATE AMINOTRANSFERASE INCREASED",
+      "count": 59
+    },
+    {
+      "term": "PRURITUS",
+      "count": 59
+    },
+    {
+      "term": "RENAL FAILURE ACUTE",
+      "count": 59
+    },
+    {
+      "term": "WHITE BLOOD CELL COUNT DECREASED",
+      "count": 56
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 54
+    },
+    {
+      "term": "TOXIC EPIDERMAL NECROLYSIS",
+      "count": 54
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 53
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 49
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 48
+    },
+    {
+      "term": "SEIZURE",
+      "count": 48
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 47
+    },
+    {
+      "term": "HYPOKALAEMIA",
+      "count": 46
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 46
+    },
+    {
+      "term": "RASH MACULO-PAPULAR",
+      "count": 46
+    },
+    {
+      "term": "CHILLS",
+      "count": 44
+    },
+    {
+      "term": "ACUTE RESPIRATORY DISTRESS SYNDROME",
+      "count": 43
+    }
+  ]
+}

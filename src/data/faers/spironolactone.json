@@ -1,0 +1,206 @@
+{
+  "drug": "spironolactone",
+  "fetchedAt": "2026-03-20T06:08:30Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 10466
+    },
+    {
+      "term": "FATIGUE",
+      "count": 8229
+    },
+    {
+      "term": "NAUSEA",
+      "count": 7869
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 7470
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 6792
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 6274
+    },
+    {
+      "term": "HEADACHE",
+      "count": 5904
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 5840
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 5587
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 5231
+    },
+    {
+      "term": "FALL",
+      "count": 5119
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 5004
+    },
+    {
+      "term": "DEATH",
+      "count": 4937
+    },
+    {
+      "term": "HYPERKALAEMIA",
+      "count": 4929
+    },
+    {
+      "term": "VOMITING",
+      "count": 4872
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 4491
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4434
+    },
+    {
+      "term": "MALAISE",
+      "count": 4416
+    },
+    {
+      "term": "PAIN",
+      "count": 4369
+    },
+    {
+      "term": "COUGH",
+      "count": 4006
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3867
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 3806
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 3725
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3677
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 3664
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3466
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 3344
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 3246
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3137
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 3059
+    },
+    {
+      "term": "PYREXIA",
+      "count": 3036
+    },
+    {
+      "term": "PRURITUS",
+      "count": 2902
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 2852
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 2846
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 2779
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 2778
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 2761
+    },
+    {
+      "term": "RASH",
+      "count": 2753
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 2713
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 2569
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 2445
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2401
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 2383
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 2361
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2353
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 2310
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2276
+    },
+    {
+      "term": "ANXIETY",
+      "count": 2238
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 2198
+    },
+    {
+      "term": "BLOOD CREATININE INCREASED",
+      "count": 2053
+    }
+  ]
+}

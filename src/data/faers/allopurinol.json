@@ -1,0 +1,206 @@
+{
+  "drug": "allopurinol",
+  "fetchedAt": "2026-03-20T06:04:03Z",
+  "results": [
+    {
+      "term": "DIARRHOEA",
+      "count": 8449
+    },
+    {
+      "term": "FATIGUE",
+      "count": 7994
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 7704
+    },
+    {
+      "term": "NAUSEA",
+      "count": 7078
+    },
+    {
+      "term": "DEATH",
+      "count": 6683
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 6571
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 6301
+    },
+    {
+      "term": "PYREXIA",
+      "count": 5984
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 5594
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 5509
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 5298
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4976
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 4954
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 4702
+    },
+    {
+      "term": "FALL",
+      "count": 4546
+    },
+    {
+      "term": "VOMITING",
+      "count": 4328
+    },
+    {
+      "term": "RASH",
+      "count": 4199
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 4196
+    },
+    {
+      "term": "PAIN",
+      "count": 4067
+    },
+    {
+      "term": "HEADACHE",
+      "count": 3818
+    },
+    {
+      "term": "MALAISE",
+      "count": 3621
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 3569
+    },
+    {
+      "term": "PRURITUS",
+      "count": 3439
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 3394
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3344
+    },
+    {
+      "term": "COUGH",
+      "count": 3211
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 3181
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 3145
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3069
+    },
+    {
+      "term": "SEPSIS",
+      "count": 3036
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 2983
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 2926
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 2889
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 2889
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 2844
+    },
+    {
+      "term": "HAEMOGLOBIN DECREASED",
+      "count": 2827
+    },
+    {
+      "term": "DRUG REACTION WITH EOSINOPHILIA AND SYSTEMIC SYMPTOMS",
+      "count": 2806
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 2779
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 2758
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 2751
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 2701
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 2613
+    },
+    {
+      "term": "PLATELET COUNT DECREASED",
+      "count": 2604
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 2530
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 2456
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2411
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2317
+    },
+    {
+      "term": "BLOOD CREATININE INCREASED",
+      "count": 2194
+    },
+    {
+      "term": "GOUT",
+      "count": 2194
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 2178
+    }
+  ]
+}

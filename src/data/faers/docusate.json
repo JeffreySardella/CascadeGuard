@@ -1,0 +1,206 @@
+{
+  "drug": "docusate",
+  "fetchedAt": "2026-03-20T06:04:16Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 5146
+    },
+    {
+      "term": "NAUSEA",
+      "count": 4852
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 3777
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3736
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 3700
+    },
+    {
+      "term": "DEATH",
+      "count": 3415
+    },
+    {
+      "term": "PAIN",
+      "count": 3400
+    },
+    {
+      "term": "VOMITING",
+      "count": 3046
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 3023
+    },
+    {
+      "term": "FALL",
+      "count": 3021
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2878
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2679
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2631
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2498
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2468
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2069
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2025
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1991
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1945
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1944
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1903
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1843
+    },
+    {
+      "term": "MALAISE",
+      "count": 1829
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1773
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1745
+    },
+    {
+      "term": "RASH",
+      "count": 1677
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1674
+    },
+    {
+      "term": "COUGH",
+      "count": 1671
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1667
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 1510
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 1501
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1491
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1462
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1452
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 1394
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1360
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1358
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1337
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1314
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 1287
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 1256
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1203
+    },
+    {
+      "term": "SEPSIS",
+      "count": 1160
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 1115
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1094
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 1091
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1090
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 1057
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 1054
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 1053
+    }
+  ]
+}

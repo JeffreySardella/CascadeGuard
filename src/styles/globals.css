@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* React Flow styles */
+@import '@xyflow/react/dist/style.css';
+
+/* Base accessible defaults */
+@layer base {
+  html {
+    font-size: 16px; /* WCAG minimum */
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply text-gray-900 bg-white antialiased;
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+
+  /* Focus ring for keyboard navigation — WCAG 2.4.7 */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-cascade-primary;
+  }
+
+  /* Minimum touch target size — WCAG 2.5.8 */
+  button, a, input, select {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}

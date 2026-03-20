@@ -1,0 +1,206 @@
+{
+  "drug": "acetaminophen",
+  "fetchedAt": "2026-03-20T06:04:34Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 50702
+    },
+    {
+      "term": "PAIN",
+      "count": 48246
+    },
+    {
+      "term": "FATIGUE",
+      "count": 43981
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 40180
+    },
+    {
+      "term": "NAUSEA",
+      "count": 40139
+    },
+    {
+      "term": "DRUG DEPENDENCE",
+      "count": 39120
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 37535
+    },
+    {
+      "term": "HEADACHE",
+      "count": 37153
+    },
+    {
+      "term": "DEATH",
+      "count": 35605
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 30921
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 29412
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 26937
+    },
+    {
+      "term": "VOMITING",
+      "count": 26793
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 26626
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 23411
+    },
+    {
+      "term": "DEPENDENCE",
+      "count": 22395
+    },
+    {
+      "term": "PYREXIA",
+      "count": 22337
+    },
+    {
+      "term": "RASH",
+      "count": 21082
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 20487
+    },
+    {
+      "term": "MALAISE",
+      "count": 20141
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 19541
+    },
+    {
+      "term": "FALL",
+      "count": 18651
+    },
+    {
+      "term": "ANXIETY",
+      "count": 18446
+    },
+    {
+      "term": "PRURITUS",
+      "count": 17374
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 17013
+    },
+    {
+      "term": "COUGH",
+      "count": 16416
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 16091
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 16035
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 15928
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 15478
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 15119
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 14543
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 14485
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 14412
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 14287
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 14258
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 14231
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 13803
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 13689
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 12835
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 12747
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 12715
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 12593
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 12539
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 12464
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 12322
+    },
+    {
+      "term": "ILL-DEFINED DISORDER",
+      "count": 12226
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 12163
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 12063
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 11912
+    }
+  ]
+}

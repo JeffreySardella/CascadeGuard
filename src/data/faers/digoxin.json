@@ -1,0 +1,206 @@
+{
+  "drug": "digoxin",
+  "fetchedAt": "2026-03-20T06:05:56Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 6066
+    },
+    {
+      "term": "NAUSEA",
+      "count": 4750
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 4439
+    },
+    {
+      "term": "FATIGUE",
+      "count": 4175
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 3974
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3742
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 3617
+    },
+    {
+      "term": "DEATH",
+      "count": 3395
+    },
+    {
+      "term": "VOMITING",
+      "count": 3359
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 3171
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 3135
+    },
+    {
+      "term": "PAIN",
+      "count": 2986
+    },
+    {
+      "term": "FALL",
+      "count": 2901
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 2798
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2725
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2597
+    },
+    {
+      "term": "MALAISE",
+      "count": 2551
+    },
+    {
+      "term": "BRADYCARDIA",
+      "count": 2516
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 2400
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2375
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 2207
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 2195
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 2156
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 2145
+    },
+    {
+      "term": "ANXIETY",
+      "count": 2076
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2056
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 2006
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 1944
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1902
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1901
+    },
+    {
+      "term": "GASTROINTESTINAL HAEMORRHAGE",
+      "count": 1876
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1830
+    },
+    {
+      "term": "INTERNATIONAL NORMALISED RATIO INCREASED",
+      "count": 1799
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1745
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1738
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1674
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1671
+    },
+    {
+      "term": "COUGH",
+      "count": 1644
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1627
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 1591
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 1502
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1493
+    },
+    {
+      "term": "RENAL FAILURE ACUTE",
+      "count": 1490
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1456
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1437
+    },
+    {
+      "term": "ECONOMIC PROBLEM",
+      "count": 1393
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 1390
+    },
+    {
+      "term": "HEART RATE INCREASED",
+      "count": 1388
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1353
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 1352
+    }
+  ]
+}

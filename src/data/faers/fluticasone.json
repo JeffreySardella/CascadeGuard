@@ -1,0 +1,206 @@
+{
+  "drug": "fluticasone",
+  "fetchedAt": "2026-03-20T06:03:10Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 31687
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 24823
+    },
+    {
+      "term": "ASTHMA",
+      "count": 17430
+    },
+    {
+      "term": "COUGH",
+      "count": 16344
+    },
+    {
+      "term": "FATIGUE",
+      "count": 13490
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 13300
+    },
+    {
+      "term": "HEADACHE",
+      "count": 12615
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 10921
+    },
+    {
+      "term": "NAUSEA",
+      "count": 10836
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 10103
+    },
+    {
+      "term": "PAIN",
+      "count": 9887
+    },
+    {
+      "term": "MALAISE",
+      "count": 9831
+    },
+    {
+      "term": "WHEEZING",
+      "count": 9427
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 8859
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 8809
+    },
+    {
+      "term": "WRONG TECHNIQUE IN DEVICE USAGE PROCESS",
+      "count": 7803
+    },
+    {
+      "term": "DEATH",
+      "count": 7203
+    },
+    {
+      "term": "VOMITING",
+      "count": 6691
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 6603
+    },
+    {
+      "term": "FALL",
+      "count": 6516
+    },
+    {
+      "term": "PRODUCT COMPLAINT",
+      "count": 6439
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 6360
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 6222
+    },
+    {
+      "term": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+      "count": 6190
+    },
+    {
+      "term": "PRODUCT QUALITY ISSUE",
+      "count": 6186
+    },
+    {
+      "term": "RASH",
+      "count": 6037
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 5859
+    },
+    {
+      "term": "ANXIETY",
+      "count": 5834
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 5773
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 5724
+    },
+    {
+      "term": "DYSPHONIA",
+      "count": 5459
+    },
+    {
+      "term": "PRURITUS",
+      "count": 5422
+    },
+    {
+      "term": "PYREXIA",
+      "count": 5400
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 5339
+    },
+    {
+      "term": "CHEST DISCOMFORT",
+      "count": 5194
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 5129
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 5075
+    },
+    {
+      "term": "PRODUCTIVE COUGH",
+      "count": 5052
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 5009
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4990
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT INCOMPLETE",
+      "count": 4624
+    },
+    {
+      "term": "BRONCHITIS",
+      "count": 4593
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 4581
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 4518
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 4358
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 4242
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 4211
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 4156
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 4152
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 4086
+    }
+  ]
+}

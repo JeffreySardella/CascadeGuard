@@ -1,0 +1,206 @@
+{
+  "drug": "quetiapine",
+  "fetchedAt": "2026-03-20T06:06:10Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 12345
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 11797
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 9720
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 9103
+    },
+    {
+      "term": "FATIGUE",
+      "count": 8862
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 8343
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 8154
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 8116
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 8004
+    },
+    {
+      "term": "NAUSEA",
+      "count": 7979
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 7806
+    },
+    {
+      "term": "ANXIETY",
+      "count": 7654
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 7101
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 6855
+    },
+    {
+      "term": "PAIN",
+      "count": 6814
+    },
+    {
+      "term": "HEADACHE",
+      "count": 6750
+    },
+    {
+      "term": "VOMITING",
+      "count": 6585
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 6340
+    },
+    {
+      "term": "FALL",
+      "count": 6070
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 6037
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 5938
+    },
+    {
+      "term": "TYPE 2 DIABETES MELLITUS",
+      "count": 5813
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 5805
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 5706
+    },
+    {
+      "term": "MALAISE",
+      "count": 5680
+    },
+    {
+      "term": "DEATH",
+      "count": 5628
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 5356
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 5258
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 5056
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 4920
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 4902
+    },
+    {
+      "term": "PYREXIA",
+      "count": 4704
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 4674
+    },
+    {
+      "term": "TREMOR",
+      "count": 4600
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4498
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4479
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 4265
+    },
+    {
+      "term": "RASH",
+      "count": 4219
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 4110
+    },
+    {
+      "term": "AGITATION",
+      "count": 4080
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 3890
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 3845
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3813
+    },
+    {
+      "term": "PANCREATITIS",
+      "count": 3762
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 3510
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 3449
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 3430
+    },
+    {
+      "term": "BLOOD CHOLESTEROL INCREASED",
+      "count": 3371
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3316
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 3280
+    }
+  ]
+}

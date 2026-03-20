@@ -1,0 +1,206 @@
+{
+  "drug": "tolterodine",
+  "fetchedAt": "2026-03-20T06:04:40Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2161
+    },
+    {
+      "term": "FALL",
+      "count": 1192
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1146
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 985
+    },
+    {
+      "term": "NAUSEA",
+      "count": 983
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 911
+    },
+    {
+      "term": "HEADACHE",
+      "count": 881
+    },
+    {
+      "term": "PAIN",
+      "count": 809
+    },
+    {
+      "term": "DRY MOUTH",
+      "count": 744
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 728
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 726
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 707
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 705
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 607
+    },
+    {
+      "term": "VOMITING",
+      "count": 576
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 561
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 540
+    },
+    {
+      "term": "MALAISE",
+      "count": 538
+    },
+    {
+      "term": "DEATH",
+      "count": 508
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 505
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 503
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 500
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 494
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 479
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 468
+    },
+    {
+      "term": "ANXIETY",
+      "count": 467
+    },
+    {
+      "term": "RASH",
+      "count": 466
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 465
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 463
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 452
+    },
+    {
+      "term": "URINARY INCONTINENCE",
+      "count": 419
+    },
+    {
+      "term": "COUGH",
+      "count": 399
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 392
+    },
+    {
+      "term": "PRURITUS",
+      "count": 389
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 377
+    },
+    {
+      "term": "POLLAKIURIA",
+      "count": 373
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 370
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 369
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 362
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 359
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 357
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 356
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 355
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 345
+    },
+    {
+      "term": "PYREXIA",
+      "count": 344
+    },
+    {
+      "term": "VISION BLURRED",
+      "count": 342
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 339
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 336
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 325
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 316
+    }
+  ]
+}

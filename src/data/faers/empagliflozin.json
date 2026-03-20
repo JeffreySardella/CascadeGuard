@@ -1,0 +1,206 @@
+{
+  "drug": "empagliflozin",
+  "fetchedAt": "2026-03-20T06:07:00Z",
+  "results": [
+    {
+      "term": "DIABETIC KETOACIDOSIS",
+      "count": 4089
+    },
+    {
+      "term": "NAUSEA",
+      "count": 3515
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 3409
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3005
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2999
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2769
+    },
+    {
+      "term": "VOMITING",
+      "count": 2641
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2613
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2545
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2340
+    },
+    {
+      "term": "FUNGAL INFECTION",
+      "count": 2204
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2167
+    },
+    {
+      "term": "EUGLYCAEMIC DIABETIC KETOACIDOSIS",
+      "count": 2047
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1932
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1815
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1670
+    },
+    {
+      "term": "KETOACIDOSIS",
+      "count": 1617
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1608
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1531
+    },
+    {
+      "term": "DEATH",
+      "count": 1478
+    },
+    {
+      "term": "MALAISE",
+      "count": 1459
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1436
+    },
+    {
+      "term": "PAIN",
+      "count": 1391
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1334
+    },
+    {
+      "term": "FALL",
+      "count": 1326
+    },
+    {
+      "term": "GLYCOSYLATED HAEMOGLOBIN INCREASED",
+      "count": 1264
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1257
+    },
+    {
+      "term": "COVID-19",
+      "count": 1222
+    },
+    {
+      "term": "RASH",
+      "count": 1212
+    },
+    {
+      "term": "COUGH",
+      "count": 1196
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1192
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1120
+    },
+    {
+      "term": "POLLAKIURIA",
+      "count": 1114
+    },
+    {
+      "term": "FOURNIER^S GANGRENE",
+      "count": 1113
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 1080
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1073
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1055
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1052
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 968
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 955
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 948
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 909
+    },
+    {
+      "term": "PYREXIA",
+      "count": 890
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 852
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 834
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF PRODUCT ADMINISTRATION",
+      "count": 820
+    },
+    {
+      "term": "SEPSIS",
+      "count": 810
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 802
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 781
+    },
+    {
+      "term": "METABOLIC ACIDOSIS",
+      "count": 752
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "genericName": "amiodarone",
+  "rxcui": "703",
+  "drugClass": "Calcium Channel Antagonists",
+  "brandNames": [
+    "Cordarone",
+    "Pacerone",
+    "Nexterone"
+  ],
+  "fetchedAt": "2026-03-20T06:02:50Z"
+}

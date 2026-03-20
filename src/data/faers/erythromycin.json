@@ -1,0 +1,206 @@
+{
+  "drug": "erythromycin",
+  "fetchedAt": "2026-03-20T06:07:37Z",
+  "results": [
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 4133
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1282
+    },
+    {
+      "term": "VOMITING",
+      "count": 1136
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1083
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1072
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1031
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1022
+    },
+    {
+      "term": "RASH",
+      "count": 1019
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 949
+    },
+    {
+      "term": "HEADACHE",
+      "count": 872
+    },
+    {
+      "term": "PAIN",
+      "count": 790
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 780
+    },
+    {
+      "term": "PYREXIA",
+      "count": 699
+    },
+    {
+      "term": "MALAISE",
+      "count": 696
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 682
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 665
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 650
+    },
+    {
+      "term": "PRURITUS",
+      "count": 634
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 632
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 625
+    },
+    {
+      "term": "ANXIETY",
+      "count": 611
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 585
+    },
+    {
+      "term": "URTICARIA",
+      "count": 559
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 557
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 550
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 540
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 539
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 531
+    },
+    {
+      "term": "INFECTION",
+      "count": 527
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 517
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 509
+    },
+    {
+      "term": "COUGH",
+      "count": 503
+    },
+    {
+      "term": "EYE PAIN",
+      "count": 499
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 498
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 484
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 479
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 471
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 467
+    },
+    {
+      "term": "ASTHMA",
+      "count": 448
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 443
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 433
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 411
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 400
+    },
+    {
+      "term": "WHEEZING",
+      "count": 400
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 382
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 381
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 362
+    },
+    {
+      "term": "CONTUSION",
+      "count": 357
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 356
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 355
+    }
+  ]
+}

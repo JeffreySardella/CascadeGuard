@@ -1,0 +1,206 @@
+{
+  "drug": "amlodipine",
+  "fetchedAt": "2026-03-20T06:02:30Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 25702
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 22375
+    },
+    {
+      "term": "NAUSEA",
+      "count": 22237
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 21214
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 20013
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 18100
+    },
+    {
+      "term": "HEADACHE",
+      "count": 16756
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 16577
+    },
+    {
+      "term": "PAIN",
+      "count": 16046
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 14642
+    },
+    {
+      "term": "FALL",
+      "count": 14224
+    },
+    {
+      "term": "VOMITING",
+      "count": 14161
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 13643
+    },
+    {
+      "term": "DEATH",
+      "count": 13354
+    },
+    {
+      "term": "MALAISE",
+      "count": 13260
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 12812
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 12676
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 12461
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 12284
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 11275
+    },
+    {
+      "term": "COUGH",
+      "count": 10822
+    },
+    {
+      "term": "RASH",
+      "count": 10513
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 10410
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 10189
+    },
+    {
+      "term": "PRURITUS",
+      "count": 9998
+    },
+    {
+      "term": "PYREXIA",
+      "count": 9410
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 9228
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 9157
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 9064
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 8359
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 8223
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 8153
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 7977
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 7866
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 7731
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 7707
+    },
+    {
+      "term": "ANXIETY",
+      "count": 7704
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 7698
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 7555
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 7246
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 7092
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 6663
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 6645
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 6498
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 6283
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 6182
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 6176
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 6150
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 6103
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 6012
+    }
+  ]
+}

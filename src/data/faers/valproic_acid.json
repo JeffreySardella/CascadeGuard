@@ -1,0 +1,206 @@
+{
+  "drug": "valproic acid",
+  "fetchedAt": "2026-03-20T06:06:04Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 3647
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3444
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2046
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 1933
+    },
+    {
+      "term": "SEIZURE",
+      "count": 1858
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 1282
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 1236
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1212
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1027
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 942
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 901
+    },
+    {
+      "term": "PYREXIA",
+      "count": 870
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 825
+    },
+    {
+      "term": "STATUS EPILEPTICUS",
+      "count": 722
+    },
+    {
+      "term": "FATIGUE",
+      "count": 701
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 688
+    },
+    {
+      "term": "VOMITING",
+      "count": 677
+    },
+    {
+      "term": "TREMOR",
+      "count": 666
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 662
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 659
+    },
+    {
+      "term": "EPILEPSY",
+      "count": 643
+    },
+    {
+      "term": "AGITATION",
+      "count": 615
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 615
+    },
+    {
+      "term": "HYPERAMMONAEMIA",
+      "count": 604
+    },
+    {
+      "term": "DEATH",
+      "count": 598
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 584
+    },
+    {
+      "term": "NAUSEA",
+      "count": 580
+    },
+    {
+      "term": "ANXIETY",
+      "count": 571
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 568
+    },
+    {
+      "term": "FALL",
+      "count": 557
+    },
+    {
+      "term": "COMA",
+      "count": 529
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 523
+    },
+    {
+      "term": "MULTIPLE-DRUG RESISTANCE",
+      "count": 521
+    },
+    {
+      "term": "DEPRESSED LEVEL OF CONSCIOUSNESS",
+      "count": 520
+    },
+    {
+      "term": "CONVULSION",
+      "count": 517
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 514
+    },
+    {
+      "term": "INTENTIONAL OVERDOSE",
+      "count": 512
+    },
+    {
+      "term": "NEUROLEPTIC MALIGNANT SYNDROME",
+      "count": 506
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 492
+    },
+    {
+      "term": "PSYCHOTIC DISORDER",
+      "count": 483
+    },
+    {
+      "term": "DRUG LEVEL INCREASED",
+      "count": 479
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 469
+    },
+    {
+      "term": "TREATMENT FAILURE",
+      "count": 462
+    },
+    {
+      "term": "RASH",
+      "count": 461
+    },
+    {
+      "term": "HYPERAMMONAEMIC ENCEPHALOPATHY",
+      "count": 458
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 450
+    },
+    {
+      "term": "DRUG RESISTANCE",
+      "count": 445
+    },
+    {
+      "term": "ELECTROCARDIOGRAM QT PROLONGED",
+      "count": 444
+    },
+    {
+      "term": "GENERALISED TONIC-CLONIC SEIZURE",
+      "count": 431
+    },
+    {
+      "term": "COGNITIVE DISORDER",
+      "count": 423
+    }
+  ]
+}

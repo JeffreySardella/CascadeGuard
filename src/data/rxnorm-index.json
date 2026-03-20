@@ -1,0 +1,554 @@
+{
+  "lisinopril": {
+    "rxcui": "29046",
+    "drugClass": "Angiotensin-converting Enzyme Inhibitors"
+  },
+  "enalapril": {
+    "rxcui": "3827",
+    "drugClass": "Angiotensin-converting Enzyme Inhibitors"
+  },
+  "ramipril": {
+    "rxcui": "35296",
+    "drugClass": "Angiotensin-converting Enzyme Inhibitors"
+  },
+  "amlodipine": {
+    "rxcui": "17767",
+    "drugClass": "L-Calcium Channel Receptor Antagonists"
+  },
+  "nifedipine": {
+    "rxcui": "7417",
+    "drugClass": "L-Calcium Channel Receptor Antagonists"
+  },
+  "hydrochlorothiazide": {
+    "rxcui": "5487",
+    "drugClass": "Sodium Chloride Symporter Inhibitors"
+  },
+  "chlorthalidone": {
+    "rxcui": "2409",
+    "drugClass": "Sodium Chloride Symporter Inhibitors"
+  },
+  "metoclopramide": {
+    "rxcui": "6915",
+    "drugClass": "Dopamine Antagonists"
+  },
+  "ibuprofen": {
+    "rxcui": "5640",
+    "drugClass": "Cyclooxygenase Inhibitors"
+  },
+  "naproxen": {
+    "rxcui": "7258",
+    "drugClass": "Cyclooxygenase Inhibitors"
+  },
+  "celecoxib": {
+    "rxcui": "140587",
+    "drugClass": "Cyclooxygenase 2 Inhibitors"
+  },
+  "donepezil": {
+    "rxcui": "135447",
+    "drugClass": "Cholinesterase Inhibitors"
+  },
+  "rivastigmine": {
+    "rxcui": "183379",
+    "drugClass": "Cholinesterase Inhibitors"
+  },
+  "haloperidol": {
+    "rxcui": "5093",
+    "drugClass": "Dopamine Antagonists"
+  },
+  "risperidone": {
+    "rxcui": "35636",
+    "drugClass": "Adrenergic alpha-Antagonists"
+  },
+  "metoprolol": {
+    "rxcui": "6918",
+    "drugClass": "Adrenergic beta1-Antagonists"
+  },
+  "propranolol": {
+    "rxcui": "8787",
+    "drugClass": "Adrenergic beta1-Antagonists"
+  },
+  "amiodarone": {
+    "rxcui": "703",
+    "drugClass": "Calcium Channel Antagonists"
+  },
+  "oxycodone": {
+    "rxcui": "7804",
+    "drugClass": "Full Opioid Agonists"
+  },
+  "morphine": {
+    "rxcui": "7052",
+    "drugClass": "Opioid mu-Receptor Agonists"
+  },
+  "fluticasone": {
+    "rxcui": "41126",
+    "drugClass": "Glucocorticoid Receptor Agonists"
+  },
+  "budesonide": {
+    "rxcui": "19831",
+    "drugClass": "Glucocorticoid Receptor Agonists"
+  },
+  "gabapentin": {
+    "rxcui": "25480",
+    "drugClass": "Unknown Cellular or Molecular Interaction"
+  },
+  "pregabalin": {
+    "rxcui": "187832",
+    "drugClass": "Unknown Cellular or Molecular Interaction"
+  },
+  "prednisone": {
+    "rxcui": "8640",
+    "drugClass": "Lipoxygenase Inhibitors"
+  },
+  "dexamethasone": {
+    "rxcui": "3264",
+    "drugClass": "Lipoxygenase Inhibitors"
+  },
+  "atorvastatin": {
+    "rxcui": "83367",
+    "drugClass": "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+  },
+  "simvastatin": {
+    "rxcui": "36567",
+    "drugClass": "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+  },
+  "rosuvastatin": {
+    "rxcui": "301542",
+    "drugClass": "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+  },
+  "fluoxetine": {
+    "rxcui": "4493",
+    "drugClass": "Serotonin Uptake Inhibitors"
+  },
+  "sertraline": {
+    "rxcui": "36437",
+    "drugClass": "Serotonin Uptake Inhibitors"
+  },
+  "citalopram": {
+    "rxcui": "2556",
+    "drugClass": "Serotonin Uptake Inhibitors"
+  },
+  "diphenhydramine": {
+    "rxcui": "3498",
+    "drugClass": "Histamine H1 Receptor Antagonists"
+  },
+  "oxybutynin": {
+    "rxcui": "32675",
+    "drugClass": "Cholinergic Muscarinic Antagonists"
+  },
+  "amitriptyline": {
+    "rxcui": "704",
+    "drugClass": "Norepinephrine Uptake Inhibitors"
+  },
+  "pioglitazone": {
+    "rxcui": "33738",
+    "drugClass": "Insulin Receptor Agonists"
+  },
+  "rosiglitazone": {
+    "rxcui": "84108",
+    "drugClass": "Insulin Receptor Agonists"
+  },
+  "omeprazole": {
+    "rxcui": "7646",
+    "drugClass": "Proton Pump Inhibitors"
+  },
+  "pantoprazole": {
+    "rxcui": "40790",
+    "drugClass": "Proton Pump Inhibitors"
+  },
+  "aspirin": {
+    "rxcui": "1191",
+    "drugClass": "Cyclooxygenase Inhibitors"
+  },
+  "dextromethorphan": {
+    "rxcui": "3289",
+    "drugClass": "Serotonin Uptake Inhibitors"
+  },
+  "benzonatate": {
+    "rxcui": "18993",
+    "drugClass": "Sodium-Potassium Exchanging ATPase Interactions"
+  },
+  "codeine": {
+    "rxcui": "2670",
+    "drugClass": "Full Opioid Agonists"
+  },
+  "furosemide": {
+    "rxcui": "4603",
+    "drugClass": "Sodium Potassium Chloride Symporter Inhibitors"
+  },
+  "allopurinol": {
+    "rxcui": "519",
+    "drugClass": "Xanthine Oxidase Inhibitors"
+  },
+  "colchicine": {
+    "rxcui": "2683",
+    "drugClass": "Unknown Cellular or Molecular Interaction"
+  },
+  "levodopa": {
+    "rxcui": "6375",
+    "drugClass": "Dopamine Receptor Interactions"
+  },
+  "carbidopa": {
+    "rxcui": "2019",
+    "drugClass": "Enzyme Inhibitors"
+  },
+  "benztropine": {
+    "rxcui": "1424",
+    "drugClass": "Cholinergic Muscarinic Antagonists"
+  },
+  "trihexyphenidyl": {
+    "rxcui": "10811",
+    "drugClass": "Unknown Cellular or Molecular Interaction"
+  },
+  "levothyroxine": {
+    "rxcui": "10582",
+    "drugClass": "Thyroid Hormone Receptor Agonists"
+  },
+  "docusate": {
+    "rxcui": "82003",
+    "drugClass": "Surfactant Activity"
+  },
+  "senna": {
+    "rxcui": "36387",
+    "drugClass": null
+  },
+  "nystatin": {
+    "rxcui": "7597",
+    "drugClass": "Ergosterol Synthesis Inhibitors"
+  },
+  "fluconazole": {
+    "rxcui": "4450",
+    "drugClass": "14-alpha Demethylase Inhibitors"
+  },
+  "metformin": {
+    "rxcui": "6809",
+    "drugClass": "Insulin Receptor Agonists"
+  },
+  "insulin": {
+    "rxcui": "253182",
+    "drugClass": null
+  },
+  "glipizide": {
+    "rxcui": "4821",
+    "drugClass": "Insulin Receptor Agonists"
+  },
+  "acetaminophen": {
+    "rxcui": "161",
+    "drugClass": "Prostaglandin Receptor Antagonists"
+  },
+  "magnesium oxide": {
+    "rxcui": "6582",
+    "drugClass": "Enzyme Interactions"
+  },
+  "magnesium citrate": {
+    "rxcui": "52356",
+    "drugClass": "Stool Bulking Activity"
+  },
+  "tolterodine": {
+    "rxcui": "119565",
+    "drugClass": "Cholinergic Muscarinic Antagonists"
+  },
+  "methimazole": {
+    "rxcui": "6835",
+    "drugClass": "Organic Anion Transporter Interactions"
+  },
+  "propylthiouracil": {
+    "rxcui": "8794",
+    "drugClass": "Organic Anion Transporter Interactions"
+  },
+  "losartan": {
+    "rxcui": "52175",
+    "drugClass": "Angiotensin 2 Receptor Antagonists"
+  },
+  "valsartan": {
+    "rxcui": "69749",
+    "drugClass": "Angiotensin 2 Receptor Antagonists"
+  },
+  "ondansetron": {
+    "rxcui": "26225",
+    "drugClass": "Serotonin 5HT-3 Antagonists"
+  },
+  "digoxin": {
+    "rxcui": "3407",
+    "drugClass": "Enzyme Inhibitors"
+  },
+  "midodrine": {
+    "rxcui": "6963",
+    "drugClass": "Adrenergic alpha1-Agonists"
+  },
+  "carbamazepine": {
+    "rxcui": "2002",
+    "drugClass": "Sodium Channel Interactions"
+  },
+  "phenytoin": {
+    "rxcui": "8183",
+    "drugClass": "Sodium Channel Interactions"
+  },
+  "valproic acid": {
+    "rxcui": "11118",
+    "drugClass": "GABA A Receptor Interactions"
+  },
+  "lamotrigine": {
+    "rxcui": "28439",
+    "drugClass": "Dihydrofolate Reductase Inhibitors"
+  },
+  "olanzapine": {
+    "rxcui": "61381",
+    "drugClass": "GABA A Antagonists"
+  },
+  "quetiapine": {
+    "rxcui": "51272",
+    "drugClass": "Adrenergic alpha-Antagonists"
+  },
+  "aripiprazole": {
+    "rxcui": "89013",
+    "drugClass": "Serotonin Receptor Interactions"
+  },
+  "clozapine": {
+    "rxcui": "2626",
+    "drugClass": "Adrenergic alpha-Antagonists"
+  },
+  "diazepam": {
+    "rxcui": "3322",
+    "drugClass": "GABA A Modulators"
+  },
+  "lorazepam": {
+    "rxcui": "6470",
+    "drugClass": "GABA A Modulators"
+  },
+  "alprazolam": {
+    "rxcui": "596",
+    "drugClass": "GABA A Modulators"
+  },
+  "clonazepam": {
+    "rxcui": "2598",
+    "drugClass": "GABA A Modulators"
+  },
+  "galantamine": {
+    "rxcui": "4637",
+    "drugClass": "Cholinesterase Inhibitors"
+  },
+  "memantine": {
+    "rxcui": "6719",
+    "drugClass": "NMDA Receptor Antagonists"
+  },
+  "duloxetine": {
+    "rxcui": "72625",
+    "drugClass": "Norepinephrine Uptake Inhibitors"
+  },
+  "venlafaxine": {
+    "rxcui": "39786",
+    "drugClass": "Norepinephrine Uptake Inhibitors"
+  },
+  "nortriptyline": {
+    "rxcui": "7531",
+    "drugClass": "Norepinephrine Uptake Inhibitors"
+  },
+  "desipramine": {
+    "rxcui": "3247",
+    "drugClass": "Norepinephrine Uptake Inhibitors"
+  },
+  "flunarizine": {
+    "rxcui": "4459",
+    "drugClass": "Histamine H1 Receptor Antagonists"
+  },
+  "lithium": {
+    "rxcui": "6448",
+    "drugClass": "Serotonin Transporter Interactions"
+  },
+  "sitagliptin": {
+    "rxcui": "593411",
+    "drugClass": "Dipeptidyl Peptidase 4 Inhibitors"
+  },
+  "saxagliptin": {
+    "rxcui": "857974",
+    "drugClass": "Dipeptidyl Peptidase 4 Inhibitors"
+  },
+  "linagliptin": {
+    "rxcui": "1100699",
+    "drugClass": "Dipeptidyl Peptidase 4 Inhibitors"
+  },
+  "empagliflozin": {
+    "rxcui": "1545653",
+    "drugClass": "Sodium-Glucose Transporter 2 Inhibitors"
+  },
+  "dapagliflozin": {
+    "rxcui": "1488564",
+    "drugClass": "Sodium-Glucose Transporter 2 Inhibitors"
+  },
+  "canagliflozin": {
+    "rxcui": "1373458",
+    "drugClass": "Sodium-Glucose Transporter 2 Inhibitors"
+  },
+  "loperamide": {
+    "rxcui": "6468",
+    "drugClass": "Opioid Agonists"
+  },
+  "bismuth subsalicylate": {
+    "rxcui": "19478",
+    "drugClass": "Cyclooxygenase Inhibitors"
+  },
+  "promethazine": {
+    "rxcui": "8745",
+    "drugClass": "Histamine H1 Receptor Antagonists"
+  },
+  "prochlorperazine": {
+    "rxcui": "8704",
+    "drugClass": "Dopamine Antagonists"
+  },
+  "alendronate": {
+    "rxcui": "46041",
+    "drugClass": "Bone Surface Interactions"
+  },
+  "risedronate": {
+    "rxcui": "73056",
+    "drugClass": "Bone Surface Interactions"
+  },
+  "zoledronic acid": {
+    "rxcui": "77655",
+    "drugClass": "Bone Surface Interactions"
+  },
+  "sildenafil": {
+    "rxcui": "136411",
+    "drugClass": "Phosphodiesterase 5 Inhibitors"
+  },
+  "tadalafil": {
+    "rxcui": "358263",
+    "drugClass": "Phosphodiesterase 5 Inhibitors"
+  },
+  "tamsulosin": {
+    "rxcui": "77492",
+    "drugClass": "Adrenergic alpha1-Antagonists"
+  },
+  "doxazosin": {
+    "rxcui": "49276",
+    "drugClass": "Adrenergic alpha1-Antagonists"
+  },
+  "alfuzosin": {
+    "rxcui": "17300",
+    "drugClass": "Adrenergic alpha1-Antagonists"
+  },
+  "quinine": {
+    "rxcui": "9071",
+    "drugClass": "Nucleic Acid Synthesis Inhibitors"
+  },
+  "ferrous sulfate": {
+    "rxcui": "24947",
+    "drugClass": "Electrolyte Activity"
+  },
+  "fludrocortisone": {
+    "rxcui": "4452",
+    "drugClass": "Mineralocorticoid Receptor Agonists"
+  },
+  "erythromycin": {
+    "rxcui": "4053",
+    "drugClass": "Protein Synthesis Inhibitors"
+  },
+  "acitretin": {
+    "rxcui": "16818",
+    "drugClass": "Unknown Cellular or Molecular Interaction"
+  },
+  "meropenem": {
+    "rxcui": "29561",
+    "drugClass": "Transpeptidase Inhibitors"
+  },
+  "imipenem": {
+    "rxcui": "5690",
+    "drugClass": "Transpeptidase Inhibitors"
+  },
+  "methylprednisolone": {
+    "rxcui": "6902",
+    "drugClass": "Lipoxygenase Inhibitors"
+  },
+  "hydrocortisone": {
+    "rxcui": "5492",
+    "drugClass": "Lipoxygenase Inhibitors"
+  },
+  "meclizine": {
+    "rxcui": "6676",
+    "drugClass": "Cholinergic Muscarinic Antagonists"
+  },
+  "zolpidem": {
+    "rxcui": "39993",
+    "drugClass": "GABA A Modulators"
+  },
+  "eszopiclone": {
+    "rxcui": "461016",
+    "drugClass": null
+  },
+  "suvorexant": {
+    "rxcui": "1547099",
+    "drugClass": "Orexin Receptor Antagonists"
+  },
+  "pilocarpine": {
+    "rxcui": "8328",
+    "drugClass": "Cholinergic Muscarinic Agonists"
+  },
+  "solifenacin": {
+    "rxcui": "322167",
+    "drugClass": "Cholinergic Muscarinic Antagonists"
+  },
+  "darifenacin": {
+    "rxcui": "136198",
+    "drugClass": "Cholinergic Muscarinic Antagonists"
+  },
+  "fesoterodine": {
+    "rxcui": "797195",
+    "drugClass": "Cholinergic Muscarinic Antagonists"
+  },
+  "mirabegron": {
+    "rxcui": "1300786",
+    "drugClass": "Adrenergic beta3-Agonists"
+  },
+  "trazodone": {
+    "rxcui": "10737",
+    "drugClass": "Serotonin 5HT-3 Antagonists"
+  },
+  "mirtazapine": {
+    "rxcui": "15996",
+    "drugClass": "Serotonin 5HT-3 Antagonists"
+  },
+  "escitalopram": {
+    "rxcui": "321988",
+    "drugClass": "Serotonin Uptake Inhibitors"
+  },
+  "paroxetine": {
+    "rxcui": "32937",
+    "drugClass": "Serotonin Uptake Inhibitors"
+  },
+  "hydrocodone": {
+    "rxcui": "5489",
+    "drugClass": "Opioid mu-Receptor Agonists"
+  },
+  "tramadol": {
+    "rxcui": "10689",
+    "drugClass": "Full Opioid Agonists"
+  },
+  "fentanyl": {
+    "rxcui": "4337",
+    "drugClass": "Full Opioid Agonists"
+  },
+  "diclofenac": {
+    "rxcui": "3355",
+    "drugClass": "Cyclooxygenase Inhibitors"
+  },
+  "meloxicam": {
+    "rxcui": "41493",
+    "drugClass": "Cyclooxygenase Inhibitors"
+  },
+  "indomethacin": {
+    "rxcui": "5781",
+    "drugClass": "Cyclooxygenase Inhibitors"
+  },
+  "spironolactone": {
+    "rxcui": "9997",
+    "drugClass": "Aldosterone Antagonists"
+  },
+  "bumetanide": {
+    "rxcui": "1808",
+    "drugClass": "Sodium Potassium Chloride Symporter Inhibitors"
+  },
+  "torsemide": {
+    "rxcui": "38413",
+    "drugClass": "Sodium Potassium Chloride Symporter Inhibitors"
+  }
+}

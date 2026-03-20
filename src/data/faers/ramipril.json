@@ -1,0 +1,206 @@
+{
+  "drug": "ramipril",
+  "fetchedAt": "2026-03-20T06:02:28Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 8081
+    },
+    {
+      "term": "FATIGUE",
+      "count": 7877
+    },
+    {
+      "term": "NAUSEA",
+      "count": 7338
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 6912
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 6527
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 6516
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 6280
+    },
+    {
+      "term": "VOMITING",
+      "count": 6054
+    },
+    {
+      "term": "PAIN",
+      "count": 5655
+    },
+    {
+      "term": "HEADACHE",
+      "count": 5363
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 5292
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 5163
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 5045
+    },
+    {
+      "term": "MALAISE",
+      "count": 4937
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 4915
+    },
+    {
+      "term": "FALL",
+      "count": 4895
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 4780
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 4593
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 4535
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 4348
+    },
+    {
+      "term": "RASH",
+      "count": 4334
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4280
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4125
+    },
+    {
+      "term": "PYREXIA",
+      "count": 3949
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 3643
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 3529
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 3439
+    },
+    {
+      "term": "PRURITUS",
+      "count": 3365
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 3230
+    },
+    {
+      "term": "COUGH",
+      "count": 3219
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 3207
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 3175
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 3175
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 3140
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 3093
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 3075
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3027
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 2960
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 2941
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 2754
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 2747
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 2735
+    },
+    {
+      "term": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+      "count": 2659
+    },
+    {
+      "term": "SWELLING",
+      "count": 2649
+    },
+    {
+      "term": "PSORIATIC ARTHROPATHY",
+      "count": 2600
+    },
+    {
+      "term": "PEMPHIGUS",
+      "count": 2510
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 2503
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 2493
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 2477
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 2458
+    }
+  ]
+}

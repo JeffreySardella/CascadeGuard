@@ -1,0 +1,206 @@
+{
+  "drug": "phenytoin",
+  "fetchedAt": "2026-03-20T06:06:02Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4432
+    },
+    {
+      "term": "CONVULSION",
+      "count": 3521
+    },
+    {
+      "term": "SEIZURE",
+      "count": 3035
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 2231
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 1863
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1640
+    },
+    {
+      "term": "FALL",
+      "count": 1586
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1514
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 1349
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1294
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1273
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1272
+    },
+    {
+      "term": "STEVENS-JOHNSON SYNDROME",
+      "count": 1224
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1153
+    },
+    {
+      "term": "RASH",
+      "count": 1117
+    },
+    {
+      "term": "VOMITING",
+      "count": 1113
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 1086
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1031
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1010
+    },
+    {
+      "term": "STATUS EPILEPTICUS",
+      "count": 990
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 920
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 872
+    },
+    {
+      "term": "PAIN",
+      "count": 844
+    },
+    {
+      "term": "EPILEPSY",
+      "count": 812
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 808
+    },
+    {
+      "term": "DEATH",
+      "count": 805
+    },
+    {
+      "term": "TREMOR",
+      "count": 791
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 775
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 770
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 760
+    },
+    {
+      "term": "ATAXIA",
+      "count": 756
+    },
+    {
+      "term": "MALAISE",
+      "count": 736
+    },
+    {
+      "term": "DRUG REACTION WITH EOSINOPHILIA AND SYSTEMIC SYMPTOMS",
+      "count": 715
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 697
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 696
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 664
+    },
+    {
+      "term": "ANTICONVULSANT DRUG LEVEL INCREASED",
+      "count": 645
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 632
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 609
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 602
+    },
+    {
+      "term": "GRAND MAL CONVULSION",
+      "count": 585
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 578
+    },
+    {
+      "term": "GENERALISED TONIC-CLONIC SEIZURE",
+      "count": 576
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 571
+    },
+    {
+      "term": "ANTICONVULSANT DRUG LEVEL DECREASED",
+      "count": 568
+    },
+    {
+      "term": "ANXIETY",
+      "count": 567
+    },
+    {
+      "term": "PRURITUS",
+      "count": 550
+    },
+    {
+      "term": "DYSARTHRIA",
+      "count": 523
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 521
+    },
+    {
+      "term": "DRUG LEVEL DECREASED",
+      "count": 490
+    }
+  ]
+}

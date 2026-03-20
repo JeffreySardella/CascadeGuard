@@ -1,0 +1,206 @@
+{
+  "drug": "meropenem",
+  "fetchedAt": "2026-03-20T06:07:42Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4223
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 3137
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2090
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1434
+    },
+    {
+      "term": "SEPSIS",
+      "count": 1363
+    },
+    {
+      "term": "SEPTIC SHOCK",
+      "count": 1352
+    },
+    {
+      "term": "MULTIPLE ORGAN DYSFUNCTION SYNDROME",
+      "count": 1220
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1214
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1147
+    },
+    {
+      "term": "RESPIRATORY FAILURE",
+      "count": 1085
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 1076
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 1072
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1068
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 915
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 883
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 849
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 821
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 789
+    },
+    {
+      "term": "DRUG REACTION WITH EOSINOPHILIA AND SYSTEMIC SYMPTOMS",
+      "count": 781
+    },
+    {
+      "term": "DRUG RESISTANCE",
+      "count": 779
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 775
+    },
+    {
+      "term": "RASH",
+      "count": 758
+    },
+    {
+      "term": "PANCYTOPENIA",
+      "count": 742
+    },
+    {
+      "term": "NAUSEA",
+      "count": 689
+    },
+    {
+      "term": "VOMITING",
+      "count": 649
+    },
+    {
+      "term": "DEATH",
+      "count": 629
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 626
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 579
+    },
+    {
+      "term": "DRUG INEFFECTIVE FOR UNAPPROVED INDICATION",
+      "count": 564
+    },
+    {
+      "term": "PATHOGEN RESISTANCE",
+      "count": 523
+    },
+    {
+      "term": "PLATELET COUNT DECREASED",
+      "count": 519
+    },
+    {
+      "term": "INFECTION",
+      "count": 513
+    },
+    {
+      "term": "CARDIAC ARREST",
+      "count": 510
+    },
+    {
+      "term": "DISEASE PROGRESSION",
+      "count": 462
+    },
+    {
+      "term": "LEUKOPENIA",
+      "count": 420
+    },
+    {
+      "term": "CANDIDA INFECTION",
+      "count": 415
+    },
+    {
+      "term": "HEPATIC FUNCTION ABNORMAL",
+      "count": 407
+    },
+    {
+      "term": "ALANINE AMINOTRANSFERASE INCREASED",
+      "count": 401
+    },
+    {
+      "term": "TOXIC EPIDERMAL NECROLYSIS",
+      "count": 401
+    },
+    {
+      "term": "EOSINOPHILIA",
+      "count": 400
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 393
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 389
+    },
+    {
+      "term": "HYPOXIA",
+      "count": 376
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 375
+    },
+    {
+      "term": "C-REACTIVE PROTEIN INCREASED",
+      "count": 375
+    },
+    {
+      "term": "PLEURAL EFFUSION",
+      "count": 373
+    },
+    {
+      "term": "BLOOD CREATININE INCREASED",
+      "count": 368
+    },
+    {
+      "term": "BRONCHOPULMONARY ASPERGILLOSIS",
+      "count": 363
+    },
+    {
+      "term": "RASH MACULO-PAPULAR",
+      "count": 359
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 359
+    }
+  ]
+}

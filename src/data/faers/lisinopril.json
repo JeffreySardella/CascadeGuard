@@ -1,0 +1,206 @@
+{
+  "drug": "lisinopril",
+  "fetchedAt": "2026-03-20T06:02:19Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 19927
+    },
+    {
+      "term": "NAUSEA",
+      "count": 18607
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 17695
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 17297
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 14031
+    },
+    {
+      "term": "PAIN",
+      "count": 13727
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 13627
+    },
+    {
+      "term": "HEADACHE",
+      "count": 12996
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 10992
+    },
+    {
+      "term": "VOMITING",
+      "count": 10935
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 10686
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 9615
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 9546
+    },
+    {
+      "term": "FALL",
+      "count": 9188
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 9181
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 8808
+    },
+    {
+      "term": "RASH",
+      "count": 8507
+    },
+    {
+      "term": "MALAISE",
+      "count": 8429
+    },
+    {
+      "term": "DEATH",
+      "count": 8348
+    },
+    {
+      "term": "COUGH",
+      "count": 8270
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 8174
+    },
+    {
+      "term": "PRURITUS",
+      "count": 7961
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 7929
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 7746
+    },
+    {
+      "term": "ANXIETY",
+      "count": 7373
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 7259
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 6901
+    },
+    {
+      "term": "ANGIOEDEMA",
+      "count": 6850
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 6765
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 6677
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 6259
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 6104
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 6066
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 6005
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 5771
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 5739
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 5630
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 5624
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 5613
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 5545
+    },
+    {
+      "term": "PYREXIA",
+      "count": 5468
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 5466
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 5453
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 5399
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 5300
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 5256
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 5120
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 5079
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 4919
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 4903
+    }
+  ]
+}

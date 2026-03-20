@@ -1,0 +1,206 @@
+{
+  "drug": "escitalopram",
+  "fetchedAt": "2026-03-20T06:08:11Z",
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 9195
+    },
+    {
+      "term": "NAUSEA",
+      "count": 9160
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 8599
+    },
+    {
+      "term": "HEADACHE",
+      "count": 7116
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 6709
+    },
+    {
+      "term": "ANXIETY",
+      "count": 6443
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 6088
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 5979
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 5854
+    },
+    {
+      "term": "PAIN",
+      "count": 5647
+    },
+    {
+      "term": "FALL",
+      "count": 5400
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 5271
+    },
+    {
+      "term": "VOMITING",
+      "count": 5091
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 4377
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4352
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 3952
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3894
+    },
+    {
+      "term": "MALAISE",
+      "count": 3878
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 3755
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 3706
+    },
+    {
+      "term": "RASH",
+      "count": 3266
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 3236
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3231
+    },
+    {
+      "term": "TREMOR",
+      "count": 3209
+    },
+    {
+      "term": "DEATH",
+      "count": 3128
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 3103
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 3100
+    },
+    {
+      "term": "PRURITUS",
+      "count": 3052
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 2936
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2908
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 2903
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2830
+    },
+    {
+      "term": "COUGH",
+      "count": 2765
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 2731
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 2620
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 2486
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2388
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 2380
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 2369
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 2210
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 2210
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 2187
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 2153
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 2149
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 2090
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 2044
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 1949
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1943
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 1923
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 1905
+    }
+  ]
+}

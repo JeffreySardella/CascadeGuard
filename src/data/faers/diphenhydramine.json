@@ -1,0 +1,206 @@
+{
+  "drug": "diphenhydramine",
+  "fetchedAt": "2026-03-20T06:03:39Z",
+  "results": [
+    {
+      "term": "OFF LABEL USE",
+      "count": 18407
+    },
+    {
+      "term": "FATIGUE",
+      "count": 17405
+    },
+    {
+      "term": "NAUSEA",
+      "count": 15998
+    },
+    {
+      "term": "HEADACHE",
+      "count": 15295
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 14693
+    },
+    {
+      "term": "PAIN",
+      "count": 13693
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 11842
+    },
+    {
+      "term": "PRURITUS",
+      "count": 10581
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 10048
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 9814
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 9809
+    },
+    {
+      "term": "RASH",
+      "count": 9654
+    },
+    {
+      "term": "VOMITING",
+      "count": 9117
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 8959
+    },
+    {
+      "term": "PYREXIA",
+      "count": 8956
+    },
+    {
+      "term": "MALAISE",
+      "count": 8231
+    },
+    {
+      "term": "COUGH",
+      "count": 7767
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 7720
+    },
+    {
+      "term": "URTICARIA",
+      "count": 7421
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 7400
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 7395
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 6812
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 6690
+    },
+    {
+      "term": "ANXIETY",
+      "count": 6525
+    },
+    {
+      "term": "DEATH",
+      "count": 6354
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 6338
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 6244
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 6231
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 6137
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 6118
+    },
+    {
+      "term": "FALL",
+      "count": 5980
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 5912
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 5803
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 5739
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 5673
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 5612
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 5552
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 5202
+    },
+    {
+      "term": "INTENTIONAL PRODUCT USE ISSUE",
+      "count": 5040
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 4889
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 4841
+    },
+    {
+      "term": "COVID-19",
+      "count": 4758
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF PRODUCT ADMINISTRATION",
+      "count": 4639
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 4615
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 4497
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 4464
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 4346
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 4295
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 4228
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 4199
+    }
+  ]
+}

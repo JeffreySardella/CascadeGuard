@@ -1,0 +1,206 @@
+{
+  "drug": "dapagliflozin",
+  "fetchedAt": "2026-03-20T06:07:02Z",
+  "results": [
+    {
+      "term": "DEATH",
+      "count": 7135
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2405
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2379
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 2208
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 2194
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 2067
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2029
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1978
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1863
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 1772
+    },
+    {
+      "term": "VOMITING",
+      "count": 1768
+    },
+    {
+      "term": "DIABETIC KETOACIDOSIS",
+      "count": 1670
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1554
+    },
+    {
+      "term": "PAIN",
+      "count": 1447
+    },
+    {
+      "term": "MALAISE",
+      "count": 1443
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 1402
+    },
+    {
+      "term": "FUNGAL INFECTION",
+      "count": 1398
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 1365
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1337
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1257
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1232
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 1138
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 1106
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1087
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 1087
+    },
+    {
+      "term": "RASH",
+      "count": 1069
+    },
+    {
+      "term": "COVID-19",
+      "count": 1059
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 977
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 963
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 936
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 918
+    },
+    {
+      "term": "PYREXIA",
+      "count": 907
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 890
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 876
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 873
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 869
+    },
+    {
+      "term": "FALL",
+      "count": 852
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 849
+    },
+    {
+      "term": "RENAL IMPAIRMENT",
+      "count": 844
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 809
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 806
+    },
+    {
+      "term": "ANXIETY",
+      "count": 730
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 728
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 725
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 721
+    },
+    {
+      "term": "GLYCOSYLATED HAEMOGLOBIN INCREASED",
+      "count": 706
+    },
+    {
+      "term": "VISUAL IMPAIRMENT",
+      "count": 696
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 687
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 676
+    },
+    {
+      "term": "COUGH",
+      "count": 673
+    }
+  ]
+}

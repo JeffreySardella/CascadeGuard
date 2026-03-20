@@ -1,0 +1,206 @@
+{
+  "drug": "tramadol",
+  "fetchedAt": "2026-03-20T06:08:17Z",
+  "results": [
+    {
+      "term": "DEPENDENCE",
+      "count": 7820
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 3862
+    },
+    {
+      "term": "VOMITING",
+      "count": 3201
+    },
+    {
+      "term": "PAIN",
+      "count": 2924
+    },
+    {
+      "term": "NAUSEA",
+      "count": 2786
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 2546
+    },
+    {
+      "term": "HEADACHE",
+      "count": 2306
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2282
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2248
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2241
+    },
+    {
+      "term": "DRUG DEPENDENCE",
+      "count": 2167
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 2090
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1997
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 1960
+    },
+    {
+      "term": "MALAISE",
+      "count": 1894
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1888
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1886
+    },
+    {
+      "term": "DEATH",
+      "count": 1812
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 1780
+    },
+    {
+      "term": "WHEEZING",
+      "count": 1748
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1678
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1649
+    },
+    {
+      "term": "RASH",
+      "count": 1591
+    },
+    {
+      "term": "ASTHMA",
+      "count": 1558
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 1508
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1473
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 1447
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1441
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1419
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 1395
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 1364
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 1360
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 1341
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1340
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 1336
+    },
+    {
+      "term": "FIBROMYALGIA",
+      "count": 1309
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 1289
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 1277
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1276
+    },
+    {
+      "term": "ILL-DEFINED DISORDER",
+      "count": 1272
+    },
+    {
+      "term": "URTICARIA",
+      "count": 1270
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1257
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 1253
+    },
+    {
+      "term": "SWELLING",
+      "count": 1253
+    },
+    {
+      "term": "FALL",
+      "count": 1252
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1248
+    },
+    {
+      "term": "PSORIATIC ARTHROPATHY",
+      "count": 1244
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 1238
+    },
+    {
+      "term": "TYPE 2 DIABETES MELLITUS",
+      "count": 1237
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1233
+    }
+  ]
+}

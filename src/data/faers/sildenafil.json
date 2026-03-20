@@ -1,0 +1,206 @@
+{
+  "drug": "sildenafil",
+  "fetchedAt": "2026-03-20T06:07:20Z",
+  "results": [
+    {
+      "term": "DYSPNOEA",
+      "count": 13049
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 12626
+    },
+    {
+      "term": "HEADACHE",
+      "count": 9928
+    },
+    {
+      "term": "DEATH",
+      "count": 9001
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 6857
+    },
+    {
+      "term": "NAUSEA",
+      "count": 6338
+    },
+    {
+      "term": "FATIGUE",
+      "count": 6200
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5667
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 4873
+    },
+    {
+      "term": "COUGH",
+      "count": 4554
+    },
+    {
+      "term": "MALAISE",
+      "count": 4425
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 3827
+    },
+    {
+      "term": "VOMITING",
+      "count": 3725
+    },
+    {
+      "term": "PAIN",
+      "count": 3703
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 3687
+    },
+    {
+      "term": "FLUID RETENTION",
+      "count": 3343
+    },
+    {
+      "term": "PULMONARY ARTERIAL HYPERTENSION",
+      "count": 3290
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 3249
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 3187
+    },
+    {
+      "term": "FALL",
+      "count": 3063
+    },
+    {
+      "term": "ERECTION INCREASED",
+      "count": 3021
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 3021
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 2979
+    },
+    {
+      "term": "PULMONARY HYPERTENSION",
+      "count": 2967
+    },
+    {
+      "term": "FLUSHING",
+      "count": 2730
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 2703
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 2619
+    },
+    {
+      "term": "OXYGEN SATURATION DECREASED",
+      "count": 2502
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 2333
+    },
+    {
+      "term": "PYREXIA",
+      "count": 2303
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 2293
+    },
+    {
+      "term": "DYSPNOEA EXERTIONAL",
+      "count": 2244
+    },
+    {
+      "term": "NASAL CONGESTION",
+      "count": 2172
+    },
+    {
+      "term": "PAIN IN JAW",
+      "count": 2159
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 2125
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 2104
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 2055
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 2052
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 1973
+    },
+    {
+      "term": "ANXIETY",
+      "count": 1969
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 1902
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 1854
+    },
+    {
+      "term": "OEDEMA",
+      "count": 1828
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 1820
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 1795
+    },
+    {
+      "term": "CARDIAC FAILURE CONGESTIVE",
+      "count": 1741
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 1684
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 1663
+    },
+    {
+      "term": "RIGHT VENTRICULAR FAILURE",
+      "count": 1662
+    },
+    {
+      "term": "INFUSION SITE PAIN",
+      "count": 1661
+    }
+  ]
+}

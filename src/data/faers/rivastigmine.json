@@ -1,0 +1,206 @@
+{
+  "drug": "rivastigmine",
+  "fetchedAt": "2026-03-20T06:02:54Z",
+  "results": [
+    {
+      "term": "DEATH",
+      "count": 2213
+    },
+    {
+      "term": "FALL",
+      "count": 1711
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 1394
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 1295
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 925
+    },
+    {
+      "term": "VOMITING",
+      "count": 908
+    },
+    {
+      "term": "NAUSEA",
+      "count": 853
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 793
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 725
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 695
+    },
+    {
+      "term": "MALAISE",
+      "count": 664
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 660
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 659
+    },
+    {
+      "term": "FATIGUE",
+      "count": 656
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 629
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 624
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 600
+    },
+    {
+      "term": "TREMOR",
+      "count": 588
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 586
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 574
+    },
+    {
+      "term": "PARKINSON^S DISEASE",
+      "count": 572
+    },
+    {
+      "term": "DEMENTIA",
+      "count": 554
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 549
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 544
+    },
+    {
+      "term": "AGITATION",
+      "count": 541
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 518
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 505
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 454
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 449
+    },
+    {
+      "term": "COGNITIVE DISORDER",
+      "count": 436
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 433
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 427
+    },
+    {
+      "term": "DYSKINESIA",
+      "count": 416
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 406
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 397
+    },
+    {
+      "term": "ANXIETY",
+      "count": 390
+    },
+    {
+      "term": "HALLUCINATION, VISUAL",
+      "count": 387
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 385
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 379
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 365
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 364
+    },
+    {
+      "term": "DISORIENTATION",
+      "count": 358
+    },
+    {
+      "term": "ABNORMAL BEHAVIOUR",
+      "count": 355
+    },
+    {
+      "term": "SPEECH DISORDER",
+      "count": 341
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 333
+    },
+    {
+      "term": "ON AND OFF PHENOMENON",
+      "count": 317
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 314
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 312
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 310
+    },
+    {
+      "term": "DELIRIUM",
+      "count": 309
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "genericName": "ibuprofen",
+  "rxcui": "5640",
+  "drugClass": "Cyclooxygenase Inhibitors",
+  "brandNames": [
+    "Duexis",
+    "Proprinal",
+    "Ibudone",
+    "Advil",
+    "Xylon",
+    "Motrin",
+    "Genpril",
+    "Ibu",
+    "Vicoprofen",
+    "Combogesic",
+    "Samson 8",
+    "Reprexain",
+    "Neoprofen",
+    "Wal-Profen",
+    "Ibuprohm",
+    "Caldolor",
+    "Motrin PM",
+    "Addaprin"
+  ],
+  "fetchedAt": "2026-03-20T06:02:34Z"
+}

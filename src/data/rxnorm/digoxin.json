@@ -1,0 +1,11 @@
+{
+  "genericName": "digoxin",
+  "rxcui": "3407",
+  "drugClass": "Enzyme Inhibitors",
+  "brandNames": [
+    "Digox",
+    "Lanoxin",
+    "Digitek"
+  ],
+  "fetchedAt": "2026-03-20T06:05:54Z"
+}

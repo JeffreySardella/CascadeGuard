@@ -1,0 +1,206 @@
+{
+  "drug": "pantoprazole",
+  "fetchedAt": "2026-03-20T06:03:51Z",
+  "results": [
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 29210
+    },
+    {
+      "term": "FATIGUE",
+      "count": 23644
+    },
+    {
+      "term": "NAUSEA",
+      "count": 21671
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 21055
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 20148
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 19828
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 19398
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 19205
+    },
+    {
+      "term": "PAIN",
+      "count": 18593
+    },
+    {
+      "term": "HEADACHE",
+      "count": 15480
+    },
+    {
+      "term": "VOMITING",
+      "count": 14872
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 14653
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 13601
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 13457
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 12861
+    },
+    {
+      "term": "PYREXIA",
+      "count": 12643
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 12412
+    },
+    {
+      "term": "DEATH",
+      "count": 11496
+    },
+    {
+      "term": "RASH",
+      "count": 11477
+    },
+    {
+      "term": "FALL",
+      "count": 10574
+    },
+    {
+      "term": "MALAISE",
+      "count": 10308
+    },
+    {
+      "term": "PRURITUS",
+      "count": 9830
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 9792
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 9636
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 9480
+    },
+    {
+      "term": "END STAGE RENAL DISEASE",
+      "count": 8848
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 8721
+    },
+    {
+      "term": "COUGH",
+      "count": 8601
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 8543
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 8450
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 8361
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 8218
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 7994
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 7937
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 7859
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 7475
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 7473
+    },
+    {
+      "term": "RENAL INJURY",
+      "count": 7368
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 7342
+    },
+    {
+      "term": "ANXIETY",
+      "count": 7287
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 7263
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 7209
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 7170
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 7056
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 6959
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 6886
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 6839
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 6726
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 6579
+    },
+    {
+      "term": "INFECTION",
+      "count": 6421
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "drug": "paroxetine",
+  "fetchedAt": "2026-03-20T06:08:13Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 6207
+    },
+    {
+      "term": "DRUG WITHDRAWAL SYNDROME",
+      "count": 6197
+    },
+    {
+      "term": "NAUSEA",
+      "count": 6068
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 5411
+    },
+    {
+      "term": "ANXIETY",
+      "count": 5355
+    },
+    {
+      "term": "FATIGUE",
+      "count": 5340
+    },
+    {
+      "term": "HEADACHE",
+      "count": 4764
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 4270
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 3848
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 3826
+    },
+    {
+      "term": "VOMITING",
+      "count": 3236
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 3198
+    },
+    {
+      "term": "DRUG EXPOSURE DURING PREGNANCY",
+      "count": 3193
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 3132
+    },
+    {
+      "term": "PAIN",
+      "count": 3087
+    },
+    {
+      "term": "TREMOR",
+      "count": 3059
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 3039
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 2984
+    },
+    {
+      "term": "FALL",
+      "count": 2832
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 2826
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 2773
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 2708
+    },
+    {
+      "term": "PARAESTHESIA",
+      "count": 2698
+    },
+    {
+      "term": "FOETAL EXPOSURE DURING PREGNANCY",
+      "count": 2631
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 2495
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2418
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 2363
+    },
+    {
+      "term": "MALAISE",
+      "count": 2363
+    },
+    {
+      "term": "AGITATION",
+      "count": 2219
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 2027
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 2014
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 1956
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 1854
+    },
+    {
+      "term": "SUICIDE ATTEMPT",
+      "count": 1812
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1786
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 1756
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 1756
+    },
+    {
+      "term": "DEATH",
+      "count": 1744
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 1730
+    },
+    {
+      "term": "RASH",
+      "count": 1710
+    },
+    {
+      "term": "AGGRESSION",
+      "count": 1667
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1572
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1557
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 1552
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 1542
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 1527
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 1515
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 1487
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 1468
+    },
+    {
+      "term": "DISTURBANCE IN ATTENTION",
+      "count": 1461
+    }
+  ]
+}

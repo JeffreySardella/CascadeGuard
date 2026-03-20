@@ -1,0 +1,206 @@
+{
+  "drug": "oxybutynin",
+  "fetchedAt": "2026-03-20T06:03:41Z",
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 4580
+    },
+    {
+      "term": "FATIGUE",
+      "count": 2210
+    },
+    {
+      "term": "FALL",
+      "count": 2022
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1762
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 1583
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 1556
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 1551
+    },
+    {
+      "term": "PAIN",
+      "count": 1524
+    },
+    {
+      "term": "HEADACHE",
+      "count": 1505
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 1462
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 1256
+    },
+    {
+      "term": "PRURITUS",
+      "count": 1190
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 1103
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 1053
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 1043
+    },
+    {
+      "term": "MALAISE",
+      "count": 1016
+    },
+    {
+      "term": "RASH",
+      "count": 1000
+    },
+    {
+      "term": "VOMITING",
+      "count": 939
+    },
+    {
+      "term": "DEATH",
+      "count": 938
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 918
+    },
+    {
+      "term": "APPLICATION SITE ERYTHEMA",
+      "count": 916
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 861
+    },
+    {
+      "term": "DRY MOUTH",
+      "count": 860
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 833
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 814
+    },
+    {
+      "term": "PRODUCT ADHESION ISSUE",
+      "count": 780
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 768
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 746
+    },
+    {
+      "term": "PYREXIA",
+      "count": 742
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 738
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 733
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 724
+    },
+    {
+      "term": "ANXIETY",
+      "count": 690
+    },
+    {
+      "term": "DRUG EFFECT DECREASED",
+      "count": 665
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 661
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 657
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 644
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 633
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 631
+    },
+    {
+      "term": "COUGH",
+      "count": 628
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 616
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 614
+    },
+    {
+      "term": "APPLICATION SITE PRURITUS",
+      "count": 603
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 593
+    },
+    {
+      "term": "MULTIPLE SCLEROSIS RELAPSE",
+      "count": 584
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 564
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 560
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 552
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 539
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 535
+    }
+  ]
+}
