@@ -146,7 +146,7 @@ export default function CascadeVisualization({
         maxZoom={2}
       >
         <Background />
-        <Controls />
+        <Controls showInteractive={false} />
       </ReactFlow>
     </div>
   );

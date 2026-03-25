@@ -64,7 +64,7 @@ export default function DoctorCard({ result }: DoctorCardProps) {
         doc.setFont('helvetica', 'bold');
         doc.setFontSize(11);
         doc.text(
-          `${cascade.drugA.genericName} → ${cascade.pattern.sideEffect} → ${cascade.drugB.genericName}`,
+          `${cascade.drugA.genericName} > ${cascade.pattern.sideEffect} > ${cascade.drugB.genericName}`,
           25,
           y
         );
@@ -101,7 +101,7 @@ export default function DoctorCard({ result }: DoctorCardProps) {
       doc.setFont('helvetica', 'normal');
       doc.setFontSize(10);
       for (const chain of result.chains) {
-        doc.text(`• ${chain.description} (${chain.depth}-drug chain)`, 25, y);
+        doc.text(`• ${chain.description.replace(/→/g, '>')} (${chain.depth}-drug chain)`, 25, y);
         y += 6;
       }
     }
