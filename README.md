@@ -2,7 +2,7 @@
 
 **Are your medications treating side effects of each other?**
 
-CascadeGuard detects prescribing cascades — when Drug B was prescribed to treat a side effect of Drug A — by analyzing a patient's medication list against 65 expert-validated patterns and 28 million FDA drug-adverse event pairs. Built for Hornet Hacks 4.0 (March 20-22, 2026) by Team Bitme.
+CascadeGuard detects prescribing cascades — when Drug B was prescribed to treat a side effect of Drug A — by analyzing a patient's medication list against 65 expert-validated patterns and 28 million FDA drug-adverse event pairs.
 
 ---
 
