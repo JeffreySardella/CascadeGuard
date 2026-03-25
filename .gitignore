@@ -9,6 +9,10 @@ node_modules/
 # Build artifacts
 *.tsbuildinfo
 next-env.d.ts
+out/
+
+# Prebuild data copy (derived from src/data/)
+public/data/
 
 # OS files
 .DS_Store

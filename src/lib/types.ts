@@ -1,6 +1,5 @@
 /**
  * Shared TypeScript types for CascadeGuard
- * Used by both frontend and backend
  */
 
 export interface CascadePattern {
@@ -51,14 +50,11 @@ export interface AnalysisResult {
   cascades: DetectedCascade[];
   chains: CascadeChain[];
   impactStatement: string;
-  aiExplanation: string;
   summary: {
     totalMedications: number;
     cascadesDetected: number;
     chainsDetected: number;
     maxChainDepth: number;
     drugsInCascades: number;
-    legitimateDrugs: string[];
-    potentialReduction: string;
   };
 }

@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "prebuild": "node scripts/copy-data.js",
+    "dev": "node scripts/copy-data.js && next dev",
+    "build": "node scripts/copy-data.js && next build",
     "start": "next start"
   },
   "dependencies": {
@@ -15,8 +16,7 @@
     "framer-motion": "^11.0.0",
     "fuse.js": "^7.0.0",
     "jspdf": "^2.5.0",
-    "lucide-react": "^0.400.0",
-    "@google/generative-ai": "^0.21.0"
+    "lucide-react": "^0.400.0"
   },
   "devDependencies": {
     "typescript": "^5.5.0",

@@ -1,16 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // PWA headers for Add to Home Screen
-  async headers() {
-    return [
-      {
-        source: '/(.*)',
-        headers: [
-          { key: 'X-Content-Type-Options', value: 'nosniff' },
-          { key: 'X-Frame-Options', value: 'DENY' },
-        ],
-      },
-    ];
+  output: 'export',
+  images: {
+    unoptimized: true,
   },
 };
 
