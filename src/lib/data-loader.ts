@@ -20,6 +20,7 @@ interface FaersData {
 let patternsCache: CascadePattern[] | null = null;
 let rxnormIndexCache: Record<string, RxNormIndexEntry> | null = null;
 let displayNamesCache: string[] | null = null;
+let brandMapCache: Record<string, string> | null = null;
 const faersCache: Record<string, FaersResult[]> = {};
 
 export async function loadPatterns(): Promise<CascadePattern[]> {
@@ -42,6 +43,13 @@ export async function loadDisplayNames(): Promise<string[]> {
   const res = await fetch('/data/rxnorm-displaynames.json');
   displayNamesCache = await res.json();
   return displayNamesCache!;
+}
+
+export async function loadBrandToGeneric(): Promise<Record<string, string>> {
+  if (brandMapCache) return brandMapCache;
+  const res = await fetch('/data/brand-to-generic.json');
+  brandMapCache = await res.json();
+  return brandMapCache!;
 }
 
 export async function loadFaersData(genericName: string): Promise<FaersResult[]> {

@@ -84,10 +84,10 @@ export default function DoctorCard({ result }: DoctorCardProps) {
           y += 5;
         }
 
-        doc.text(`Recommendation: ${cascade.pattern.recommendation}`, 30, y, {
-          maxWidth: pageWidth - 55,
-        });
-        y += 10;
+        const recText = `Recommendation: ${cascade.pattern.recommendation}`;
+        const recLines = doc.splitTextToSize(recText, pageWidth - 55);
+        doc.text(recLines, 30, y);
+        y += recLines.length * 4 + 6;
       }
     }
 

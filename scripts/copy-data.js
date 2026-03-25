@@ -27,6 +27,7 @@ const filesToCopy = [
   'pipc-patterns.json',
   'rxnorm-index.json',
   'rxnorm-displaynames.json',
+  'brand-to-generic.json',
 ];
 
 fs.mkdirSync(DEST, { recursive: true });

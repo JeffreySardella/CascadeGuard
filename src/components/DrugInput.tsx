@@ -4,7 +4,7 @@ import { useState, useRef, useEffect, useCallback } from 'react';
 import Fuse from 'fuse.js';
 import { X, Search } from 'lucide-react';
 import type { NormalizedMedication } from '@/lib/types';
-import { loadDisplayNames, loadRxNormIndex } from '@/lib/data-loader';
+import { loadDisplayNames, loadRxNormIndex, loadBrandToGeneric } from '@/lib/data-loader';
 
 interface DrugInputProps {
   onMedicationsChange: (meds: NormalizedMedication[]) => void;
@@ -20,18 +20,21 @@ export default function DrugInput({ onMedicationsChange, onUnmatchedChange, medi
   const [isOpen, setIsOpen] = useState(false);
   const [fuse, setFuse] = useState<Fuse<string> | null>(null);
   const [rxnormIndex, setRxnormIndex] = useState<Record<string, { rxcui: string; drugClass: string }> | null>(null);
+  const [brandMap, setBrandMap] = useState<Record<string, string> | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const listRef = useRef<HTMLUListElement>(null);
 
   // Load data on mount
   useEffect(() => {
     async function init() {
-      const [names, index] = await Promise.all([
+      const [names, index, brands] = await Promise.all([
         loadDisplayNames(),
         loadRxNormIndex(),
+        loadBrandToGeneric(),
       ]);
       setFuse(new Fuse(names, { threshold: 0.3 }));
       setRxnormIndex(index);
+      setBrandMap(brands);
     }
     init();
   }, []);
@@ -73,6 +76,21 @@ export default function DrugInput({ onMedicationsChange, onUnmatchedChange, medi
         drugClass: entry.drugClass,
         brandNames: [],
       };
+    }
+
+    // Brand name → generic name lookup
+    if (brandMap) {
+      const generic = brandMap[lower];
+      if (generic && rxnormIndex[generic]) {
+        const genericEntry = rxnormIndex[generic];
+        return {
+          rawInput: displayName,
+          genericName: generic,
+          rxcui: genericEntry.rxcui,
+          drugClass: genericEntry.drugClass,
+          brandNames: [displayName],
+        };
+      }
     }
 
     return null;
